@@ -1,0 +1,2200 @@
+[
+  {
+    "file_name": "0002.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit allen!"
+      ]
+    }
+  },
+  {
+    "file_name": "0003.jpg",
+    "entities": {
+      "DATE": "19.11.2023",
+      "TIME": "18:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit den Opfern des deutschen Antisemitismus und Rassismus!"
+    }
+  },
+  {
+    "file_name": "0006.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "EVENT": "Demonstration",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0007.jpg",
+    "entities": {
+      "DATE": "9. Mai 2024",
+      "TIME": "13h",
+      "EVENT": "Demo",
+      "TOPIC": "Herrentag Tag der Befreiung!"
+    }
+  },
+  {
+    "file_name": "0009.jpg",
+    "entities": {
+      "LOC": [
+        "Burggasse 71"
+      ],
+      "DATE": "10. Mai 2022",
+      "TIME": "19:30 Uhr",
+      "EVENT": "Ateliertheater",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0010.jpg",
+    "entities": {
+      "DATE": "02.05.2020",
+      "TIME": "15:30 Uhr",
+      "EVENT": "Meditation",
+      "TOPIC": "REWE BLIESKASTEL"
+    }
+  },
+  {
+    "file_name": "0012.jpg",
+    "entities": {
+      "DATE": "29. August 2020",
+      "TIME": "19 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0013.jpg",
+    "entities": {
+      "LOC": [
+        "BERLIN"
+      ],
+      "DATE": [
+        "19. FEB",
+        "9. Nov.",
+        "8. Aug. 2021"
+      ],
+      "TIME": [
+        "19 Uhr",
+        "18:00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Solidarität"
+      ]
+    }
+  },
+  {
+    "file_name": "0014.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "19 Uhr",
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": "Solidarität mit Solidarität"
+    }
+  },
+  {
+    "file_name": "0015.jpg",
+    "entities": {
+      "DATE": "28. JUNI RAVE DEMO BASS GEGEN HASS 19 UHR",
+      "TIME": "19 Uhr",
+      "EVENT": "Demonstration",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0016.jpg",
+    "entities": {
+      "DATE": "16.11.2024",
+      "EVENT": "Kundgebung"
+    }
+  },
+  {
+    "file_name": "0017.jpg",
+    "entities": {
+      "DATE": "08.05.2021",
+      "TIME": "10:00–18:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit Sowjetland"
+    }
+  },
+  {
+    "file_name": "0018.jpeg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "29. JANUAR 2022"
+      ],
+      "TIME": [
+        "14.00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung & Aufgung"
+      ],
+      "TOPIC": [
+        "Nein zur Impfpflicht"
+      ]
+    }
+  },
+  {
+    "file_name": "0019.jpg",
+    "entities": {
+      "LOC": [
+        "BRENNER-BERG ZWISCHEN"
+      ],
+      "DATE": [
+        "12.12."
+      ],
+      "TIME": [
+        "15:50 Uhr",
+        "16:50 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Arbeiterin"
+      ]
+    }
+  },
+  {
+    "file_name": "0020.jpg",
+    "entities": {
+      "DATE": "06.09.2020",
+      "TIME": "15:30 Uhr",
+      "EVENT": "Demonstration",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0022.jpg",
+    "entities": {
+      "DATE": "13.08.2022",
+      "TIME": "14.00 Uhr",
+      "EVENT": "Demonstration",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0024.jpg",
+    "entities": {
+      "DATE": "16.02.2017",
+      "TIME": "16:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit Frauen"
+    }
+  },
+  {
+    "file_name": "0025.jpg",
+    "entities": {
+      "LOC": [
+        "Hauptbahnhof SWICKAU"
+      ],
+      "DATE": [
+        "17.08."
+      ],
+      "TIME": [
+        "13:30 Uhr"
+      ],
+      "EVENT": [
+        "Hauptbahnhof"
+      ],
+      "TOPIC": [
+        "Landtagswahlen"
+      ]
+    }
+  },
+  {
+    "file_name": "0026.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "21.07.2024"
+      ],
+      "TIME": [
+        "13:00 Uhr"
+      ],
+      "EVENT": [
+        "EINTRITT FREI!"
+      ],
+      "TOPIC": [
+        "Kultur & Strasse FESTIVAL"
+      ]
+    }
+  },
+  {
+    "file_name": "0027.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Solidarität"
+      ]
+    }
+  },
+  {
+    "file_name": "0028.jpg",
+    "entities": {
+      "LOC": [
+        "Dresden"
+      ],
+      "DATE": [
+        "20.6."
+      ],
+      "TIME": [
+        "16.30 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0030.jpg",
+    "entities": {
+      "DATE": "13.6.2021",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0031.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "14.10.2021"
+      ],
+      "TIME": [
+        "18 Uhr"
+      ],
+      "EVENT": [
+        "DEMO"
+      ],
+      "TOPIC": [
+        "#køpibleibt"
+      ]
+    }
+  },
+  {
+    "file_name": "0035.jpg",
+    "entities": {
+      "DATE": "17.02.2024",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0036.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "19:00 Uhr"
+      ],
+      "EVENT": [
+        "Party + Live Band"
+      ],
+      "TOPIC": [
+        "Limited Booze Boys FREITAG"
+      ]
+    }
+  },
+  {
+    "file_name": "0037.jpeg",
+    "entities": {
+      "DATE": "18. MÄRZ",
+      "TIME": "18:00 Uhr",
+      "EVENT": "Demo",
+      "TOPIC": "FREENANUK"
+    }
+  },
+  {
+    "file_name": "0039.jpeg",
+    "entities": {
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0040.jpeg",
+    "entities": {
+      "LOC": [
+        "Mühlstrasse 14 e.V."
+      ],
+      "DATE": [
+        "01. März 2025"
+      ],
+      "TIME": [
+        "12 - 0 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Sollen wir Man hören!"
+      ]
+    }
+  },
+  {
+    "file_name": "0043.jpg",
+    "entities": {
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Solidarität"
+      ]
+    }
+  },
+  {
+    "file_name": "0044.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "14:30 Uhr",
+      "EVENT": "Antikörper",
+      "TOPIC": "Willy-Brandt-Platz UNSERE DEMOKRATIE IST INFIZIERT!"
+    }
+  },
+  {
+    "file_name": "0045.jpeg",
+    "entities": {
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0047.jpg",
+    "entities": {
+      "DATE": "28.09.2024",
+      "TIME": "18.30 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "15 JAHRE JUBILÄUMSSHOW GOITZSCHE FRONT WILLKUER Berserker Berlin UBER EATS MUSIC HALL BERLIN"
+    }
+  },
+  {
+    "file_name": "0049.jpg",
+    "entities": {
+      "DATE": "21.12.2024",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0051.jpg",
+    "entities": {
+      "DATE": "29.12.2023",
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Menschen mit Fuchsgenschichtern"
+      ]
+    }
+  },
+  {
+    "file_name": "0054.jpg",
+    "entities": {
+      "LOC": [
+        "MAGISCHES FÜRSTENFELD"
+      ],
+      "DATE": [
+        "05. + 06. Januar 2025"
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Zaubervarieté"
+      ],
+      "TOPIC": [
+        "Janis von dem Borne"
+      ]
+    }
+  },
+  {
+    "file_name": "0055.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "19 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit Frauen auf der Flucht"
+    }
+  },
+  {
+    "file_name": "0057.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "EVENT": "Veranstaltung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0059.jpg",
+    "entities": {
+      "LOC": [
+        "KFA Moabit FLINTA* Stand Up Comedy Berlin"
+      ],
+      "DATE": [
+        "08. März, 19 Uhr"
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kennen",
+        "Entertainment"
+      ],
+      "TOPIC": [
+        "Solidarität mit dem Menschen"
+      ]
+    }
+  },
+  {
+    "file_name": "0060.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "20.12 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0061.jpg",
+    "entities": {
+      "DATE": "01.10.2020",
+      "TIME": "10:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0062.jpg",
+    "entities": {
+      "LOC": [
+        "B!M Kulturzentrum SEI DABEI! LESECLUB HORIZONTE ERWEITERN WELTEN ERLESEN"
+      ],
+      "DATE": [
+        "14.12."
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Kindern"
+      ]
+    }
+  },
+  {
+    "file_name": "0063.jpg",
+    "entities": {
+      "DATE": "17.03.2021",
+      "TIME": "17:30 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "solidarität mit Gas zerlegt"
+    }
+  },
+  {
+    "file_name": "0064.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "2023-07-01"
+      ],
+      "TIME": [
+        "14:00-18:00"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "solidarität"
+      ]
+    }
+  },
+  {
+    "file_name": "0066.jpg",
+    "entities": {
+      "LOC": [
+        "HocusPocus Fürstenfeld"
+      ],
+      "DATE": [
+        "2022-05-11",
+        "2022-05-12",
+        "2022-05-13"
+      ],
+      "TIME": [
+        "19:00 Uhr",
+        "18:00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0071.jpg",
+    "entities": {
+      "LOC": [
+        "Brandenburger Tor"
+      ],
+      "DATE": [
+        "29. August 2020"
+      ],
+      "TIME": [
+        "11:00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Freedom Parade No11"
+      ]
+    }
+  },
+  {
+    "file_name": "0072.jpg",
+    "entities": {
+      "LOC": [
+        "Ried"
+      ],
+      "DATE": [
+        "14.02.2024"
+      ],
+      "TIME": [
+        "16:30"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Zusamenhalten gegen Rechts"
+      ]
+    }
+  },
+  {
+    "file_name": "0073.jpeg",
+    "entities": {
+      "LOC": [
+        "Rigaer Straße 94"
+      ],
+      "DATE": [
+        "02.03."
+      ],
+      "TIME": [
+        "12⁰⁰ - 17⁰⁰"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Demografie"
+      ]
+    }
+  },
+  {
+    "file_name": "0074.jpg",
+    "entities": {
+      "DATE": "16. November 2024",
+      "TIME": "13:00–18:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Zero Waste Future Festival Null Verschwendung"
+    }
+  },
+  {
+    "file_name": "0075.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "26. April"
+      ],
+      "TIME": [
+        "14:00 - 19:30"
+      ],
+      "EVENT": [
+        "Event"
+      ],
+      "TOPIC": [
+        "Solidarität mit Kindern"
+      ]
+    }
+  },
+  {
+    "file_name": "0078.png",
+    "entities": {
+      "DATE": "21.12.",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit Solidarität"
+    }
+  },
+  {
+    "file_name": "0081.jpg",
+    "entities": {
+      "DATE": "21.04.23",
+      "TIME": "14–19 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0082.jpg",
+    "entities": {
+      "DATE": "24.02.",
+      "TIME": "14:00 Uhr",
+      "TOPIC": "Der Görli bleibt auf!"
+    }
+  },
+  {
+    "file_name": "0086.jpg",
+    "entities": {
+      "DATE": "08.08.",
+      "TIME": "16-18 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0089.jpeg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "15:30 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0090.jpeg",
+    "entities": {
+      "DATE": "20.11.2021",
+      "TOPIC": "ALL WEILIGHEIT & SOLIDARITÄT"
+    }
+  },
+  {
+    "file_name": "0093.jpg",
+    "entities": {
+      "LOC": [
+        "KIEZKLUB Rathaus Johannisthal Sterndamm 102, 12487 BERLIN"
+      ],
+      "DATE": [
+        "2021-09-03"
+      ],
+      "TIME": [
+        "14:00 Uhr"
+      ],
+      "EVENT": [
+        "INTERESSANTE MARKTSTÄNDE, KINDERSCHMINKEN, KINDERBASTELN, HÜPFBURG, TEDDYAMBULANZ GLASKUNST MIT VORFÜHRUNG, 3D-DRUCK ESSEN UND TRINKEN DUO CHARLSON & LUIS (BRA) SAMBA, CHORO, BOSA NOVA HARTMUT HAKER VON TANZBAR BIS SWINGEND RAINER HERZOG VON GESCHICHTE ZU GESCHICHTE JEDE MENGE KINDERLIEDER DIE HOBBYSTEPPER, MONIKAS TANZMIX, DJ DER CHOR DER FRÖHLICHEN SÄNGER VON JOHANNISTHAL"
+      ],
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0096.jpg",
+    "entities": {
+      "LOC": "Rosa-Luxemburg-Platz",
+      "DATE": "25. April",
+      "TIME": "19 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "René"
+    }
+  },
+  {
+    "file_name": "0097.jpg",
+    "entities": {
+      "DATE": "13.12.2024",
+      "TIME": "20 Uhr",
+      "TOPIC": "About Blank"
+    }
+  },
+  {
+    "file_name": "0098.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "2023-10-02"
+      ],
+      "TIME": [
+        "18:00"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Benefizorganisationen"
+      ]
+    }
+  },
+  {
+    "file_name": "0100.jpg",
+    "entities": {
+      "LOC": "FAMILIEN-FLOHMARKT",
+      "DATE": "25.05.24",
+      "TIME": "10 - 14 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0101.jpg",
+    "entities": {
+      "LOC": [
+        "Alt-Hohenschönhausen Suermondtstraße 46"
+      ],
+      "DATE": [
+        "28. Mai 2021"
+      ],
+      "TIME": [
+        "17 Uhr"
+      ],
+      "EVENT": [
+        "Strolpersteinverlegung"
+      ],
+      "TOPIC": [
+        "Solidarität mit der Gemeinschaft"
+      ]
+    }
+  },
+  {
+    "file_name": "0103.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "17.05.2020"
+      ],
+      "TIME": [
+        "14–18 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Mariannenplatz"
+      ]
+    }
+  },
+  {
+    "file_name": "0106.jpg",
+    "entities": {
+      "LOC": [
+        "Rosa-Luxemburg-Platz",
+        ""
+      ],
+      "DATE": [
+        "21.12.",
+        ""
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0108.jpg",
+    "entities": {
+      "LOC": "Rosa- Luxemburg- Platz",
+      "DATE": "30.06.18",
+      "TIME": "19 Uhr",
+      "EVENT": "Konzert",
+      "TOPIC": "Solidarität mit der Musik"
+    }
+  },
+  {
+    "file_name": "0110.jpg",
+    "entities": {
+      "DATE": "2.9.",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0111.jpg",
+    "entities": {
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0112.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "20.09.19"
+      ],
+      "TIME": [
+        "15:00 Uhr"
+      ],
+      "EVENT": [
+        "Freitag"
+      ],
+      "TOPIC": [
+        "Global Strike"
+      ]
+    }
+  },
+  {
+    "file_name": "0114.jpg",
+    "entities": {
+      "DATE": "15.07.23",
+      "TIME": "15:07",
+      "EVENT": "Show",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0115.jpg",
+    "entities": {
+      "DATE": "16.11.2024",
+      "TIME": "20 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": " soliparty gegen das klima der angst"
+    }
+  },
+  {
+    "file_name": "0116.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0117.jpg",
+    "entities": {
+      "LOC": [
+        null
+      ],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "14:00"
+      ],
+      "EVENT": [
+        "Demo"
+      ],
+      "TOPIC": [
+        "Bündnis gegen Verdrängung und #Mietenwahnsinn"
+      ]
+    }
+  },
+  {
+    "file_name": "0118.jpeg",
+    "entities": {
+      "LOC": [
+        "Willkommenscafé Wir laden alle von Rassismus betroffenen & migrantischen Menschen zum gegenseitigen Kennenlernen in unser Willkommenscafé ein!"
+      ],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Rassismus"
+      ]
+    }
+  },
+  {
+    "file_name": "0120.jpg",
+    "entities": {
+      "LOC": [
+        "STADTHALLE LEONBERG"
+      ],
+      "DATE": [
+        "22.01."
+      ],
+      "TIME": [
+        "19 Uhr",
+        "18:00 Uhr"
+      ],
+      "EVENT": [
+        "EINLASS"
+      ],
+      "TOPIC": [
+        "Wahlkampf-Veranstaltung"
+      ]
+    }
+  },
+  {
+    "file_name": "0121.jpg",
+    "entities": {
+      "LOC": "Auguste-Viktoria-Allee 99  //  13403 Berlin",
+      "DATE": "05.12.2024",
+      "TIME": "19 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0122.jpg",
+    "entities": {
+      "DATE": "25. APRIL, 2023",
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0123.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "19 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "SOLIDARITÄTSDEMO FÜR DIE UKRAINE"
+    }
+  },
+  {
+    "file_name": "0124.jpg",
+    "entities": {
+      "DATE": "21.12.2024",
+      "TIME": "18:30 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0127.jpeg",
+    "entities": {
+      "LOC": [
+        "Maggie",
+        "Frankfurter Allee 205"
+      ],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "19:00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Unser Verständnis vom Patriarchat und unser Umgang damit Diskussion und gemeinsames Essen am Dienstag, 4. März ab 19:00 Uhr im “Maggie” Frankfurter Allee 205"
+      ]
+    }
+  },
+  {
+    "file_name": "0129.jpg",
+    "entities": {
+      "LOC": [
+        "Berlin"
+      ],
+      "DATE": [
+        "13.11."
+      ],
+      "TIME": [
+        "10:00"
+      ],
+      "EVENT": [
+        "DEMO"
+      ],
+      "TOPIC": [
+        "GEGEN DIE KÜRZUNGEN IM KULTURBEREICH!"
+      ]
+    }
+  },
+  {
+    "file_name": "0130.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "19 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0131.jpeg",
+    "entities": {
+      "LOC": [
+        "ECKE TAUENTZIENSTR./ MARBURGER STR."
+      ],
+      "DATE": [
+        "05.03.2025"
+      ],
+      "TIME": [
+        "12:00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0132.jpg",
+    "entities": {
+      "DATE": "23.02.",
+      "TIME": "18:00 Uhr",
+      "TOPIC": "SOS Antifa"
+    }
+  },
+  {
+    "file_name": "0134.jpg",
+    "entities": {
+      "LOC": [
+        "Mahnmal Levetzowstraße"
+      ],
+      "DATE": [
+        "27.05.24"
+      ],
+      "TIME": [
+        "18 Uhr"
+      ],
+      "EVENT": [
+        "Antifaschistische Kundgebung"
+      ],
+      "TOPIC": [
+        "GEGEN DIE INSTRUMENTALISIERUNG DES ERINNERNS"
+      ]
+    }
+  },
+  {
+    "file_name": "0135.jpg",
+    "entities": {
+      "DATE": "08. März 2025",
+      "TIME": "13:00 Uhr",
+      "EVENT": "Feminismus",
+      "TOPIC": "FEMINISM UNLIMITED"
+    }
+  },
+  {
+    "file_name": "0136.jpg",
+    "entities": {
+      "LOC": [
+        "Uhlandstraße 51"
+      ],
+      "DATE": [
+        "27.02.",
+        "18.15"
+      ],
+      "TIME": [
+        "18:15"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "GEGEN JEDE NAZI PROPAGANDA! MARTIN SELLNER VON DER STRASSE FEGEN! HEUTE! ★"
+      ]
+    }
+  },
+  {
+    "file_name": "0137.jpg",
+    "entities": {
+      "LOC": [
+        "Omas-on-Stage"
+      ],
+      "DATE": [
+        "09. Juli 2022"
+      ],
+      "TIME": [
+        "18.30"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit den Künstlern"
+      ]
+    }
+  },
+  {
+    "file_name": "0139.jpg",
+    "entities": {
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0140.jpg",
+    "entities": {
+      "DATE": "03.02.2024",
+      "TIME": "11–13.30 Uhr",
+      "TOPIC": "WORKSHOP Motion-Capture HTW in Schöneweide Wer?"
+    }
+  },
+  {
+    "file_name": "0142.jpeg",
+    "entities": {
+      "DATE": "14.03.2025",
+      "TIME": "17:30",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit den Betroffenen"
+    }
+  },
+  {
+    "file_name": "0143.jpg",
+    "entities": {
+      "DATE": "14.07.",
+      "TIME": "14:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Ostkreuz nicht den Nazis überlassen!"
+    }
+  },
+  {
+    "file_name": "0145.jpg",
+    "entities": {
+      "LOC": [
+        "A100 WEGBASSEN"
+      ],
+      "DATE": [
+        "06.10.2023"
+      ],
+      "TIME": [
+        "20:00"
+      ],
+      "EVENT": [
+        "SOLI-RAVE RAVE LIVE ACTS PANEL DISCUSSION"
+      ],
+      "TOPIC": [
+        "-"
+      ]
+    }
+  },
+  {
+    "file_name": "0147.jpeg",
+    "entities": {
+      "LOC": [
+        "Kottbusser Straße 4/5"
+      ],
+      "DATE": [
+        "01.03."
+      ],
+      "TIME": [
+        "18:00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Rassismus, Abschiebung und Gewalt"
+      ]
+    }
+  },
+  {
+    "file_name": "0148.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "September 2023"
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Antisemitismus in emanzipatorischen Subkulturen und Bewegungen"
+      ]
+    }
+  },
+  {
+    "file_name": "0149.jpg",
+    "entities": {
+      "DATE": "11.07.2020",
+      "TIME": "10 - 12 Uhr",
+      "EVENT": "Demonstration",
+      "TOPIC": "FREIHEIT GRUNDRECHTE SELBSTBESTIMMUNG ZUR FREIHEIT SAMSTAG 11.7.2020"
+    }
+  },
+  {
+    "file_name": "0151.jpg",
+    "entities": {
+      "LOC": "Frankfurter Tor",
+      "DATE": "08.06.24",
+      "TIME": "15 Uhr",
+      "EVENT": "TANZ DEMO",
+      "TOPIC": "WEM GEHÖRT DIE STADT?"
+    }
+  },
+  {
+    "file_name": "0152.jpg",
+    "entities": {
+      "DATE": "21.04.",
+      "TIME": "14:00 Uhr",
+      "EVENT": "Laufdemo",
+      "TOPIC": "Klimaschutz"
+    }
+  },
+  {
+    "file_name": "0154.jpeg",
+    "entities": {
+      "LOC": [
+        "LEIPZIG"
+      ],
+      "DATE": [
+        "21.01.25"
+      ],
+      "TIME": [
+        "20:00"
+      ],
+      "EVENT": [
+        "LIVEKONZERT"
+      ],
+      "TOPIC": [
+        "LIZ MELINE MEETS SNAILTAPE DIENSTAG"
+      ]
+    }
+  },
+  {
+    "file_name": "0155.jpg",
+    "entities": {
+      "LOC": [
+        "FIRST SLAYSTANS"
+      ],
+      "DATE": [
+        "16/02"
+      ],
+      "TIME": [
+        "8PM"
+      ],
+      "EVENT": [
+        "ERREICHBAR, REICHENBERGER STR 63A"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0156.jpeg",
+    "entities": {
+      "LOC": [
+        "Zielona Gora",
+        "Grünbergerstr. 73"
+      ],
+      "DATE": [
+        "10.12.",
+        "Dienstag"
+      ],
+      "TIME": [
+        "1. MÄRZ"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit obdachlosen und hilfsbedürftigen Menschen"
+      ]
+    }
+  },
+  {
+    "file_name": "0157.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "17. Dezember"
+      ],
+      "TIME": [
+        "15:00"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit dem Menschen"
+      ]
+    }
+  },
+  {
+    "file_name": "0158.jpg",
+    "entities": {
+      "LOC": [
+        "Oranjeplatz"
+      ],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "17:30 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "5. Jahrestag des rechtsterroristischen Anschlags von Halle 9.10.2024"
+      ]
+    }
+  },
+  {
+    "file_name": "0160.jpg",
+    "entities": {
+      "DATE": "22.12.",
+      "TIME": "22:00 Uhr",
+      "EVENT": "Kundgebung"
+    }
+  },
+  {
+    "file_name": "0162.jpeg",
+    "entities": {
+      "LOC": "Lottumstr. 10a, Prenzlauer Berg",
+      "DATE": "14. März 2025",
+      "TIME": "19 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Feministisches Kampftag Web"
+    }
+  },
+  {
+    "file_name": "0163.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0164.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "03.02"
+      ],
+      "TIME": [
+        "15:00"
+      ],
+      "EVENT": [
+        "Demonstration"
+      ],
+      "TOPIC": [
+        "Solidarität mit Menschenrechte und Demokratie"
+      ]
+    }
+  },
+  {
+    "file_name": "0165.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0167.jpg",
+    "entities": {
+      "LOC": [
+        "KulTour Flutopfer-Stiftung"
+      ],
+      "DATE": "08.07.2023",
+      "TIME": "14.00 – 17.00",
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0169.jpeg",
+    "entities": {
+      "DATE": "8. März",
+      "TIME": "17:00",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0171.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0173.jpg",
+    "entities": {
+      "LOC": [
+        "POLNISCH BELARUSSISCHEN GRENZE"
+      ],
+      "DATE": [
+        "14. November 14"
+      ],
+      "TIME": [
+        "14 Uhr"
+      ],
+      "EVENT": [
+        "Demonstration"
+      ],
+      "TOPIC": [
+        "Die Aufnahme der Menschen an der Politischen Grenze"
+      ]
+    }
+  },
+  {
+    "file_name": "0177.jpg",
+    "entities": {
+      "DATE": "07.09.",
+      "TIME": "14:00 Uhr",
+      "EVENT": "Demo",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0178.jpg",
+    "entities": {
+      "DATE": "16.07.2024",
+      "EVENT": "dance first tanzfestival",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0179.jpg",
+    "entities": {
+      "DATE": "23.5. bis 8.6.24",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0181.jpg",
+    "entities": {
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit der Arbeitergemeinschaft"
+      ]
+    }
+  },
+  {
+    "file_name": "0182.jpg",
+    "entities": {
+      "LOC": [
+        "ANTIFA-BLOCK AUF DER LICHTENHAGEN-DEMO"
+      ],
+      "DATE": [
+        "27.08.2022"
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "ERINNERST DU DICH NOCH AN ROSTOCK-LICHTENHAGEN"
+      ]
+    }
+  },
+  {
+    "file_name": "0183.jpg",
+    "entities": {
+      "LOC": [
+        "RAVE KUNDGEBUNG KASTANIENALLEE"
+      ],
+      "DATE": [
+        "14. April",
+        "21. Dezember",
+        "9. November"
+      ],
+      "TIME": [
+        "14 Uhr",
+        "18:00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit Solidarität"
+      ]
+    }
+  },
+  {
+    "file_name": "0185.jpg",
+    "entities": {
+      "LOC": [
+        "Fürstenfeldbruck"
+      ],
+      "DATE": [
+        "10.08.24"
+      ],
+      "TIME": [
+        "10–18 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0186.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "19 Uhr",
+      "EVENT": "Musik",
+      "TOPIC": "French Connection Party"
+    }
+  },
+  {
+    "file_name": "0187.jpg",
+    "entities": {
+      "DATE": "26.06.24",
+      "TIME": "16:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0191.jpg",
+    "entities": {
+      "LOC": [
+        "Oranienplatz"
+      ],
+      "DATE": "27.02.",
+      "TIME": "18:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit den Turken!"
+    }
+  },
+  {
+    "file_name": "0193.jpg",
+    "entities": {
+      "LOC": [
+        "RAUS GEGA NGEN EROBIQUE NEUJAHRS PARTY FESTSAAL KREUZBERG MI"
+      ],
+      "DATE": [
+        "01.01."
+      ],
+      "TIME": [
+        "21:00"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0194.jpg",
+    "entities": {
+      "DATE": "17.05.2025",
+      "TIME": "17:00 Uhr",
+      "EVENT": "Protestfest",
+      "TOPIC": "Kinder und Erwachsene"
+    }
+  },
+  {
+    "file_name": "0196.jpg",
+    "entities": {
+      "LOC": [
+        "Antiga Heißt"
+      ],
+      "DATE": [
+        "26.4"
+      ],
+      "TIME": [
+        "12:15",
+        "13:00"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Antifascistliche Aktion"
+      ]
+    }
+  },
+  {
+    "file_name": "0197.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "22.02.25"
+      ],
+      "TIME": [
+        "12:30"
+      ],
+      "EVENT": [
+        "DEMO"
+      ],
+      "TOPIC": [
+        "S LICHTENBERG"
+      ]
+    }
+  },
+  {
+    "file_name": "0198.jpg",
+    "entities": {
+      "DATE": "23.02.",
+      "TIME": "15.30 Uhr",
+      "EVENT": "Demonstration",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0199.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "22.02.25"
+      ],
+      "TIME": [
+        "11:30 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0200.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "22.02.2025"
+      ],
+      "TIME": [
+        "13:00 Uhr"
+      ],
+      "EVENT": [
+        "AFD-Veranstaltung"
+      ],
+      "TOPIC": [
+        "AFD-Abschluss und Politik"
+      ]
+    }
+  },
+  {
+    "file_name": "0203.jpg",
+    "entities": {
+      "LOC": [
+        "S+U Bfh Warschauerstr. 29.11"
+      ],
+      "DATE": "17:30",
+      "TIME": "19 Uhr",
+      "EVENT": "FOR SALE",
+      "TOPIC": "Tower to the People"
+    }
+  },
+  {
+    "file_name": "0205.jpg",
+    "entities": {
+      "LOC": [
+        "Potsdam Hbf."
+      ],
+      "DATE": [
+        "14.12.",
+        "9. November",
+        "16.12. 2024"
+      ],
+      "TIME": [
+        "19:00 Uhr",
+        "16:00 Uhr",
+        "13:21 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0206.jpg",
+    "entities": {
+      "LOC": [
+        "Berlin Alt-Blankenburg 12 Nähe S-Bhf. Blankenburg"
+      ],
+      "DATE": "17.12.",
+      "TIME": "19 Uhr",
+      "TOPIC": "ZEIT ZU HANDELN - GEGEN DIE AFD-WAHLPARTY IN BERLIN!"
+    }
+  },
+  {
+    "file_name": "0207.jpg",
+    "entities": {
+      "LOC": [
+        "Frankfurt"
+      ],
+      "DATE": [
+        "16. August"
+      ],
+      "TIME": [
+        "15:30 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0208.jpg",
+    "entities": {
+      "LOC": [
+        "Falkensee Bahnhof"
+      ],
+      "DATE": [
+        "13.7.24"
+      ],
+      "TIME": [
+        "19:00 Uhr"
+      ],
+      "EVENT": [
+        "Demo"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0211.jpg",
+    "entities": {
+      "DATE": "21.01.24",
+      "TIME": "16:00",
+      "EVENT": "BUNDESTAG ZUSAMMEN GEGEN RECHTS",
+      "TOPIC": "PRAEZENTATION"
+    }
+  },
+  {
+    "file_name": "0212.jpg",
+    "entities": {
+      "DATE": "25. November 2023",
+      "TIME": "16:30 Uhr",
+      "EVENT": "Demonstration",
+      "TOPIC": "KEINE SHOWS FÜR TÄTER!"
+    }
+  },
+  {
+    "file_name": "0213.jpg",
+    "entities": {
+      "DATE": "22.10.23",
+      "TIME": "17:30 Uhr",
+      "EVENT": "Demonstration",
+      "TOPIC": "KEINE PROFITE MIT VERSCHWÖRUNGS- IDEOLOGIEN Ganser raus aus der Stadthalle!"
+    }
+  },
+  {
+    "file_name": "0214.jpg",
+    "entities": {
+      "DATE": "15.07.23",
+      "TIME": "15:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0215.jpg",
+    "entities": {
+      "LOC": [
+        "MAUERPARK SAMSTAG"
+      ],
+      "DATE": [
+        "03.06.2021"
+      ],
+      "TIME": [
+        "16.30 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0217.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "25.02."
+      ],
+      "TIME": [
+        "14 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Aufstand für Frieden"
+      ]
+    }
+  },
+  {
+    "file_name": "0218.jpg",
+    "entities": {
+      "LOC": "Max-Schmeling-Halle",
+      "DATE": "09.01.2023",
+      "TIME": "18:00 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0219.jpg",
+    "entities": {
+      "LOC": [
+        "StraßenFFFest"
+      ],
+      "DATE": [
+        "3.9.22"
+      ],
+      "TIME": [
+        "14:30"
+      ],
+      "EVENT": [
+        "Laufdemo"
+      ],
+      "TOPIC": [
+        "Leopoldplatz"
+      ]
+    }
+  },
+  {
+    "file_name": "0220.jpg",
+    "entities": {
+      "LOC": "MAUERPARK 06.08 SAMSTAG",
+      "DATE": "06.08.2021",
+      "TIME": "14 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Antifaschistisches PICKNICK Gegen Querdenken und Rechts"
+    }
+  },
+  {
+    "file_name": "0222.jpg",
+    "entities": {
+      "LOC": [
+        "1. MAI 13 UHR NETTELBECKPLATZ"
+      ],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0223.jpg",
+    "entities": {
+      "DATE": "21.12.",
+      "TIME": "13:30 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Querdenken VERSENKEN AFD"
+    }
+  },
+  {
+    "file_name": "0224.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "28.02."
+      ],
+      "TIME": [
+        "19 UHR"
+      ],
+      "EVENT": [
+        "Demo"
+      ],
+      "TOPIC": [
+        "SPAZIER STOP Lokal Dezentral Überall + Putinfans GEGEN QUERDENKEN UND RECHTS KASTANIENALLEE/ZIONSKIRCHSTRASSE MONTAG"
+      ]
+    }
+  },
+  {
+    "file_name": "0225.jpg",
+    "entities": {
+      "LOC": [
+        "Washingtonplatz BERLINER BÜNDNIS GEGEN RECHTS"
+      ],
+      "DATE": "11.12.21",
+      "TIME": "14.30",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0227.jpg",
+    "entities": {
+      "DATE": "8. MÄRZ",
+      "TIME": "19 Uhr",
+      "EVENT": "Demonstration",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0228.jpg",
+    "entities": {
+      "DATE": "19.04.2025",
+      "EVENT": "Gedenkspaziergang",
+      "TOPIC": "Zwangsarbeiter*innen-Lager Großmotorenwerk der Daimler-Benz AG in Ludwigsfelde und gemeinsame Gedenkminute am Waldfriedhof"
+    }
+  },
+  {
+    "file_name": "0229.jpg",
+    "entities": {
+      "DATE": "16.04.",
+      "TOPIC": "WIR BLEIBEN ALLE!"
+    }
+  },
+  {
+    "file_name": "0230.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "17.04.25"
+      ],
+      "TIME": [
+        "19:00 Uhr"
+      ],
+      "EVENT": [
+        "PunkRock_Lyrik"
+      ],
+      "TOPIC": [
+        "Gegen die Arbeit"
+      ]
+    }
+  },
+  {
+    "file_name": "0231.jpg",
+    "entities": {
+      "DATE": "15. APRIL",
+      "TIME": "18 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0232.jpg",
+    "entities": {
+      "LOC": [
+        "Lohmühle Lohmühlenstraße 17"
+      ],
+      "DATE": "13.04.25",
+      "TIME": "15–21 Uhr",
+      "EVENT": "Diskussion, Basteln, Soli-Merch, Crêpes & Drinks Balkanbrücke Frühlingsevent beim Wagenplatz Lohmühle Lohmühlenstraße 17, 12435 B",
+      "TOPIC": "Basteln, Soli-Merch, Crêpes & Drinks"
+    }
+  },
+  {
+    "file_name": "0234.jpg",
+    "entities": {
+      "LOC": [
+        "Wilhelmstr."
+      ],
+      "DATE": [
+        "05. April"
+      ],
+      "TIME": [
+        "12 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Tesla Store Wilhelmstr. Berlin"
+      ]
+    }
+  },
+  {
+    "file_name": "0235.jpg",
+    "entities": {
+      "LOC": [
+        "Fischladen Rigaerstr. 83"
+      ],
+      "DATE": [
+        "20.12."
+      ],
+      "TIME": [
+        "20:00 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit dem Veterans"
+      ]
+    }
+  },
+  {
+    "file_name": "0236.jpg",
+    "entities": {
+      "LOC": [
+        "Maggie, Frankfurter Allee 205"
+      ],
+      "DATE": [
+        "1. April"
+      ],
+      "TIME": [
+        "19:00"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0237.jpg",
+    "entities": {
+      "LOC": [
+        "Justizzentrum Potsdam Jägerallee 10-12"
+      ],
+      "DATE": "31. März",
+      "TIME": "12 Uhr",
+      "EVENT": "Kundgebung",
+      "TOPIC": "Gerechtigkeit für Cleo!"
+    }
+  },
+  {
+    "file_name": "0238.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "18.00"
+      ],
+      "TIME": [
+        "18:00"
+      ],
+      "EVENT": [
+        "FLINTA",
+        "Band"
+      ],
+      "TOPIC": [
+        "Party"
+      ]
+    }
+  },
+  {
+    "file_name": "0239.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "19 Uhr"
+      ],
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0240.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "13.10.2019"
+      ],
+      "TIME": [
+        "13 Uhr"
+      ],
+      "EVENT": [
+        "Demonstration"
+      ],
+      "TOPIC": [
+        "Antifascismus und Rassismus"
+      ]
+    }
+  },
+  {
+    "file_name": "0241.jpg",
+    "entities": {
+      "LOC": [
+        "Rosa-Luxemburg-Platz 14:30 Uhr"
+      ],
+      "DATE": "21.12.2020",
+      "TIME": "19 Uhr",
+      "EVENT": [
+        "Kundgebung"
+      ],
+      "TOPIC": "Solidarität mit Demokratischen Widerstand"
+    }
+  },
+  {
+    "file_name": "0242.jpg",
+    "entities": {
+      "LOC": [],
+      "DATE": [
+        "21.12."
+      ],
+      "TIME": [
+        "13 Uhr"
+      ],
+      "EVENT": [
+        "Demonstration"
+      ],
+      "TOPIC": [
+        "Solidarität mit..."
+      ]
+    }
+  }
+]

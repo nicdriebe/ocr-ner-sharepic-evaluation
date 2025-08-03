@@ -1,0 +1,4632 @@
+{
+  "0001.jpg": [
+    {
+      "start": 62,
+      "end": 68,
+      "label": "TIME",
+      "text": "19 UHR"
+    },
+    {
+      "start": 27,
+      "end": 35,
+      "label": "DATE",
+      "text": "DIENSTAG"
+    },
+    {
+      "start": 36,
+      "end": 43,
+      "label": "DATE",
+      "text": "21.12. "
+    },
+    {
+      "start": 11,
+      "end": 26,
+      "label": "EVENT",
+      "text": "WEIHNACHTSFEIER"
+    }
+  ],
+  "0002.jpg": [
+    {
+      "start": 170,
+      "end": 176,
+      "label": "TIME",
+      "text": "16 Uhr"
+    },
+    {
+      "start": 162,
+      "end": 167,
+      "label": "DATE",
+      "text": "8.8. "
+    },
+    {
+      "start": 59,
+      "end": 69,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    },
+    {
+      "start": 116,
+      "end": 127,
+      "label": "EVENT",
+      "text": "BERLIN-DEMO"
+    }
+  ],
+  "0003.jpg": [
+    {
+      "start": 182,
+      "end": 191,
+      "label": "TIME",
+      "text": "18:00 Uhr"
+    },
+    {
+      "start": 160,
+      "end": 176,
+      "label": "DATE",
+      "text": "9. November 1938"
+    },
+    {
+      "start": 210,
+      "end": 218,
+      "label": "DATE",
+      "text": "November"
+    },
+    {
+      "start": 300,
+      "end": 308,
+      "label": "DATE",
+      "text": "november"
+    },
+    {
+      "start": 69,
+      "end": 85,
+      "label": "EVENT",
+      "text": "Gedenkkundgebung"
+    },
+    {
+      "start": 108,
+      "end": 121,
+      "label": "EVENT",
+      "text": "Demonstration"
+    }
+  ],
+  "0004.jpg": [
+    {
+      "start": 52,
+      "end": 58,
+      "label": "TIME",
+      "text": "00 UHR"
+    },
+    {
+      "start": 89,
+      "end": 97,
+      "label": "DATE",
+      "text": "MITTWOCH"
+    },
+    {
+      "start": 99,
+      "end": 112,
+      "label": "DATE",
+      "text": "21. JUNI 2023"
+    },
+    {
+      "start": 0,
+      "end": 10,
+      "label": "EVENT",
+      "text": "FEIERABEND"
+    }
+  ],
+  "0006.jpg": [
+    {
+      "start": 127,
+      "end": 136,
+      "label": "TIME",
+      "text": "15:00 UHR"
+    },
+    {
+      "start": 111,
+      "end": 124,
+      "label": "DATE",
+      "text": "09. JULI 2022"
+    },
+    {
+      "start": 84,
+      "end": 88,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0007.jpg": [
+    {
+      "start": 46,
+      "end": 49,
+      "label": "TIME",
+      "text": "13h"
+    },
+    {
+      "start": 0,
+      "end": 11,
+      "label": "DATE",
+      "text": "9. Mai 2024"
+    },
+    {
+      "start": 66,
+      "end": 73,
+      "label": "DATE",
+      "text": "Sonntag"
+    },
+    {
+      "start": 12,
+      "end": 16,
+      "label": "EVENT",
+      "text": "Demo"
+    }
+  ],
+  "0009.jpg": [
+    {
+      "start": 48,
+      "end": 57,
+      "label": "TIME",
+      "text": "19:30 Uhr"
+    },
+    {
+      "start": 34,
+      "end": 46,
+      "label": "DATE",
+      "text": "10. Mai 2022"
+    },
+    {
+      "start": 18,
+      "end": 30,
+      "label": "EVENT",
+      "text": "Benefizabend"
+    }
+  ],
+  "0010.jpg": [
+    {
+      "start": 34,
+      "end": 43,
+      "label": "TIME",
+      "text": "15:30 UHR"
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "label": "DATE",
+      "text": "02.05.2020"
+    }
+  ],
+  "0011.jpg": [
+    {
+      "start": 17,
+      "end": 32,
+      "label": "DATE",
+      "text": "11. Januar 2025"
+    },
+    {
+      "start": 44,
+      "end": 51,
+      "label": "EVENT",
+      "text": "PROTEST"
+    }
+  ],
+  "0012.jpg": [
+    {
+      "start": 68,
+      "end": 78,
+      "label": "DATE",
+      "text": "29. August"
+    },
+    {
+      "start": 161,
+      "end": 171,
+      "label": "DATE",
+      "text": "29. August"
+    },
+    {
+      "start": 263,
+      "end": 272,
+      "label": "DATE",
+      "text": "29.8.2020"
+    },
+    {
+      "start": 85,
+      "end": 93,
+      "label": "EVENT",
+      "text": "Großdemo"
+    },
+    {
+      "start": 183,
+      "end": 193,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0013.jpg": [
+    {
+      "start": 46,
+      "end": 52,
+      "label": "TIME",
+      "text": "14 UHR"
+    },
+    {
+      "start": 40,
+      "end": 43,
+      "label": "DATE",
+      "text": "FEB"
+    },
+    {
+      "start": 25,
+      "end": 35,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0014.jpg": [
+    {
+      "start": 59,
+      "end": 64,
+      "label": "TIME",
+      "text": "18:30"
+    },
+    {
+      "start": 76,
+      "end": 82,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 31,
+      "end": 43,
+      "label": "DATE",
+      "text": "5. Juli 2023"
+    }
+  ],
+  "0015.jpg": [
+    {
+      "start": 40,
+      "end": 46,
+      "label": "TIME",
+      "text": "19 UHR"
+    },
+    {
+      "start": 5,
+      "end": 13,
+      "label": "DATE",
+      "text": "28. JUNI"
+    },
+    {
+      "start": 19,
+      "end": 23,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0016.jpg": [
+    {
+      "start": 126,
+      "end": 132,
+      "label": "TIME",
+      "text": "13 Uhr"
+    },
+    {
+      "start": 9,
+      "end": 11,
+      "label": "DATE",
+      "text": "Do"
+    },
+    {
+      "start": 99,
+      "end": 106,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 107,
+      "end": 117,
+      "label": "DATE",
+      "text": "16.11.2024"
+    }
+  ],
+  "0017.jpg": [
+    {
+      "start": 82,
+      "end": 97,
+      "label": "TIME",
+      "text": "10:00–18:00 Uhr"
+    },
+    {
+      "start": 137,
+      "end": 146,
+      "label": "TIME",
+      "text": "15:00 Uhr"
+    },
+    {
+      "start": 165,
+      "end": 174,
+      "label": "TIME",
+      "text": "14:30 Uhr"
+    },
+    {
+      "start": 62,
+      "end": 72,
+      "label": "DATE",
+      "text": "08.05.2021"
+    },
+    {
+      "start": 73,
+      "end": 81,
+      "label": "EVENT",
+      "text": "Gedenken"
+    },
+    {
+      "start": 126,
+      "end": 136,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0018.jpeg": [
+    {
+      "start": 99,
+      "end": 105,
+      "label": "TIME",
+      "text": "00 UHR"
+    },
+    {
+      "start": 80,
+      "end": 95,
+      "label": "DATE",
+      "text": "29. JANUAR 2022"
+    },
+    {
+      "start": 0,
+      "end": 10,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    },
+    {
+      "start": 13,
+      "end": 19,
+      "label": "EVENT",
+      "text": "AUFZUG"
+    }
+  ],
+  "0019.jpg": [
+    {
+      "start": 59,
+      "end": 65,
+      "label": "TIME",
+      "text": "16 UHR"
+    },
+    {
+      "start": 66,
+      "end": 74,
+      "label": "DATE",
+      "text": "15.5. 16"
+    }
+  ],
+  "0020.jpg": [
+    {
+      "start": 79,
+      "end": 88,
+      "label": "TIME",
+      "text": "15:30 UHR"
+    },
+    {
+      "start": 14,
+      "end": 21,
+      "label": "DATE",
+      "text": "SONNTAG"
+    },
+    {
+      "start": 22,
+      "end": 32,
+      "label": "DATE",
+      "text": "06.09.2020"
+    },
+    {
+      "start": 267,
+      "end": 270,
+      "label": "DATE",
+      "text": "MAI"
+    },
+    {
+      "start": 0,
+      "end": 13,
+      "label": "EVENT",
+      "text": "DEMONSTRATION"
+    }
+  ],
+  "0022.jpg": [
+    {
+      "start": 211,
+      "end": 217,
+      "label": "TIME",
+      "text": "00 UHR"
+    },
+    {
+      "start": 188,
+      "end": 195,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 197,
+      "end": 207,
+      "label": "DATE",
+      "text": "13.08.2022"
+    },
+    {
+      "start": 255,
+      "end": 265,
+      "label": "DATE",
+      "text": "13.08.2022"
+    },
+    {
+      "start": 268,
+      "end": 278,
+      "label": "DATE",
+      "text": "15.08.2022"
+    },
+    {
+      "start": 0,
+      "end": 6,
+      "label": "EVENT",
+      "text": "AKTION"
+    },
+    {
+      "start": 182,
+      "end": 186,
+      "label": "EVENT",
+      "text": "DEMO"
+    },
+    {
+      "start": 235,
+      "end": 242,
+      "label": "EVENT",
+      "text": "PROTEST"
+    }
+  ],
+  "0023.jpg": [
+    {
+      "start": 11,
+      "end": 17,
+      "label": "TIME",
+      "text": "30 Uhr"
+    },
+    {
+      "start": 0,
+      "end": 10,
+      "label": "DATE",
+      "text": "09. Mai 15"
+    },
+    {
+      "start": 49,
+      "end": 53,
+      "label": "EVENT",
+      "text": "DEMO"
+    },
+    {
+      "start": 300,
+      "end": 313,
+      "label": "EVENT",
+      "text": "Veranstaltung"
+    }
+  ],
+  "0024.jpg": [
+    {
+      "start": 100,
+      "end": 106,
+      "label": "TIME",
+      "text": "16 Uhr"
+    },
+    {
+      "start": 87,
+      "end": 98,
+      "label": "DATE",
+      "text": "14. Februar"
+    },
+    {
+      "start": 271,
+      "end": 277,
+      "label": "EVENT",
+      "text": "Aktion"
+    }
+  ],
+  "0025.jpg": [
+    {
+      "start": 105,
+      "end": 114,
+      "label": "TIME",
+      "text": "13:30 Uhr"
+    },
+    {
+      "start": 95,
+      "end": 97,
+      "label": "DATE",
+      "text": "SA"
+    },
+    {
+      "start": 98,
+      "end": 107,
+      "label": "DATE",
+      "text": "17.08. 13"
+    }
+  ],
+  "0026.jpg": [
+    {
+      "start": 59,
+      "end": 76,
+      "label": "TIME",
+      "text": "13:00 – 22:00 Uhr"
+    },
+    {
+      "start": 45,
+      "end": 58,
+      "label": "DATE",
+      "text": "21. Juli 2024"
+    }
+  ],
+  "0027.jpg": [
+    {
+      "start": 107,
+      "end": 113,
+      "label": "TIME",
+      "text": "14 Uhr"
+    },
+    {
+      "start": 99,
+      "end": 104,
+      "label": "DATE",
+      "text": "2.9. "
+    },
+    {
+      "start": 16,
+      "end": 27,
+      "label": "EVENT",
+      "text": "FAHRRADDEMO"
+    }
+  ],
+  "0028.jpg": [
+    {
+      "start": 134,
+      "end": 140,
+      "label": "TIME",
+      "text": "30 Uhr"
+    },
+    {
+      "start": 122,
+      "end": 128,
+      "label": "DATE",
+      "text": "20.6. "
+    },
+    {
+      "start": 69,
+      "end": 79,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0029.jpg": [
+    {
+      "start": 191,
+      "end": 197,
+      "label": "TIME",
+      "text": "13 Uhr"
+    },
+    {
+      "start": 126,
+      "end": 134,
+      "label": "DATE",
+      "text": "31.03.22"
+    },
+    {
+      "start": 160,
+      "end": 167,
+      "label": "DATE",
+      "text": "13.11. "
+    },
+    {
+      "start": 210,
+      "end": 216,
+      "label": "DATE",
+      "text": "3.12. "
+    },
+    {
+      "start": 167,
+      "end": 175,
+      "label": "EVENT",
+      "text": "Kiezdemo"
+    },
+    {
+      "start": 180,
+      "end": 190,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    },
+    {
+      "start": 216,
+      "end": 226,
+      "label": "EVENT",
+      "text": "Aktionstag"
+    }
+  ],
+  "0030.jpg": [
+    {
+      "start": 123,
+      "end": 129,
+      "label": "TIME",
+      "text": "30 Uhr"
+    },
+    {
+      "start": 111,
+      "end": 117,
+      "label": "DATE",
+      "text": "13.6. "
+    },
+    {
+      "start": 60,
+      "end": 70,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0031.jpg": [
+    {
+      "start": 53,
+      "end": 59,
+      "label": "TIME",
+      "text": "18 UHR"
+    },
+    {
+      "start": 86,
+      "end": 92,
+      "label": "TIME",
+      "text": "20 UHR"
+    },
+    {
+      "start": 37,
+      "end": 47,
+      "label": "DATE",
+      "text": "14.10.2021"
+    },
+    {
+      "start": 48,
+      "end": 52,
+      "label": "EVENT",
+      "text": "DEMO"
+    },
+    {
+      "start": 73,
+      "end": 85,
+      "label": "EVENT",
+      "text": "FAHRRAD-DEMO"
+    }
+  ],
+  "0032.jpg": [
+    {
+      "start": 80,
+      "end": 89,
+      "label": "TIME",
+      "text": "18:00 Uhr"
+    },
+    {
+      "start": 52,
+      "end": 59,
+      "label": "DATE",
+      "text": "16.01. "
+    },
+    {
+      "start": 61,
+      "end": 71,
+      "label": "DATE",
+      "text": "18.01.2025"
+    }
+  ],
+  "0035.jpg": [
+    {
+      "start": 107,
+      "end": 113,
+      "label": "TIME",
+      "text": "00 Uhr"
+    },
+    {
+      "start": 91,
+      "end": 101,
+      "label": "DATE",
+      "text": "17.02.2024"
+    },
+    {
+      "start": 77,
+      "end": 90,
+      "label": "EVENT",
+      "text": "Starkbierfest"
+    }
+  ],
+  "0036.jpg": [
+    {
+      "start": 30,
+      "end": 35,
+      "label": "TIME",
+      "text": "19:00"
+    },
+    {
+      "start": 19,
+      "end": 26,
+      "label": "DATE",
+      "text": "FREITAG"
+    },
+    {
+      "start": 128,
+      "end": 130,
+      "label": "DATE",
+      "text": "WE"
+    },
+    {
+      "start": 134,
+      "end": 141,
+      "label": "DATE",
+      "text": "OKTOBER"
+    },
+    {
+      "start": 36,
+      "end": 41,
+      "label": "EVENT",
+      "text": "Party"
+    }
+  ],
+  "0037.jpeg": [
+    {
+      "start": 91,
+      "end": 97,
+      "label": "TIME",
+      "text": "19 UHR"
+    },
+    {
+      "start": 82,
+      "end": 93,
+      "label": "DATE",
+      "text": "18. MÄRZ 19"
+    },
+    {
+      "start": 116,
+      "end": 120,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0039.jpeg": [
+    {
+      "start": 107,
+      "end": 115,
+      "label": "DATE",
+      "text": "18.03.25"
+    },
+    {
+      "start": 95,
+      "end": 99,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0040.jpeg": [
+    {
+      "start": 33,
+      "end": 38,
+      "label": "TIME",
+      "text": "0 Uhr"
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "label": "DATE",
+      "text": "1. März 2025"
+    }
+  ],
+  "0041.jpg": [
+    {
+      "start": 190,
+      "end": 196,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 23,
+      "end": 26,
+      "label": "DATE",
+      "text": "JUN"
+    },
+    {
+      "start": 154,
+      "end": 156,
+      "label": "DATE",
+      "text": "we"
+    },
+    {
+      "start": 184,
+      "end": 188,
+      "label": "DATE",
+      "text": "Nov."
+    }
+  ],
+  "0043.jpg": [
+    {
+      "start": 83,
+      "end": 98,
+      "label": "DATE",
+      "text": "11. JANUAR 2025"
+    },
+    {
+      "start": 119,
+      "end": 129,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0044.jpg": [
+    {
+      "start": 39,
+      "end": 48,
+      "label": "TIME",
+      "text": "14:30 Uhr"
+    },
+    {
+      "start": 25,
+      "end": 38,
+      "label": "DATE",
+      "text": "jeden Samstag"
+    }
+  ],
+  "0045.jpeg": [
+    {
+      "start": 249,
+      "end": 266,
+      "label": "TIME",
+      "text": "12:00 – 16:00 UHR"
+    },
+    {
+      "start": 238,
+      "end": 248,
+      "label": "DATE",
+      "text": "20.03.2021"
+    },
+    {
+      "start": 33,
+      "end": 42,
+      "label": "EVENT",
+      "text": "GROSSDEMO"
+    },
+    {
+      "start": 287,
+      "end": 293,
+      "label": "EVENT",
+      "text": "AUFZUG"
+    }
+  ],
+  "0046.jpeg": [
+    {
+      "start": 94,
+      "end": 100,
+      "label": "TIME",
+      "text": "20 UHR"
+    },
+    {
+      "start": 18,
+      "end": 21,
+      "label": "DATE",
+      "text": "jun"
+    },
+    {
+      "start": 77,
+      "end": 90,
+      "label": "DATE",
+      "text": "01. März 2025"
+    },
+    {
+      "start": 63,
+      "end": 68,
+      "label": "EVENT",
+      "text": "Party"
+    }
+  ],
+  "0047.jpg": [
+    {
+      "start": 117,
+      "end": 123,
+      "label": "TIME",
+      "text": "30 UHR"
+    },
+    {
+      "start": 94,
+      "end": 104,
+      "label": "DATE",
+      "text": "28.09.2024"
+    }
+  ],
+  "0049.jpg": [
+    {
+      "start": 157,
+      "end": 166,
+      "label": "TIME",
+      "text": "20:30 Uhr"
+    },
+    {
+      "start": 176,
+      "end": 182,
+      "label": "TIME",
+      "text": "20 Uhr"
+    },
+    {
+      "start": 223,
+      "end": 232,
+      "label": "TIME",
+      "text": "22:30 Uhr"
+    },
+    {
+      "start": 135,
+      "end": 138,
+      "label": "DATE",
+      "text": "Di."
+    },
+    {
+      "start": 139,
+      "end": 149,
+      "label": "DATE",
+      "text": "31.12.2024"
+    }
+  ],
+  "0050.jpg": [
+    {
+      "start": 81,
+      "end": 86,
+      "label": "TIME",
+      "text": "17:30"
+    },
+    {
+      "start": 58,
+      "end": 65,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 67,
+      "end": 77,
+      "label": "DATE",
+      "text": "15. August"
+    }
+  ],
+  "0051.jpg": [
+    {
+      "start": 23,
+      "end": 33,
+      "label": "DATE",
+      "text": "29.12.2023"
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "EVENT",
+      "text": "SOLIPARTY"
+    }
+  ],
+  "0052.jpeg": [
+    {
+      "start": 113,
+      "end": 119,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 129,
+      "end": 135,
+      "label": "TIME",
+      "text": "20 Uhr"
+    },
+    {
+      "start": 0,
+      "end": 10,
+      "label": "DATE",
+      "text": "01.03.2025"
+    }
+  ],
+  "0054.jpg": [
+    {
+      "start": 27,
+      "end": 41,
+      "label": "DATE",
+      "text": "6. Januar 2025"
+    },
+    {
+      "start": 78,
+      "end": 81,
+      "label": "DATE",
+      "text": "JAN"
+    }
+  ],
+  "0055.jpg": [
+    {
+      "start": 81,
+      "end": 86,
+      "label": "TIME",
+      "text": "7 Uhr"
+    },
+    {
+      "start": 68,
+      "end": 76,
+      "label": "DATE",
+      "text": "7.3.2025"
+    },
+    {
+      "start": 167,
+      "end": 170,
+      "label": "DATE",
+      "text": "JUL"
+    },
+    {
+      "start": 0,
+      "end": 9,
+      "label": "EVENT",
+      "text": "Soliparty"
+    }
+  ],
+  "0057.jpg": [
+    {
+      "start": 172,
+      "end": 181,
+      "label": "DATE",
+      "text": "15.5.2022"
+    }
+  ],
+  "0059.jpg": [
+    {
+      "start": 34,
+      "end": 40,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 25,
+      "end": 32,
+      "label": "DATE",
+      "text": "8. März"
+    }
+  ],
+  "0060.jpg": [
+    {
+      "start": 65,
+      "end": 71,
+      "label": "TIME",
+      "text": "12 Uhr"
+    },
+    {
+      "start": 46,
+      "end": 60,
+      "label": "DATE",
+      "text": "26. April 2024"
+    }
+  ],
+  "0061.jpg": [
+    {
+      "start": 101,
+      "end": 110,
+      "label": "TIME",
+      "text": "10:00 Uhr"
+    },
+    {
+      "start": 87,
+      "end": 97,
+      "label": "DATE",
+      "text": "01.10.2020"
+    }
+  ],
+  "0062.jpg": [
+    {
+      "start": 106,
+      "end": 112,
+      "label": "TIME",
+      "text": "30 Uhr"
+    },
+    {
+      "start": 83,
+      "end": 89,
+      "label": "DATE",
+      "text": "Montag"
+    }
+  ],
+  "0063.jpg": [
+    {
+      "start": 122,
+      "end": 131,
+      "label": "TIME",
+      "text": "17:30 Uhr"
+    },
+    {
+      "start": 113,
+      "end": 124,
+      "label": "DATE",
+      "text": "28. März 17"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0064.jpg": [
+    {
+      "start": 64,
+      "end": 70,
+      "label": "TIME",
+      "text": "18 Uhr"
+    },
+    {
+      "start": 33,
+      "end": 40,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 42,
+      "end": 54,
+      "label": "DATE",
+      "text": "1. Juli 2023"
+    },
+    {
+      "start": 0,
+      "end": 8,
+      "label": "EVENT",
+      "text": "KIEZFEST"
+    },
+    {
+      "start": 310,
+      "end": 317,
+      "label": "EVENT",
+      "text": "Vortrag"
+    },
+    {
+      "start": 598,
+      "end": 606,
+      "label": "EVENT",
+      "text": "Aktionen"
+    }
+  ],
+  "0066.jpg": [
+    {
+      "start": 86,
+      "end": 98,
+      "label": "DATE",
+      "text": "15. Mai 2022"
+    }
+  ],
+  "0067.jpeg": [
+    {
+      "start": 124,
+      "end": 129,
+      "label": "TIME",
+      "text": "16Uhr"
+    },
+    {
+      "start": 111,
+      "end": 121,
+      "label": "DATE",
+      "text": "15.03.2025"
+    },
+    {
+      "start": 252,
+      "end": 254,
+      "label": "DATE",
+      "text": "We"
+    },
+    {
+      "start": 177,
+      "end": 190,
+      "label": "EVENT",
+      "text": "Veranstaltung"
+    }
+  ],
+  "0071.jpg": [
+    {
+      "start": 60,
+      "end": 69,
+      "label": "TIME",
+      "text": "11:00 Uhr"
+    },
+    {
+      "start": 44,
+      "end": 59,
+      "label": "DATE",
+      "text": "29. August 2020"
+    },
+    {
+      "start": 20,
+      "end": 28,
+      "label": "EVENT",
+      "text": "Großdemo"
+    }
+  ],
+  "0072.jpg": [
+    {
+      "start": 82,
+      "end": 87,
+      "label": "TIME",
+      "text": "16:30"
+    },
+    {
+      "start": 123,
+      "end": 128,
+      "label": "TIME",
+      "text": "17:00"
+    },
+    {
+      "start": 263,
+      "end": 268,
+      "label": "TIME",
+      "text": "16:00"
+    },
+    {
+      "start": 51,
+      "end": 54,
+      "label": "DATE",
+      "text": "MI."
+    },
+    {
+      "start": 55,
+      "end": 64,
+      "label": "DATE",
+      "text": "14.2.2024"
+    },
+    {
+      "start": 294,
+      "end": 302,
+      "label": "DATE",
+      "text": "mittwoch"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "label": "EVENT",
+      "text": "DEMO"
+    },
+    {
+      "start": 129,
+      "end": 139,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0073.jpeg": [
+    {
+      "start": 93,
+      "end": 100,
+      "label": "DATE",
+      "text": "02.03. "
+    },
+    {
+      "start": 9,
+      "end": 18,
+      "label": "EVENT",
+      "text": "flohmarkt"
+    }
+  ],
+  "0074.jpg": [
+    {
+      "start": 82,
+      "end": 97,
+      "label": "TIME",
+      "text": "13:00–18:00 Uhr"
+    },
+    {
+      "start": 64,
+      "end": 81,
+      "label": "DATE",
+      "text": "16. November 2024"
+    }
+  ],
+  "0075.jpg": [
+    {
+      "start": 54,
+      "end": 67,
+      "label": "TIME",
+      "text": "14:00 - 19:30"
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "DATE",
+      "text": "APRIL"
+    }
+  ],
+  "0078.png": [
+    {
+      "start": 231,
+      "end": 239,
+      "label": "DATE",
+      "text": "6.5.2023"
+    }
+  ],
+  "0080.jpg": [
+    {
+      "start": 68,
+      "end": 77,
+      "label": "TIME",
+      "text": "17:30 Uhr"
+    },
+    {
+      "start": 50,
+      "end": 66,
+      "label": "DATE",
+      "text": "18. Februar 2024"
+    },
+    {
+      "start": 45,
+      "end": 49,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0081.jpg": [
+    {
+      "start": 209,
+      "end": 218,
+      "label": "TIME",
+      "text": "14–19 Uhr"
+    },
+    {
+      "start": 197,
+      "end": 199,
+      "label": "DATE",
+      "text": "Fr"
+    }
+  ],
+  "0082.jpg": [
+    {
+      "start": 15,
+      "end": 18,
+      "label": "TIME",
+      "text": "14h"
+    },
+    {
+      "start": 9,
+      "end": 17,
+      "label": "DATE",
+      "text": "24.2. 14"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "label": "EVENT",
+      "text": "Demo"
+    }
+  ],
+  "0086.jpg": [
+    {
+      "start": 110,
+      "end": 119,
+      "label": "TIME",
+      "text": "16-18 Uhr"
+    },
+    {
+      "start": 103,
+      "end": 112,
+      "label": "DATE",
+      "text": "08.08. 16"
+    },
+    {
+      "start": 120,
+      "end": 127,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 91,
+      "end": 101,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0089.jpeg": [
+    {
+      "start": 142,
+      "end": 151,
+      "label": "TIME",
+      "text": "15:30 UHR"
+    },
+    {
+      "start": 126,
+      "end": 141,
+      "label": "DATE",
+      "text": "15. JANUAR 2022"
+    },
+    {
+      "start": 56,
+      "end": 66,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    },
+    {
+      "start": 69,
+      "end": 75,
+      "label": "EVENT",
+      "text": "AUFZUG"
+    }
+  ],
+  "0090.jpeg": [
+    {
+      "start": 147,
+      "end": 156,
+      "label": "TIME",
+      "text": "12:00 UHR"
+    },
+    {
+      "start": 190,
+      "end": 207,
+      "label": "TIME",
+      "text": "12:00 - 16:00 UHR"
+    },
+    {
+      "start": 179,
+      "end": 189,
+      "label": "DATE",
+      "text": "20.11.2021"
+    }
+  ],
+  "0091.jpg": [
+    {
+      "start": 98,
+      "end": 113,
+      "label": "DATE",
+      "text": "11. August 2024"
+    },
+    {
+      "start": 123,
+      "end": 132,
+      "label": "DATE",
+      "text": "2. August"
+    },
+    {
+      "start": 133,
+      "end": 143,
+      "label": "DATE",
+      "text": "Wochenende"
+    }
+  ],
+  "0093.jpg": [
+    {
+      "start": 93,
+      "end": 102,
+      "label": "TIME",
+      "text": "14–19 Uhr"
+    },
+    {
+      "start": 81,
+      "end": 83,
+      "label": "DATE",
+      "text": "Sa"
+    },
+    {
+      "start": 87,
+      "end": 90,
+      "label": "DATE",
+      "text": "Sep"
+    },
+    {
+      "start": 283,
+      "end": 286,
+      "label": "DATE",
+      "text": "NOV"
+    },
+    {
+      "start": 70,
+      "end": 80,
+      "label": "EVENT",
+      "text": "SOMMERFEST"
+    },
+    {
+      "start": 199,
+      "end": 209,
+      "label": "EVENT",
+      "text": "VORFÜHRUNG"
+    }
+  ],
+  "0094.jpg": [
+    {
+      "start": 81,
+      "end": 94,
+      "label": "TIME",
+      "text": "12:00 - 19:00"
+    },
+    {
+      "start": 70,
+      "end": 80,
+      "label": "DATE",
+      "text": "26.04.2020"
+    },
+    {
+      "start": 188,
+      "end": 191,
+      "label": "DATE",
+      "text": "aug"
+    },
+    {
+      "start": 14,
+      "end": 25,
+      "label": "EVENT",
+      "text": "Trauerfeier"
+    },
+    {
+      "start": 178,
+      "end": 185,
+      "label": "EVENT",
+      "text": "protest"
+    },
+    {
+      "start": 338,
+      "end": 344,
+      "label": "EVENT",
+      "text": "Aktion"
+    }
+  ],
+  "0095.jpg": [
+    {
+      "start": 111,
+      "end": 113,
+      "label": "DATE",
+      "text": "so"
+    },
+    {
+      "start": 132,
+      "end": 135,
+      "label": "DATE",
+      "text": "sep"
+    },
+    {
+      "start": 164,
+      "end": 167,
+      "label": "DATE",
+      "text": "SEP"
+    },
+    {
+      "start": 320,
+      "end": 323,
+      "label": "DATE",
+      "text": "JAN"
+    },
+    {
+      "start": 438,
+      "end": 444,
+      "label": "DATE",
+      "text": "12.8. "
+    },
+    {
+      "start": 127,
+      "end": 139,
+      "label": "EVENT",
+      "text": "Releaseparty"
+    }
+  ],
+  "0096.jpg": [
+    {
+      "start": 54,
+      "end": 63,
+      "label": "DATE",
+      "text": "25. April"
+    },
+    {
+      "start": 25,
+      "end": 30,
+      "label": "EVENT",
+      "text": "FEIER"
+    }
+  ],
+  "0097.jpg": [
+    {
+      "start": 190,
+      "end": 196,
+      "label": "TIME",
+      "text": "20 Uhr"
+    },
+    {
+      "start": 179,
+      "end": 189,
+      "label": "DATE",
+      "text": "13.12.2024"
+    },
+    {
+      "start": 165,
+      "end": 178,
+      "label": "EVENT",
+      "text": "Veranstaltung"
+    }
+  ],
+  "0098.jpg": [
+    {
+      "start": 153,
+      "end": 162,
+      "label": "TIME",
+      "text": "18:00 uhr"
+    },
+    {
+      "start": 128,
+      "end": 134,
+      "label": "DATE",
+      "text": "montag"
+    },
+    {
+      "start": 136,
+      "end": 151,
+      "label": "DATE",
+      "text": "2. oktober 2023"
+    }
+  ],
+  "0099.jpg": [
+    {
+      "start": 92,
+      "end": 98,
+      "label": "TIME",
+      "text": "21 Uhr"
+    },
+    {
+      "start": 30,
+      "end": 35,
+      "label": "DATE",
+      "text": "Abend"
+    },
+    {
+      "start": 84,
+      "end": 90,
+      "label": "DATE",
+      "text": "29.09."
+    },
+    {
+      "start": 30,
+      "end": 35,
+      "label": "EVENT",
+      "text": "Abend"
+    }
+  ],
+  "0100.jpg": [
+    {
+      "start": 67,
+      "end": 73,
+      "label": "TIME",
+      "text": "14 Uhr"
+    },
+    {
+      "start": 53,
+      "end": 61,
+      "label": "DATE",
+      "text": "25.05.24"
+    },
+    {
+      "start": 9,
+      "end": 18,
+      "label": "EVENT",
+      "text": "FLOHMARKT"
+    }
+  ],
+  "0101.jpg": [
+    {
+      "start": 29,
+      "end": 35,
+      "label": "TIME",
+      "text": "17 Uhr"
+    },
+    {
+      "start": 0,
+      "end": 7,
+      "label": "DATE",
+      "text": "Freitag"
+    },
+    {
+      "start": 13,
+      "end": 25,
+      "label": "DATE",
+      "text": "28. Mai 2021"
+    },
+    {
+      "start": 157,
+      "end": 167,
+      "label": "DATE",
+      "text": "22.12.1878"
+    },
+    {
+      "start": 350,
+      "end": 360,
+      "label": "DATE",
+      "text": "22.12.1913"
+    },
+    {
+      "start": 644,
+      "end": 647,
+      "label": "DATE",
+      "text": "aug"
+    },
+    {
+      "start": 927,
+      "end": 942,
+      "label": "DATE",
+      "text": "4. Oktober 1940"
+    },
+    {
+      "start": 1172,
+      "end": 1190,
+      "label": "DATE",
+      "text": "10. September 1943"
+    },
+    {
+      "start": 1345,
+      "end": 1362,
+      "label": "DATE",
+      "text": "18. Dezember 1943"
+    }
+  ],
+  "0103.jpg": [
+    {
+      "start": 30,
+      "end": 39,
+      "label": "TIME",
+      "text": "14–18 Uhr"
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "DATE",
+      "text": "17.05.2020"
+    },
+    {
+      "start": 248,
+      "end": 254,
+      "label": "EVENT",
+      "text": "aktion"
+    }
+  ],
+  "0104.jpg": [
+    {
+      "start": 68,
+      "end": 77,
+      "label": "TIME",
+      "text": "14–19 Uhr"
+    },
+    {
+      "start": 63,
+      "end": 67,
+      "label": "DATE",
+      "text": "Dez."
+    }
+  ],
+  "0106.jpg": [
+    {
+      "start": 654,
+      "end": 660,
+      "label": "TIME",
+      "text": "15 Uhr"
+    },
+    {
+      "start": 661,
+      "end": 674,
+      "label": "DATE",
+      "text": "jeden Samstag"
+    },
+    {
+      "start": 682,
+      "end": 688,
+      "label": "DATE",
+      "text": "1. Mai"
+    },
+    {
+      "start": 251,
+      "end": 262,
+      "label": "EVENT",
+      "text": "Hygienedemo"
+    },
+    {
+      "start": 608,
+      "end": 620,
+      "label": "EVENT",
+      "text": "Gegenprotest"
+    }
+  ],
+  "0108.jpg": [
+    {
+      "start": 16,
+      "end": 19,
+      "label": "DATE",
+      "text": "nov"
+    },
+    {
+      "start": 53,
+      "end": 61,
+      "label": "DATE",
+      "text": "30.06.18"
+    },
+    {
+      "start": 45,
+      "end": 52,
+      "label": "EVENT",
+      "text": "Konzert"
+    }
+  ],
+  "0110.jpg": [
+    {
+      "start": 42,
+      "end": 49,
+      "label": "DATE",
+      "text": "2.9. 14"
+    }
+  ],
+  "0111.jpg": [
+    {
+      "start": 213,
+      "end": 219,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 23,
+      "end": 26,
+      "label": "DATE",
+      "text": "JUN"
+    },
+    {
+      "start": 177,
+      "end": 179,
+      "label": "DATE",
+      "text": "we"
+    },
+    {
+      "start": 207,
+      "end": 211,
+      "label": "DATE",
+      "text": "Nov."
+    }
+  ],
+  "0112.jpg": [
+    {
+      "start": 100,
+      "end": 109,
+      "label": "TIME",
+      "text": "15:00 UHR"
+    },
+    {
+      "start": 133,
+      "end": 142,
+      "label": "TIME",
+      "text": "12:00 UHR"
+    },
+    {
+      "start": 80,
+      "end": 87,
+      "label": "DATE",
+      "text": "FREITAG"
+    },
+    {
+      "start": 89,
+      "end": 97,
+      "label": "DATE",
+      "text": "20.09.19"
+    }
+  ],
+  "0113.jpg": [
+    {
+      "start": 117,
+      "end": 122,
+      "label": "TIME",
+      "text": "17:30"
+    },
+    {
+      "start": 0,
+      "end": 9,
+      "label": "DATE",
+      "text": "9. MAI 79"
+    },
+    {
+      "start": 94,
+      "end": 107,
+      "label": "EVENT",
+      "text": "DEMONSTRATION"
+    }
+  ],
+  "0114.jpg": [
+    {
+      "start": 82,
+      "end": 91,
+      "label": "TIME",
+      "text": "14:30 UHR"
+    },
+    {
+      "start": 116,
+      "end": 125,
+      "label": "TIME",
+      "text": "16:00 UHR"
+    },
+    {
+      "start": 48,
+      "end": 56,
+      "label": "DATE",
+      "text": "15.07.23"
+    },
+    {
+      "start": 67,
+      "end": 70,
+      "label": "DATE",
+      "text": "SA."
+    },
+    {
+      "start": 71,
+      "end": 79,
+      "label": "DATE",
+      "text": "15. JULI"
+    }
+  ],
+  "0115.jpg": [
+    {
+      "start": 74,
+      "end": 80,
+      "label": "TIME",
+      "text": "20 Uhr"
+    },
+    {
+      "start": 60,
+      "end": 70,
+      "label": "DATE",
+      "text": "16.11.2024"
+    },
+    {
+      "start": 24,
+      "end": 33,
+      "label": "EVENT",
+      "text": "soliparty"
+    }
+  ],
+  "0116.jpg": [
+    {
+      "start": 196,
+      "end": 208,
+      "label": "TIME",
+      "text": "12:30–18 Uhr"
+    },
+    {
+      "start": 177,
+      "end": 184,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 185,
+      "end": 193,
+      "label": "DATE",
+      "text": "08.08.20"
+    },
+    {
+      "start": 0,
+      "end": 14,
+      "label": "EVENT",
+      "text": "AKTIONSBÜNDNIS"
+    }
+  ],
+  "0117.jpg": [
+    {
+      "start": 121,
+      "end": 130,
+      "label": "TIME",
+      "text": "14:00 Uhr"
+    },
+    {
+      "start": 99,
+      "end": 106,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 107,
+      "end": 120,
+      "label": "DATE",
+      "text": "01. Juni 2024"
+    },
+    {
+      "start": 93,
+      "end": 97,
+      "label": "EVENT",
+      "text": "Demo"
+    }
+  ],
+  "0118.jpeg": [
+    {
+      "start": 307,
+      "end": 316,
+      "label": "TIME",
+      "text": "19–21 Uhr"
+    },
+    {
+      "start": 281,
+      "end": 297,
+      "label": "DATE",
+      "text": "letzten Mittwoch"
+    }
+  ],
+  "0119.jpeg": [
+    {
+      "start": 113,
+      "end": 119,
+      "label": "TIME",
+      "text": "13 UHR"
+    },
+    {
+      "start": 94,
+      "end": 101,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 103,
+      "end": 110,
+      "label": "DATE",
+      "text": "01.03. "
+    },
+    {
+      "start": 62,
+      "end": 79,
+      "label": "EVENT",
+      "text": "LAUFDEMONSTRATION"
+    }
+  ],
+  "0120.jpg": [
+    {
+      "start": 91,
+      "end": 97,
+      "label": "TIME",
+      "text": "19 UHR"
+    },
+    {
+      "start": 108,
+      "end": 114,
+      "label": "TIME",
+      "text": "18 UHR"
+    },
+    {
+      "start": 77,
+      "end": 84,
+      "label": "DATE",
+      "text": "22.01. "
+    },
+    {
+      "start": 138,
+      "end": 141,
+      "label": "DATE",
+      "text": "MAI"
+    },
+    {
+      "start": 10,
+      "end": 23,
+      "label": "EVENT",
+      "text": "Veranstaltung"
+    }
+  ],
+  "0121.jpg": [
+    {
+      "start": 14,
+      "end": 24,
+      "label": "DATE",
+      "text": "05.12.2024"
+    },
+    {
+      "start": 91,
+      "end": 97,
+      "label": "DATE",
+      "text": "August"
+    }
+  ],
+  "0122.jpg": [
+    {
+      "start": 19,
+      "end": 25,
+      "label": "TIME",
+      "text": "00 UHR"
+    },
+    {
+      "start": 0,
+      "end": 9,
+      "label": "DATE",
+      "text": "25. APRIL"
+    },
+    {
+      "start": 533,
+      "end": 541,
+      "label": "EVENT",
+      "text": "Aktionen"
+    }
+  ],
+  "0123.jpg": [
+    {
+      "start": 93,
+      "end": 99,
+      "label": "TIME",
+      "text": "17 Uhr"
+    },
+    {
+      "start": 33,
+      "end": 40,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 42,
+      "end": 54,
+      "label": "DATE",
+      "text": "5. März 2022"
+    },
+    {
+      "start": 0,
+      "end": 16,
+      "label": "EVENT",
+      "text": "SOLIDARITÄTSDEMO"
+    }
+  ],
+  "0124.jpg": [
+    {
+      "start": 80,
+      "end": 88,
+      "label": "TIME",
+      "text": "8:30 Uhr"
+    },
+    {
+      "start": 58,
+      "end": 68,
+      "label": "DATE",
+      "text": "19.12.2024"
+    },
+    {
+      "start": 69,
+      "end": 79,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0127.jpeg": [
+    {
+      "start": 146,
+      "end": 155,
+      "label": "TIME",
+      "text": "19:00 Uhr"
+    },
+    {
+      "start": 125,
+      "end": 133,
+      "label": "DATE",
+      "text": "Dienstag"
+    },
+    {
+      "start": 135,
+      "end": 142,
+      "label": "DATE",
+      "text": "4. März"
+    }
+  ],
+  "0128.jpg": [
+    {
+      "start": 90,
+      "end": 97,
+      "label": "DATE",
+      "text": "25.09. "
+    },
+    {
+      "start": 99,
+      "end": 109,
+      "label": "DATE",
+      "text": "27.09.2024"
+    }
+  ],
+  "0129.jpg": [
+    {
+      "start": 103,
+      "end": 108,
+      "label": "TIME",
+      "text": "10:00"
+    },
+    {
+      "start": 96,
+      "end": 105,
+      "label": "DATE",
+      "text": "13.11. 10"
+    },
+    {
+      "start": 137,
+      "end": 145,
+      "label": "DATE",
+      "text": "18. März"
+    },
+    {
+      "start": 17,
+      "end": 21,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0130.jpg": [
+    {
+      "start": 108,
+      "end": 117,
+      "label": "TIME",
+      "text": "14–18 Uhr"
+    },
+    {
+      "start": 91,
+      "end": 107,
+      "label": "DATE",
+      "text": "19. Oktober 2024"
+    }
+  ],
+  "0131.jpeg": [
+    {
+      "start": 48,
+      "end": 57,
+      "label": "TIME",
+      "text": "12:00 UHR"
+    },
+    {
+      "start": 37,
+      "end": 47,
+      "label": "DATE",
+      "text": "05.03.2025"
+    },
+    {
+      "start": 22,
+      "end": 32,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0132.jpg": [
+    {
+      "start": 60,
+      "end": 66,
+      "label": "TIME",
+      "text": "18 UHR"
+    },
+    {
+      "start": 46,
+      "end": 57,
+      "label": "DATE",
+      "text": "23. FEBRUAR"
+    }
+  ],
+  "0133.jpg": [
+    {
+      "start": 45,
+      "end": 50,
+      "label": "TIME",
+      "text": "14:30"
+    },
+    {
+      "start": 25,
+      "end": 32,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 33,
+      "end": 43,
+      "label": "DATE",
+      "text": "05.09.2020"
+    },
+    {
+      "start": 0,
+      "end": 10,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0134.jpg": [
+    {
+      "start": 91,
+      "end": 97,
+      "label": "TIME",
+      "text": "18 Uhr"
+    },
+    {
+      "start": 74,
+      "end": 80,
+      "label": "DATE",
+      "text": "Montag"
+    },
+    {
+      "start": 82,
+      "end": 90,
+      "label": "DATE",
+      "text": "27.05.24"
+    },
+    {
+      "start": 18,
+      "end": 28,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0135.jpg": [
+    {
+      "start": 90,
+      "end": 99,
+      "label": "TIME",
+      "text": "13:00 Uhr"
+    },
+    {
+      "start": 35,
+      "end": 42,
+      "label": "DATE",
+      "text": "8. März"
+    },
+    {
+      "start": 76,
+      "end": 88,
+      "label": "DATE",
+      "text": "8. März 2025"
+    },
+    {
+      "start": 27,
+      "end": 31,
+      "label": "EVENT",
+      "text": "Demo"
+    }
+  ],
+  "0136.jpg": [
+    {
+      "start": 84,
+      "end": 93,
+      "label": "TIME",
+      "text": "18:15 UHR"
+    },
+    {
+      "start": 66,
+      "end": 71,
+      "label": "DATE",
+      "text": "HEUTE"
+    },
+    {
+      "start": 75,
+      "end": 82,
+      "label": "DATE",
+      "text": "27.02. "
+    },
+    {
+      "start": 94,
+      "end": 104,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0137.jpg": [
+    {
+      "start": 65,
+      "end": 72,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 74,
+      "end": 86,
+      "label": "DATE",
+      "text": "9. Juli 2022"
+    },
+    {
+      "start": 117,
+      "end": 124,
+      "label": "DATE",
+      "text": "Sonntag"
+    },
+    {
+      "start": 126,
+      "end": 139,
+      "label": "DATE",
+      "text": "10. Juli 2022"
+    }
+  ],
+  "0139.jpg": [
+    {
+      "start": 170,
+      "end": 174,
+      "label": "TIME",
+      "text": "9:00"
+    },
+    {
+      "start": 160,
+      "end": 167,
+      "label": "DATE",
+      "text": "15.02. "
+    },
+    {
+      "start": 107,
+      "end": 117,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    },
+    {
+      "start": 128,
+      "end": 143,
+      "label": "EVENT",
+      "text": "ERÖFFNUNGSFEIER"
+    }
+  ],
+  "0140.jpg": [
+    {
+      "start": 24,
+      "end": 29,
+      "label": "TIME",
+      "text": "11–13"
+    },
+    {
+      "start": 30,
+      "end": 36,
+      "label": "TIME",
+      "text": "30 Uhr"
+    },
+    {
+      "start": 0,
+      "end": 7,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 9,
+      "end": 19,
+      "label": "DATE",
+      "text": "03.02.2024"
+    }
+  ],
+  "0142.jpeg": [
+    {
+      "start": 165,
+      "end": 170,
+      "label": "TIME",
+      "text": "17:30"
+    },
+    {
+      "start": 198,
+      "end": 203,
+      "label": "TIME",
+      "text": "19:00"
+    },
+    {
+      "start": 148,
+      "end": 158,
+      "label": "DATE",
+      "text": "14.03.2025"
+    },
+    {
+      "start": 40,
+      "end": 53,
+      "label": "EVENT",
+      "text": "Demonstration"
+    },
+    {
+      "start": 159,
+      "end": 163,
+      "label": "EVENT",
+      "text": "Demo"
+    },
+    {
+      "start": 186,
+      "end": 196,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0143.jpg": [
+    {
+      "start": 48,
+      "end": 57,
+      "label": "TIME",
+      "text": "14:00 Uhr"
+    },
+    {
+      "start": 41,
+      "end": 50,
+      "label": "DATE",
+      "text": "14.07. 14"
+    }
+  ],
+  "0145.jpg": [
+    {
+      "start": 69,
+      "end": 82,
+      "label": "TIME",
+      "text": "20:00 - 10:00"
+    },
+    {
+      "start": 58,
+      "end": 68,
+      "label": "DATE",
+      "text": "06.10.2023"
+    }
+  ],
+  "0146.jpg": [
+    {
+      "start": 64,
+      "end": 80,
+      "label": "TIME",
+      "text": "11:30– 19:30 Uhr"
+    },
+    {
+      "start": 55,
+      "end": 63,
+      "label": "DATE",
+      "text": "15.12.24"
+    },
+    {
+      "start": 156,
+      "end": 160,
+      "label": "DATE",
+      "text": "Okt."
+    }
+  ],
+  "0147.jpeg": [
+    {
+      "start": 107,
+      "end": 116,
+      "label": "TIME",
+      "text": "18:00 Uhr"
+    },
+    {
+      "start": 98,
+      "end": 105,
+      "label": "DATE",
+      "text": "01.03. "
+    }
+  ],
+  "0148.jpg": [
+    {
+      "start": 266,
+      "end": 272,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 0,
+      "end": 17,
+      "label": "DATE",
+      "text": "1. September 2023"
+    },
+    {
+      "start": 122,
+      "end": 127,
+      "label": "DATE",
+      "text": "Abend"
+    },
+    {
+      "start": 122,
+      "end": 127,
+      "label": "EVENT",
+      "text": "Abend"
+    }
+  ],
+  "0149.jpg": [
+    {
+      "start": 32,
+      "end": 38,
+      "label": "TIME",
+      "text": "00 UHR"
+    },
+    {
+      "start": 131,
+      "end": 137,
+      "label": "TIME",
+      "text": "12 Uhr"
+    },
+    {
+      "start": 108,
+      "end": 115,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 116,
+      "end": 125,
+      "label": "DATE",
+      "text": "11.7.2020"
+    },
+    {
+      "start": 39,
+      "end": 52,
+      "label": "EVENT",
+      "text": "Demonstration"
+    }
+  ],
+  "0151.jpg": [
+    {
+      "start": 19,
+      "end": 25,
+      "label": "TIME",
+      "text": "15 Uhr"
+    },
+    {
+      "start": 14,
+      "end": 18,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0152.jpg": [
+    {
+      "start": 77,
+      "end": 83,
+      "label": "TIME",
+      "text": "14 Uhr"
+    },
+    {
+      "start": 51,
+      "end": 58,
+      "label": "DATE",
+      "text": "Sonntag"
+    },
+    {
+      "start": 60,
+      "end": 69,
+      "label": "DATE",
+      "text": "21. April"
+    },
+    {
+      "start": 28,
+      "end": 36,
+      "label": "EVENT",
+      "text": "Laufdemo"
+    }
+  ],
+  "0153.jpg": [
+    {
+      "start": 121,
+      "end": 126,
+      "label": "TIME",
+      "text": "18:30"
+    },
+    {
+      "start": 47,
+      "end": 57,
+      "label": "DATE",
+      "text": "12.03.1938"
+    },
+    {
+      "start": 60,
+      "end": 70,
+      "label": "DATE",
+      "text": "12.03.2025"
+    },
+    {
+      "start": 93,
+      "end": 103,
+      "label": "DATE",
+      "text": "12.03.2025"
+    },
+    {
+      "start": 410,
+      "end": 420,
+      "label": "DATE",
+      "text": "12.03.1938"
+    },
+    {
+      "start": 423,
+      "end": 433,
+      "label": "DATE",
+      "text": "12.03.2025"
+    },
+    {
+      "start": 0,
+      "end": 8,
+      "label": "EVENT",
+      "text": "GEDENKEN"
+    },
+    {
+      "start": 127,
+      "end": 135,
+      "label": "EVENT",
+      "text": "GEDENKEN"
+    }
+  ],
+  "0154.jpeg": [
+    {
+      "start": 64,
+      "end": 69,
+      "label": "TIME",
+      "text": "20:00"
+    },
+    {
+      "start": 39,
+      "end": 47,
+      "label": "DATE",
+      "text": "DIENSTAG"
+    },
+    {
+      "start": 48,
+      "end": 56,
+      "label": "DATE",
+      "text": "21.01.25"
+    }
+  ],
+  "0155.jpg": [
+    {
+      "start": 21,
+      "end": 26,
+      "label": "EVENT",
+      "text": "PARTY"
+    }
+  ],
+  "0156.jpeg": [
+    {
+      "start": 15,
+      "end": 24,
+      "label": "TIME",
+      "text": "10–18 UHR"
+    },
+    {
+      "start": 25,
+      "end": 32,
+      "label": "DATE",
+      "text": "1. MÄRZ"
+    },
+    {
+      "start": 5,
+      "end": 14,
+      "label": "EVENT",
+      "text": "FLOHMARKT"
+    }
+  ],
+  "0157.jpg": [
+    {
+      "start": 105,
+      "end": 110,
+      "label": "TIME",
+      "text": "15:00"
+    },
+    {
+      "start": 157,
+      "end": 162,
+      "label": "TIME",
+      "text": "63–65"
+    }
+  ],
+  "0158.jpg": [
+    {
+      "start": 84,
+      "end": 93,
+      "label": "TIME",
+      "text": "17:30 Uhr"
+    },
+    {
+      "start": 74,
+      "end": 83,
+      "label": "DATE",
+      "text": "9.10.2024"
+    },
+    {
+      "start": 0,
+      "end": 10,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0160.jpg": [
+    {
+      "start": 64,
+      "end": 73,
+      "label": "TIME",
+      "text": "22:00 UHR"
+    },
+    {
+      "start": 52,
+      "end": 57,
+      "label": "DATE",
+      "text": "HEUTE"
+    }
+  ],
+  "0161.jpg": [
+    {
+      "start": 43,
+      "end": 51,
+      "label": "DATE",
+      "text": "22.02.25"
+    },
+    {
+      "start": 298,
+      "end": 300,
+      "label": "DATE",
+      "text": "We"
+    }
+  ],
+  "0162.jpeg": [
+    {
+      "start": 207,
+      "end": 213,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 193,
+      "end": 205,
+      "label": "DATE",
+      "text": "5. März 2025"
+    },
+    {
+      "start": 279,
+      "end": 282,
+      "label": "DATE",
+      "text": "Mai"
+    },
+    {
+      "start": 185,
+      "end": 192,
+      "label": "EVENT",
+      "text": "Treffen"
+    }
+  ],
+  "0163.jpg": [
+    {
+      "start": 48,
+      "end": 57,
+      "label": "TIME",
+      "text": "11:00 Uhr"
+    },
+    {
+      "start": 34,
+      "end": 44,
+      "label": "DATE",
+      "text": "18.11.2020"
+    }
+  ],
+  "0164.jpg": [
+    {
+      "start": 43,
+      "end": 48,
+      "label": "TIME",
+      "text": "15:00"
+    },
+    {
+      "start": 67,
+      "end": 72,
+      "label": "TIME",
+      "text": "16:30"
+    },
+    {
+      "start": 95,
+      "end": 100,
+      "label": "TIME",
+      "text": "18:00"
+    },
+    {
+      "start": 23,
+      "end": 36,
+      "label": "EVENT",
+      "text": "Demonstration"
+    }
+  ],
+  "0165.jpg": [
+    {
+      "start": 100,
+      "end": 109,
+      "label": "TIME",
+      "text": "12–23 Uhr"
+    },
+    {
+      "start": 197,
+      "end": 207,
+      "label": "DATE",
+      "text": "08.06.2024"
+    },
+    {
+      "start": 7,
+      "end": 12,
+      "label": "EVENT",
+      "text": "PARTY"
+    }
+  ],
+  "0166.jpg": [
+    {
+      "start": 62,
+      "end": 67,
+      "label": "TIME",
+      "text": "16-19"
+    },
+    {
+      "start": 53,
+      "end": 61,
+      "label": "DATE",
+      "text": "12.03.25"
+    }
+  ],
+  "0167.jpg": [
+    {
+      "start": 58,
+      "end": 65,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 77,
+      "end": 87,
+      "label": "DATE",
+      "text": "08.07.2023"
+    },
+    {
+      "start": 162,
+      "end": 172,
+      "label": "EVENT",
+      "text": "Kinderfest"
+    }
+  ],
+  "0169.jpeg": [
+    {
+      "start": 116,
+      "end": 121,
+      "label": "TIME",
+      "text": "17:00"
+    },
+    {
+      "start": 24,
+      "end": 31,
+      "label": "DATE",
+      "text": "8. März"
+    },
+    {
+      "start": 106,
+      "end": 113,
+      "label": "DATE",
+      "text": "2. MÄRZ"
+    },
+    {
+      "start": 273,
+      "end": 275,
+      "label": "DATE",
+      "text": "we"
+    },
+    {
+      "start": 92,
+      "end": 105,
+      "label": "EVENT",
+      "text": "KURZFILMABEND"
+    }
+  ],
+  "0170.jpeg": [
+    {
+      "start": 76,
+      "end": 82,
+      "label": "TIME",
+      "text": "30 Uhr"
+    },
+    {
+      "start": 56,
+      "end": 69,
+      "label": "DATE",
+      "text": "04. März 2025"
+    }
+  ],
+  "0171.jpg": [
+    {
+      "start": 178,
+      "end": 195,
+      "label": "TIME",
+      "text": "19:00 - 19:30 Uhr"
+    },
+    {
+      "start": 164,
+      "end": 170,
+      "label": "DATE",
+      "text": "Montag"
+    },
+    {
+      "start": 172,
+      "end": 180,
+      "label": "DATE",
+      "text": "2.11. 19"
+    },
+    {
+      "start": 337,
+      "end": 339,
+      "label": "DATE",
+      "text": "so"
+    },
+    {
+      "start": 407,
+      "end": 409,
+      "label": "DATE",
+      "text": "so"
+    },
+    {
+      "start": 127,
+      "end": 138,
+      "label": "EVENT",
+      "text": "Spaziergang"
+    }
+  ],
+  "0172.jpg": [
+    {
+      "start": 84,
+      "end": 90,
+      "label": "TIME",
+      "text": "17 Uhr"
+    },
+    {
+      "start": 91,
+      "end": 104,
+      "label": "DATE",
+      "text": "16. September"
+    },
+    {
+      "start": 204,
+      "end": 207,
+      "label": "DATE",
+      "text": "Mai"
+    },
+    {
+      "start": 300,
+      "end": 303,
+      "label": "DATE",
+      "text": "Mai"
+    }
+  ],
+  "0173.jpg": [
+    {
+      "start": 96,
+      "end": 102,
+      "label": "TIME",
+      "text": "14 UHR"
+    },
+    {
+      "start": 83,
+      "end": 98,
+      "label": "DATE",
+      "text": "14. NOVEMBER 14"
+    },
+    {
+      "start": 0,
+      "end": 13,
+      "label": "EVENT",
+      "text": "DEMONSTRATION"
+    }
+  ],
+  "0176.jpg": [
+    {
+      "start": 21,
+      "end": 30,
+      "label": "TIME",
+      "text": "11–13 Uhr"
+    },
+    {
+      "start": 0,
+      "end": 7,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 9,
+      "end": 19,
+      "label": "DATE",
+      "text": "30.11.2024"
+    }
+  ],
+  "0177.jpg": [
+    {
+      "start": 132,
+      "end": 141,
+      "label": "TIME",
+      "text": "14:00 Uhr"
+    },
+    {
+      "start": 117,
+      "end": 124,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 125,
+      "end": 134,
+      "label": "DATE",
+      "text": "07.09. 14"
+    },
+    {
+      "start": 38,
+      "end": 42,
+      "label": "EVENT",
+      "text": "DEMO"
+    },
+    {
+      "start": 43,
+      "end": 53,
+      "label": "EVENT",
+      "text": "SOMMERFEST"
+    },
+    {
+      "start": 72,
+      "end": 76,
+      "label": "EVENT",
+      "text": "Demo"
+    },
+    {
+      "start": 87,
+      "end": 97,
+      "label": "EVENT",
+      "text": "Sommerfest"
+    }
+  ],
+  "0178.jpg": [
+    {
+      "start": 47,
+      "end": 51,
+      "label": "DATE",
+      "text": "juni"
+    },
+    {
+      "start": 52,
+      "end": 56,
+      "label": "DATE",
+      "text": "juli"
+    },
+    {
+      "start": 62,
+      "end": 64,
+      "label": "DATE",
+      "text": "DI"
+    },
+    {
+      "start": 65,
+      "end": 73,
+      "label": "DATE",
+      "text": "16.07.24"
+    }
+  ],
+  "0179.jpg": [
+    {
+      "start": 69,
+      "end": 75,
+      "label": "DATE",
+      "text": "23.5. "
+    },
+    {
+      "start": 79,
+      "end": 85,
+      "label": "DATE",
+      "text": "8.6.24"
+    }
+  ],
+  "0180.jpg": [
+    {
+      "start": 141,
+      "end": 150,
+      "label": "TIME",
+      "text": "19:00 Uhr"
+    },
+    {
+      "start": 131,
+      "end": 133,
+      "label": "DATE",
+      "text": "Do"
+    },
+    {
+      "start": 134,
+      "end": 143,
+      "label": "DATE",
+      "text": "19.12. 19"
+    },
+    {
+      "start": 92,
+      "end": 99,
+      "label": "EVENT",
+      "text": "Vortrag"
+    }
+  ],
+  "0181.jpg": [
+    {
+      "start": 85,
+      "end": 95,
+      "label": "DATE",
+      "text": "31. AUGUST"
+    },
+    {
+      "start": 98,
+      "end": 114,
+      "label": "DATE",
+      "text": "18. OKTOBER 2024"
+    }
+  ],
+  "0182.jpg": [
+    {
+      "start": 39,
+      "end": 49,
+      "label": "DATE",
+      "text": "27.08.2022"
+    },
+    {
+      "start": 233,
+      "end": 248,
+      "label": "DATE",
+      "text": "27. AUGUST 2022"
+    },
+    {
+      "start": 21,
+      "end": 38,
+      "label": "EVENT",
+      "text": "LICHTENHAGEN-DEMO"
+    },
+    {
+      "start": 216,
+      "end": 220,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0183.jpg": [
+    {
+      "start": 50,
+      "end": 55,
+      "label": "DATE",
+      "text": "APRIL"
+    },
+    {
+      "start": 5,
+      "end": 15,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0185.jpg": [
+    {
+      "start": 62,
+      "end": 71,
+      "label": "TIME",
+      "text": "10–18 Uhr"
+    },
+    {
+      "start": 76,
+      "end": 84,
+      "label": "DATE",
+      "text": "11.08.24"
+    }
+  ],
+  "0186.jpg": [
+    {
+      "start": 45,
+      "end": 51,
+      "label": "TIME",
+      "text": "18 Uhr"
+    },
+    {
+      "start": 60,
+      "end": 66,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "label": "DATE",
+      "text": "Freitag"
+    },
+    {
+      "start": 17,
+      "end": 33,
+      "label": "DATE",
+      "text": "11. Oktober 2024"
+    },
+    {
+      "start": 194,
+      "end": 199,
+      "label": "EVENT",
+      "text": "PARTY"
+    },
+    {
+      "start": 205,
+      "end": 218,
+      "label": "EVENT",
+      "text": "Veranstaltung"
+    }
+  ],
+  "0187.jpg": [
+    {
+      "start": 116,
+      "end": 122,
+      "label": "TIME",
+      "text": "20 Uhr"
+    },
+    {
+      "start": 93,
+      "end": 100,
+      "label": "DATE",
+      "text": "Sonntag"
+    },
+    {
+      "start": 102,
+      "end": 108,
+      "label": "DATE",
+      "text": "2.6.24"
+    },
+    {
+      "start": 0,
+      "end": 20,
+      "label": "EVENT",
+      "text": "Autobahn-Abrissparty"
+    }
+  ],
+  "0190.jpg": [
+    {
+      "start": 97,
+      "end": 106,
+      "label": "TIME",
+      "text": "14–19 UHR"
+    },
+    {
+      "start": 36,
+      "end": 46,
+      "label": "DATE",
+      "text": "20.11.2022"
+    }
+  ],
+  "0191.jpg": [
+    {
+      "start": 30,
+      "end": 39,
+      "label": "TIME",
+      "text": "18:00 Uhr"
+    }
+  ],
+  "0193.jpg": [
+    {
+      "start": 72,
+      "end": 81,
+      "label": "TIME",
+      "text": "21:00 UHR"
+    },
+    {
+      "start": 62,
+      "end": 69,
+      "label": "DATE",
+      "text": "01.01. "
+    },
+    {
+      "start": 33,
+      "end": 38,
+      "label": "EVENT",
+      "text": "PARTY"
+    }
+  ],
+  "0194.jpg": [
+    {
+      "start": 71,
+      "end": 80,
+      "label": "TIME",
+      "text": "14–17 UHR"
+    },
+    {
+      "start": 119,
+      "end": 128,
+      "label": "TIME",
+      "text": "17–22 UHR"
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "DATE",
+      "text": "SA"
+    },
+    {
+      "start": 43,
+      "end": 53,
+      "label": "DATE",
+      "text": "17.05.2025"
+    },
+    {
+      "start": 81,
+      "end": 92,
+      "label": "EVENT",
+      "text": "Protestfest"
+    },
+    {
+      "start": 129,
+      "end": 140,
+      "label": "EVENT",
+      "text": "Protestrave"
+    }
+  ],
+  "0195.jpg": [
+    {
+      "start": 108,
+      "end": 117,
+      "label": "TIME",
+      "text": "16:30 Uhr"
+    }
+  ],
+  "0196.jpg": [
+    {
+      "start": 114,
+      "end": 119,
+      "label": "TIME",
+      "text": "12:15"
+    },
+    {
+      "start": 157,
+      "end": 162,
+      "label": "TIME",
+      "text": "13:00"
+    },
+    {
+      "start": 195,
+      "end": 200,
+      "label": "TIME",
+      "text": "13:30"
+    },
+    {
+      "start": 165,
+      "end": 183,
+      "label": "EVENT",
+      "text": "Zwischenkundgebung"
+    },
+    {
+      "start": 203,
+      "end": 215,
+      "label": "EVENT",
+      "text": "Gegenprotest"
+    },
+    {
+      "start": 254,
+      "end": 258,
+      "label": "EVENT",
+      "text": "Demo"
+    }
+  ],
+  "0197.jpg": [
+    {
+      "start": 30,
+      "end": 35,
+      "label": "TIME",
+      "text": "12:30"
+    },
+    {
+      "start": 79,
+      "end": 84,
+      "label": "TIME",
+      "text": "12:00"
+    },
+    {
+      "start": 100,
+      "end": 105,
+      "label": "TIME",
+      "text": "13:00"
+    },
+    {
+      "start": 22,
+      "end": 29,
+      "label": "DATE",
+      "text": "22.2.25"
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "EVENT",
+      "text": "DEMO"
+    },
+    {
+      "start": 74,
+      "end": 78,
+      "label": "EVENT",
+      "text": "DEMO"
+    },
+    {
+      "start": 106,
+      "end": 116,
+      "label": "EVENT",
+      "text": "KUNDGEBUNG"
+    }
+  ],
+  "0198.jpg": [
+    {
+      "start": 82,
+      "end": 88,
+      "label": "TIME",
+      "text": "30 UHR"
+    },
+    {
+      "start": 49,
+      "end": 56,
+      "label": "DATE",
+      "text": "SONNTAG"
+    },
+    {
+      "start": 58,
+      "end": 64,
+      "label": "DATE",
+      "text": "23.2. "
+    },
+    {
+      "start": 16,
+      "end": 29,
+      "label": "EVENT",
+      "text": "AFD-WAHLPARTY"
+    },
+    {
+      "start": 64,
+      "end": 78,
+      "label": "EVENT",
+      "text": "WAHLTAGPROTEST"
+    }
+  ],
+  "0199.jpg": [
+    {
+      "start": 75,
+      "end": 84,
+      "label": "TIME",
+      "text": "11:30 UHR"
+    },
+    {
+      "start": 36,
+      "end": 43,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 45,
+      "end": 53,
+      "label": "DATE",
+      "text": "22.02.25"
+    }
+  ],
+  "0200.jpg": [
+    {
+      "start": 57,
+      "end": 66,
+      "label": "TIME",
+      "text": "13:00 UHR"
+    },
+    {
+      "start": 43,
+      "end": 53,
+      "label": "DATE",
+      "text": "22.02.2025"
+    },
+    {
+      "start": 81,
+      "end": 100,
+      "label": "EVENT",
+      "text": "ABSCHLUSSKUNDGEBUNG"
+    }
+  ],
+  "0201.jpg": [
+    {
+      "start": 134,
+      "end": 140,
+      "label": "TIME",
+      "text": "00 Uhr"
+    },
+    {
+      "start": 103,
+      "end": 105,
+      "label": "DATE",
+      "text": "So"
+    },
+    {
+      "start": 106,
+      "end": 113,
+      "label": "DATE",
+      "text": "09.02. "
+    },
+    {
+      "start": 141,
+      "end": 151,
+      "label": "EVENT",
+      "text": "Protestzug"
+    },
+    {
+      "start": 189,
+      "end": 201,
+      "label": "EVENT",
+      "text": "Protestwelle"
+    }
+  ],
+  "0202.jpg": [
+    {
+      "start": 66,
+      "end": 72,
+      "label": "TIME",
+      "text": "30 Uhr"
+    },
+    {
+      "start": 52,
+      "end": 59,
+      "label": "DATE",
+      "text": "14.12. "
+    },
+    {
+      "start": 280,
+      "end": 292,
+      "label": "EVENT",
+      "text": "Gegenprotest"
+    }
+  ],
+  "0203.jpg": [
+    {
+      "start": 79,
+      "end": 85,
+      "label": "TIME",
+      "text": "17:30h"
+    }
+  ],
+  "0204.jpg": [
+    {
+      "start": 3,
+      "end": 9,
+      "label": "TIME",
+      "text": "00 Uhr"
+    },
+    {
+      "start": 10,
+      "end": 17,
+      "label": "DATE",
+      "text": "16.11. "
+    },
+    {
+      "start": 321,
+      "end": 339,
+      "label": "EVENT",
+      "text": "Zwischenkundgebung"
+    },
+    {
+      "start": 361,
+      "end": 380,
+      "label": "EVENT",
+      "text": "Abschlusskundgebung"
+    }
+  ],
+  "0205.jpg": [
+    {
+      "start": 174,
+      "end": 183,
+      "label": "TIME",
+      "text": "14:20 Uhr"
+    },
+    {
+      "start": 228,
+      "end": 234,
+      "label": "TIME",
+      "text": "16 Uhr"
+    },
+    {
+      "start": 281,
+      "end": 290,
+      "label": "TIME",
+      "text": "15:36 Uhr"
+    },
+    {
+      "start": 336,
+      "end": 345,
+      "label": "TIME",
+      "text": "13:21 Uhr"
+    },
+    {
+      "start": 370,
+      "end": 380,
+      "label": "DATE",
+      "text": "22.09.2024"
+    },
+    {
+      "start": 20,
+      "end": 29,
+      "label": "EVENT",
+      "text": "AfD-Party"
+    },
+    {
+      "start": 163,
+      "end": 173,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    },
+    {
+      "start": 199,
+      "end": 203,
+      "label": "EVENT",
+      "text": "Demo"
+    },
+    {
+      "start": 214,
+      "end": 227,
+      "label": "EVENT",
+      "text": "AfD-Wahlparty"
+    }
+  ],
+  "0206.jpg": [
+    {
+      "start": 118,
+      "end": 124,
+      "label": "TIME",
+      "text": "17 UHR"
+    },
+    {
+      "start": 28,
+      "end": 41,
+      "label": "EVENT",
+      "text": "AFD-WAHLPARTY"
+    },
+    {
+      "start": 57,
+      "end": 66,
+      "label": "EVENT",
+      "text": "Wahlparty"
+    },
+    {
+      "start": 88,
+      "end": 100,
+      "label": "EVENT",
+      "text": "Gegenprotest"
+    }
+  ],
+  "0207.jpg": [
+    {
+      "start": 57,
+      "end": 66,
+      "label": "TIME",
+      "text": "15:30 Uhr"
+    },
+    {
+      "start": 41,
+      "end": 51,
+      "label": "DATE",
+      "text": "16. August"
+    },
+    {
+      "start": 83,
+      "end": 98,
+      "label": "EVENT",
+      "text": "Gegenkundgebung"
+    }
+  ],
+  "0208.jpg": [
+    {
+      "start": 75,
+      "end": 84,
+      "label": "TIME",
+      "text": "15:00 Uhr"
+    },
+    {
+      "start": 123,
+      "end": 128,
+      "label": "TIME",
+      "text": "14:05"
+    },
+    {
+      "start": 22,
+      "end": 24,
+      "label": "DATE",
+      "text": "Sa"
+    },
+    {
+      "start": 25,
+      "end": 32,
+      "label": "DATE",
+      "text": "13.7.24"
+    },
+    {
+      "start": 33,
+      "end": 37,
+      "label": "EVENT",
+      "text": "Demo"
+    }
+  ],
+  "0209.jpg": [
+    {
+      "start": 119,
+      "end": 125,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 169,
+      "end": 174,
+      "label": "TIME",
+      "text": "6 Uhr"
+    },
+    {
+      "start": 87,
+      "end": 100,
+      "label": "DATE",
+      "text": "30. Juni 2024"
+    },
+    {
+      "start": 110,
+      "end": 117,
+      "label": "DATE",
+      "text": "Freitag"
+    },
+    {
+      "start": 160,
+      "end": 167,
+      "label": "DATE",
+      "text": "Samstag"
+    },
+    {
+      "start": 127,
+      "end": 136,
+      "label": "EVENT",
+      "text": "Rave-Demo"
+    },
+    {
+      "start": 146,
+      "end": 159,
+      "label": "EVENT",
+      "text": "Aktionsplenum"
+    }
+  ],
+  "0210.jpg": [
+    {
+      "start": 48,
+      "end": 59,
+      "label": "TIME",
+      "text": "14:00–20:00"
+    },
+    {
+      "start": 37,
+      "end": 47,
+      "label": "DATE",
+      "text": "08.03.2024"
+    },
+    {
+      "start": 31,
+      "end": 35,
+      "label": "EVENT",
+      "text": "DEMO"
+    },
+    {
+      "start": 98,
+      "end": 108,
+      "label": "EVENT",
+      "text": "AFTERPARTY"
+    }
+  ],
+  "0211.jpg": [
+    {
+      "start": 9,
+      "end": 15,
+      "label": "TIME",
+      "text": "16 Uhr"
+    },
+    {
+      "start": 35,
+      "end": 40,
+      "label": "TIME",
+      "text": "16:00"
+    },
+    {
+      "start": 0,
+      "end": 7,
+      "label": "DATE",
+      "text": "Sonntag"
+    },
+    {
+      "start": 26,
+      "end": 34,
+      "label": "DATE",
+      "text": "21.01.24"
+    }
+  ],
+  "0212.jpg": [
+    {
+      "start": 148,
+      "end": 157,
+      "label": "TIME",
+      "text": "16:30 Uhr"
+    },
+    {
+      "start": 130,
+      "end": 147,
+      "label": "DATE",
+      "text": "25. November 2023"
+    },
+    {
+      "start": 124,
+      "end": 128,
+      "label": "EVENT",
+      "text": "Demo"
+    }
+  ],
+  "0213.jpg": [
+    {
+      "start": 109,
+      "end": 118,
+      "label": "TIME",
+      "text": "17:30 UHR"
+    },
+    {
+      "start": 90,
+      "end": 98,
+      "label": "DATE",
+      "text": "22.10.23"
+    },
+    {
+      "start": 76,
+      "end": 89,
+      "label": "EVENT",
+      "text": "DEMONSTRATION"
+    }
+  ],
+  "0214.jpg": [
+    {
+      "start": 103,
+      "end": 112,
+      "label": "TIME",
+      "text": "14:30 UHR"
+    },
+    {
+      "start": 137,
+      "end": 146,
+      "label": "TIME",
+      "text": "16:00 UHR"
+    },
+    {
+      "start": 69,
+      "end": 77,
+      "label": "DATE",
+      "text": "15.07.23"
+    },
+    {
+      "start": 88,
+      "end": 91,
+      "label": "DATE",
+      "text": "SA."
+    },
+    {
+      "start": 92,
+      "end": 100,
+      "label": "DATE",
+      "text": "15. JULI"
+    }
+  ],
+  "0215.jpg": [
+    {
+      "start": 104,
+      "end": 110,
+      "label": "TIME",
+      "text": "30 UHR"
+    },
+    {
+      "start": 85,
+      "end": 92,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 93,
+      "end": 98,
+      "label": "DATE",
+      "text": "3.6. "
+    },
+    {
+      "start": 40,
+      "end": 48,
+      "label": "EVENT",
+      "text": "PICKNICK"
+    },
+    {
+      "start": 66,
+      "end": 71,
+      "label": "EVENT",
+      "text": "PARTY"
+    }
+  ],
+  "0216.jpg": [
+    {
+      "start": 64,
+      "end": 70,
+      "label": "TIME",
+      "text": "13 UHR"
+    },
+    {
+      "start": 46,
+      "end": 53,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 54,
+      "end": 61,
+      "label": "DATE",
+      "text": "08.04. "
+    }
+  ],
+  "0217.jpg": [
+    {
+      "start": 90,
+      "end": 96,
+      "label": "TIME",
+      "text": "14 UHR"
+    },
+    {
+      "start": 71,
+      "end": 78,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 80,
+      "end": 87,
+      "label": "DATE",
+      "text": "25.02. "
+    },
+    {
+      "start": 145,
+      "end": 153,
+      "label": "DATE",
+      "text": "18. März"
+    },
+    {
+      "start": 0,
+      "end": 15,
+      "label": "EVENT",
+      "text": "GEGENKUNDGEBUNG"
+    },
+    {
+      "start": 34,
+      "end": 47,
+      "label": "EVENT",
+      "text": "QUERFRONTDEMO"
+    }
+  ],
+  "0218.jpg": [
+    {
+      "start": 72,
+      "end": 81,
+      "label": "TIME",
+      "text": "18:00 Uhr"
+    },
+    {
+      "start": 54,
+      "end": 60,
+      "label": "DATE",
+      "text": "Montag"
+    },
+    {
+      "start": 61,
+      "end": 71,
+      "label": "DATE",
+      "text": "09.01.2023"
+    }
+  ],
+  "0219.jpg": [
+    {
+      "start": 21,
+      "end": 26,
+      "label": "TIME",
+      "text": "14:30"
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "TIME",
+      "text": "16-19 Uhr"
+    },
+    {
+      "start": 84,
+      "end": 90,
+      "label": "TIME",
+      "text": "19 Uhr"
+    },
+    {
+      "start": 14,
+      "end": 20,
+      "label": "DATE",
+      "text": "3.9.22"
+    },
+    {
+      "start": 103,
+      "end": 108,
+      "label": "DATE",
+      "text": "Abend"
+    },
+    {
+      "start": 0,
+      "end": 13,
+      "label": "EVENT",
+      "text": "StraßenFFFest"
+    },
+    {
+      "start": 27,
+      "end": 35,
+      "label": "EVENT",
+      "text": "Laufdemo"
+    },
+    {
+      "start": 69,
+      "end": 80,
+      "label": "EVENT",
+      "text": "Straßenfest"
+    },
+    {
+      "start": 103,
+      "end": 108,
+      "label": "EVENT",
+      "text": "Abend"
+    }
+  ],
+  "0220.jpg": [
+    {
+      "start": 89,
+      "end": 95,
+      "label": "TIME",
+      "text": "14 Uhr"
+    },
+    {
+      "start": 78,
+      "end": 85,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 22,
+      "end": 30,
+      "label": "EVENT",
+      "text": "PICKNICK"
+    },
+    {
+      "start": 104,
+      "end": 114,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0221.jpg": [
+    {
+      "start": 158,
+      "end": 166,
+      "label": "DATE",
+      "text": "25.06.22"
+    },
+    {
+      "start": 102,
+      "end": 120,
+      "label": "EVENT",
+      "text": "Friedenskundgebung"
+    },
+    {
+      "start": 153,
+      "end": 157,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0222.jpg": [
+    {
+      "start": 110,
+      "end": 116,
+      "label": "TIME",
+      "text": "13 UHR"
+    },
+    {
+      "start": 103,
+      "end": 112,
+      "label": "DATE",
+      "text": "1. MAI 13"
+    }
+  ],
+  "0223.jpg": [
+    {
+      "start": 11,
+      "end": 20,
+      "label": "TIME",
+      "text": "13:30 UHR"
+    },
+    {
+      "start": 0,
+      "end": 7,
+      "label": "DATE",
+      "text": "SAMSTAG"
+    },
+    {
+      "start": 135,
+      "end": 141,
+      "label": "EVENT",
+      "text": "Aktion"
+    }
+  ],
+  "0224.jpg": [
+    {
+      "start": 125,
+      "end": 131,
+      "label": "TIME",
+      "text": "19 UHR"
+    },
+    {
+      "start": 19,
+      "end": 22,
+      "label": "DATE",
+      "text": "Dez"
+    },
+    {
+      "start": 110,
+      "end": 116,
+      "label": "DATE",
+      "text": "MONTAG"
+    },
+    {
+      "start": 118,
+      "end": 127,
+      "label": "DATE",
+      "text": "28.02. 19"
+    },
+    {
+      "start": 132,
+      "end": 144,
+      "label": "DATE",
+      "text": "JEDEN MONTAG"
+    },
+    {
+      "start": 145,
+      "end": 149,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0225.jpg": [
+    {
+      "start": 24,
+      "end": 27,
+      "label": "DATE",
+      "text": "Jun"
+    },
+    {
+      "start": 43,
+      "end": 51,
+      "label": "DATE",
+      "text": "11.12.21"
+    },
+    {
+      "start": 58,
+      "end": 68,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0226.jpg": [
+    {
+      "start": 52,
+      "end": 61,
+      "label": "TIME",
+      "text": "13:00 Uhr"
+    },
+    {
+      "start": 86,
+      "end": 94,
+      "label": "DATE",
+      "text": "08. MÄRZ"
+    },
+    {
+      "start": 114,
+      "end": 127,
+      "label": "EVENT",
+      "text": "DEMONSTRATION"
+    }
+  ],
+  "0227.jpg": [
+    {
+      "start": 52,
+      "end": 58,
+      "label": "TIME",
+      "text": "19 UHR"
+    },
+    {
+      "start": 34,
+      "end": 41,
+      "label": "DATE",
+      "text": "8. MÄRZ"
+    },
+    {
+      "start": 42,
+      "end": 46,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0228.jpg": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "DATE",
+      "text": "19.04.2025"
+    },
+    {
+      "start": 25,
+      "end": 42,
+      "label": "EVENT",
+      "text": "Gedenkspaziergang"
+    }
+  ],
+  "0229.jpg": [
+    {
+      "start": 66,
+      "end": 69,
+      "label": "DATE",
+      "text": "FR."
+    },
+    {
+      "start": 70,
+      "end": 82,
+      "label": "DATE",
+      "text": "18. APRIL 16"
+    },
+    {
+      "start": 61,
+      "end": 65,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ],
+  "0230.jpg": [
+    {
+      "start": 84,
+      "end": 93,
+      "label": "TIME",
+      "text": "19:00 Uhr"
+    },
+    {
+      "start": 62,
+      "end": 72,
+      "label": "DATE",
+      "text": "Donnerstag"
+    },
+    {
+      "start": 74,
+      "end": 82,
+      "label": "DATE",
+      "text": "17.04.25"
+    }
+  ],
+  "0231.jpg": [
+    {
+      "start": 84,
+      "end": 90,
+      "label": "TIME",
+      "text": "18 UHR"
+    },
+    {
+      "start": 71,
+      "end": 80,
+      "label": "DATE",
+      "text": "15. APRIL"
+    },
+    {
+      "start": 27,
+      "end": 34,
+      "label": "EVENT",
+      "text": "PROTEST"
+    },
+    {
+      "start": 45,
+      "end": 52,
+      "label": "EVENT",
+      "text": "VORTRAG"
+    },
+    {
+      "start": 111,
+      "end": 118,
+      "label": "EVENT",
+      "text": "VORTRAG"
+    }
+  ],
+  "0232.jpg": [
+    {
+      "start": 24,
+      "end": 33,
+      "label": "TIME",
+      "text": "15–21 Uhr"
+    },
+    {
+      "start": 15,
+      "end": 23,
+      "label": "DATE",
+      "text": "13.04.25"
+    }
+  ],
+  "0233.jpg": [
+    {
+      "start": 14,
+      "end": 19,
+      "label": "TIME",
+      "text": "15:00"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "label": "DATE",
+      "text": "05.04.2025"
+    },
+    {
+      "start": 0,
+      "end": 13,
+      "label": "EVENT",
+      "text": "DEMONSTRATION"
+    }
+  ],
+  "0234.jpg": [
+    {
+      "start": 26,
+      "end": 32,
+      "label": "TIME",
+      "text": "12 Uhr"
+    },
+    {
+      "start": 15,
+      "end": 23,
+      "label": "DATE",
+      "text": "5. April"
+    },
+    {
+      "start": 33,
+      "end": 43,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0235.jpg": [
+    {
+      "start": 239,
+      "end": 244,
+      "label": "TIME",
+      "text": "20:00"
+    },
+    {
+      "start": 223,
+      "end": 236,
+      "label": "DATE",
+      "text": "3. April 2025"
+    },
+    {
+      "start": 177,
+      "end": 184,
+      "label": "EVENT",
+      "text": "protest"
+    }
+  ],
+  "0236.jpg": [
+    {
+      "start": 99,
+      "end": 104,
+      "label": "TIME",
+      "text": "19:00"
+    },
+    {
+      "start": 87,
+      "end": 95,
+      "label": "DATE",
+      "text": "1. April"
+    }
+  ],
+  "0237.jpg": [
+    {
+      "start": 95,
+      "end": 101,
+      "label": "TIME",
+      "text": "12 Uhr"
+    },
+    {
+      "start": 135,
+      "end": 140,
+      "label": "TIME",
+      "text": "10-12"
+    },
+    {
+      "start": 83,
+      "end": 91,
+      "label": "DATE",
+      "text": "31. März"
+    },
+    {
+      "start": 0,
+      "end": 10,
+      "label": "EVENT",
+      "text": "Kundgebung"
+    }
+  ],
+  "0238.jpg": [
+    {
+      "start": 18,
+      "end": 23,
+      "label": "DATE",
+      "text": "ABEND"
+    },
+    {
+      "start": 18,
+      "end": 23,
+      "label": "EVENT",
+      "text": "ABEND"
+    },
+    {
+      "start": 194,
+      "end": 199,
+      "label": "EVENT",
+      "text": "PARTY"
+    }
+  ],
+  "0239.jpg": [
+    {
+      "start": 122,
+      "end": 128,
+      "label": "TIME",
+      "text": "21 UHR"
+    },
+    {
+      "start": 30,
+      "end": 35,
+      "label": "DATE",
+      "text": "Abend"
+    },
+    {
+      "start": 85,
+      "end": 92,
+      "label": "DATE",
+      "text": "24.11. "
+    },
+    {
+      "start": 30,
+      "end": 35,
+      "label": "EVENT",
+      "text": "Abend"
+    }
+  ],
+  "0240.jpg": [
+    {
+      "start": 135,
+      "end": 141,
+      "label": "TIME",
+      "text": "13 Uhr"
+    },
+    {
+      "start": 112,
+      "end": 119,
+      "label": "DATE",
+      "text": "Sonntag"
+    },
+    {
+      "start": 122,
+      "end": 132,
+      "label": "DATE",
+      "text": "13.10.2019"
+    },
+    {
+      "start": 97,
+      "end": 110,
+      "label": "EVENT",
+      "text": "Demonstration"
+    }
+  ],
+  "0241.jpg": [
+    {
+      "start": 64,
+      "end": 73,
+      "label": "TIME",
+      "text": "14:30 Uhr"
+    },
+    {
+      "start": 32,
+      "end": 42,
+      "label": "DATE",
+      "text": "19.12.2020"
+    },
+    {
+      "start": 0,
+      "end": 11,
+      "label": "EVENT",
+      "text": "Spaziergang"
+    }
+  ],
+  "0242.jpg": [
+    {
+      "start": 79,
+      "end": 85,
+      "label": "TIME",
+      "text": "13 Uhr"
+    },
+    {
+      "start": 63,
+      "end": 73,
+      "label": "DATE",
+      "text": "06.10.2024"
+    },
+    {
+      "start": 74,
+      "end": 78,
+      "label": "EVENT",
+      "text": "DEMO"
+    }
+  ]
+}

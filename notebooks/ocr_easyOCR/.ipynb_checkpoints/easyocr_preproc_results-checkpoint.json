@@ -1,0 +1,590 @@
+[
+  {
+    "text": "GI:fA",
+    "bbox": [
+      [
+        54.0,
+        0.0
+      ],
+      [
+        612.0,
+        0.0
+      ],
+      [
+        612.0,
+        66.0
+      ],
+      [
+        54.0,
+        66.0
+      ]
+    ],
+    "confidence": 0.06284264358441184,
+    "preprocessing": {
+      "alpha": 1.2,
+      "beta": 50,
+      "invert": false,
+      "binarize": true
+    }
+  },
+  {
+    "text": "2IESTADT",
+    "bbox": [
+      [
+        128.0,
+        111.0
+      ],
+      [
+        612.0,
+        111.0
+      ],
+      [
+        612.0,
+        243.0
+      ],
+      [
+        128.0,
+        243.0
+      ]
+    ],
+    "confidence": 0.7097475369102546,
+    "preprocessing": {
+      "alpha": 1.5,
+      "beta": -50,
+      "invert": false,
+      "binarize": true
+    }
+  },
+  {
+    "text": "GESTOHLEN",
+    "bbox": [
+      [
+        0.0,
+        264.0
+      ],
+      [
+        467.0,
+        264.0
+      ],
+      [
+        467.0,
+        365.0
+      ],
+      [
+        0.0,
+        365.0
+      ]
+    ],
+    "confidence": 0.9831786457601849,
+    "preprocessing": {
+      "alpha": 0.8,
+      "beta": -50,
+      "invert": false,
+      "binarize": true
+    }
+  },
+  {
+    "text": "GEBTSIE",
+    "bbox": [
+      [
+        50.0,
+        427.0
+      ],
+      [
+        509.0,
+        427.0
+      ],
+      [
+        509.0,
+        530.0
+      ],
+      [
+        50.0,
+        530.0
+      ]
+    ],
+    "confidence": 0.9377473092590229,
+    "preprocessing": {
+      "alpha": 0.8,
+      "beta": -50,
+      "invert": false,
+      "binarize": false
+    }
+  },
+  {
+    "text": "DiKmE",
+    "bbox": [
+      [
+        3.0,
+        520.0
+      ],
+      [
+        597.0,
+        520.0
+      ],
+      [
+        597.0,
+        581.0
+      ],
+      [
+        3.0,
+        581.0
+      ]
+    ],
+    "confidence": 0.05133126207191333,
+    "preprocessing": {
+      "alpha": 1.5,
+      "beta": 50,
+      "invert": false,
+      "binarize": false
+    }
+  },
+  {
+    "text": "WIEDERHERI",
+    "bbox": [
+      [
+        3.0,
+        584.0
+      ],
+      [
+        612.0,
+        584.0
+      ],
+      [
+        612.0,
+        696.0
+      ],
+      [
+        3.0,
+        696.0
+      ]
+    ],
+    "confidence": 0.9809978286256513,
+    "preprocessing": {
+      "alpha": 1.5,
+      "beta": -50,
+      "invert": true,
+      "binarize": false
+    }
+  },
+  {
+    "text": "DEMO GEGEN GENTRIFIZIERUNG",
+    "bbox": [
+      [
+        3.0,
+        666.0
+      ],
+      [
+        599.0,
+        666.0
+      ],
+      [
+        599.0,
+        735.0
+      ],
+      [
+        3.0,
+        735.0
+      ]
+    ],
+    "confidence": 0.9979087768496072,
+    "preprocessing": {
+      "alpha": 1.2,
+      "beta": 50,
+      "invert": false,
+      "binarize": true
+    }
+  },
+  {
+    "text": "JUEI2022/ 1500 UHR",
+    "bbox": [
+      [
+        82.0,
+        700.0
+      ],
+      [
+        599.0,
+        700.0
+      ],
+      [
+        599.0,
+        764.0
+      ],
+      [
+        82.0,
+        764.0
+      ]
+    ],
+    "confidence": 0.3720609406508529,
+    "preprocessing": {
+      "alpha": 0.8,
+      "beta": -50,
+      "invert": false,
+      "binarize": false
+    }
+  },
+  {
+    "text": "09JULI 2022",
+    "bbox": [
+      [
+        4.0,
+        717.0
+      ],
+      [
+        323.0,
+        717.0
+      ],
+      [
+        323.0,
+        764.0
+      ],
+      [
+        4.0,
+        764.0
+      ]
+    ],
+    "confidence": 0.6013650489217781,
+    "preprocessing": {
+      "alpha": 1.2,
+      "beta": 50,
+      "invert": true,
+      "binarize": true
+    }
+  },
+  {
+    "text": "1500 UHR",
+    "bbox": [
+      [
+        347.0,
+        707.0
+      ],
+      [
+        597.0,
+        707.0
+      ],
+      [
+        597.0,
+        764.0
+      ],
+      [
+        347.0,
+        764.0
+      ]
+    ],
+    "confidence": 0.993384574145854,
+    "preprocessing": {
+      "alpha": 1.0,
+      "beta": -50,
+      "invert": true,
+      "binarize": false
+    }
+  },
+  {
+    "text": "fX6",
+    "bbox": [
+      [
+        0.0,
+        515.0
+      ],
+      [
+        131.0,
+        515.0
+      ],
+      [
+        131.0,
+        577.0
+      ],
+      [
+        0.0,
+        577.0
+      ]
+    ],
+    "confidence": 0.12077762125763629,
+    "preprocessing": {
+      "alpha": 1.0,
+      "beta": 50,
+      "invert": false,
+      "binarize": true
+    }
+  },
+  {
+    "text": "09",
+    "bbox": [
+      [
+        9.0,
+        727.0
+      ],
+      [
+        75.0,
+        727.0
+      ],
+      [
+        75.0,
+        764.0
+      ],
+      [
+        9.0,
+        764.0
+      ]
+    ],
+    "confidence": 0.5717366283869593,
+    "preprocessing": {
+      "alpha": 1.0,
+      "beta": 0,
+      "invert": true,
+      "binarize": false
+    }
+  },
+  {
+    "text": "7855nx 0*082",
+    "bbox": [
+      [
+        11.0,
+        683.0
+      ],
+      [
+        256.0,
+        683.0
+      ],
+      [
+        256.0,
+        731.0
+      ],
+      [
+        11.0,
+        731.0
+      ]
+    ],
+    "confidence": 0.02563045190262855,
+    "preprocessing": {
+      "alpha": 1.0,
+      "beta": 50,
+      "invert": true,
+      "binarize": true
+    }
+  },
+  {
+    "text": "7285*0s36a",
+    "bbox": [
+      [
+        417.0,
+        669.0
+      ],
+      [
+        598.0,
+        669.0
+      ],
+      [
+        598.0,
+        717.0
+      ],
+      [
+        417.0,
+        717.0
+      ]
+    ],
+    "confidence": 0.014082612536433376,
+    "preprocessing": {
+      "alpha": 1.0,
+      "beta": 50,
+      "invert": true,
+      "binarize": true
+    }
+  },
+  {
+    "text": "1w8m! e!",
+    "bbox": [
+      [
+        53.0,
+        567.0
+      ],
+      [
+        150.0,
+        567.0
+      ],
+      [
+        150.0,
+        596.0
+      ],
+      [
+        53.0,
+        596.0
+      ]
+    ],
+    "confidence": 0.01704219803630294,
+    "preprocessing": {
+      "alpha": 1.2,
+      "beta": 50,
+      "invert": false,
+      "binarize": true
+    }
+  },
+  {
+    "text": "LL",
+    "bbox": [
+      [
+        345.9266873708001,
+        52.096780539400555
+      ],
+      [
+        438.7224352725639,
+        69.19618888147443
+      ],
+      [
+        428.0733126291999,
+        118.90321946059944
+      ],
+      [
+        335.2775647274361,
+        101.80381111852557
+      ]
+    ],
+    "confidence": 0.9743452377143238,
+    "preprocessing": {
+      "alpha": 1.2,
+      "beta": 50,
+      "invert": false,
+      "binarize": true
+    }
+  },
+  {
+    "text": "Lco",
+    "bbox": [
+      [
+        410.0,
+        367.0
+      ],
+      [
+        511.0,
+        367.0
+      ],
+      [
+        511.0,
+        419.0
+      ],
+      [
+        410.0,
+        419.0
+      ]
+    ],
+    "confidence": 0.05870424718599738,
+    "preprocessing": {
+      "alpha": 1.5,
+      "beta": 50,
+      "invert": true,
+      "binarize": true
+    }
+  },
+  {
+    "text": "Wefi",
+    "bbox": [
+      [
+        64.0,
+        570.0
+      ],
+      [
+        114.0,
+        570.0
+      ],
+      [
+        114.0,
+        594.0
+      ],
+      [
+        64.0,
+        594.0
+      ]
+    ],
+    "confidence": 0.18365460634231567,
+    "preprocessing": {
+      "alpha": 1.2,
+      "beta": 50,
+      "invert": true,
+      "binarize": true
+    }
+  },
+  {
+    "text": "6",
+    "bbox": [
+      [
+        104.0,
+        530.0
+      ],
+      [
+        136.0,
+        530.0
+      ],
+      [
+        136.0,
+        570.0
+      ],
+      [
+        104.0,
+        570.0
+      ]
+    ],
+    "confidence": 0.5776623193383443,
+    "preprocessing": {
+      "alpha": 1.5,
+      "beta": 50,
+      "invert": true,
+      "binarize": false
+    }
+  },
+  {
+    "text": "@SIKREUZ CMVi",
+    "bbox": [
+      [
+        228.0,
+        526.0
+      ],
+      [
+        546.0,
+        526.0
+      ],
+      [
+        546.0,
+        578.0
+      ],
+      [
+        228.0,
+        578.0
+      ]
+    ],
+    "confidence": 0.013338920997295755,
+    "preprocessing": {
+      "alpha": 1.5,
+      "beta": 50,
+      "invert": true,
+      "binarize": false
+    }
+  },
+  {
+    "text": "a7",
+    "bbox": [
+      [
+        541.0,
+        524.0
+      ],
+      [
+        596.0,
+        524.0
+      ],
+      [
+        596.0,
+        569.0
+      ],
+      [
+        541.0,
+        569.0
+      ]
+    ],
+    "confidence": 0.007819147172439879,
+    "preprocessing": {
+      "alpha": 1.5,
+      "beta": 50,
+      "invert": true,
+      "binarize": false
+    }
+  }
+]

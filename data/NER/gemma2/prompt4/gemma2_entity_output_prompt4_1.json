@@ -1,0 +1,1904 @@
+[
+  {
+    "file_name": "0001.jpg",
+    "entities": {
+      "EVENT": "SPRACHCAFE WEIHNACHTSFEIER DIENSTAG",
+      "TOPIC": "DIENSTAG",
+      "DATE": "21.12.2023",
+      "TIME": "19 Uhr",
+      "LOC": "ZENTRUM 19"
+    }
+  },
+  {
+    "file_name": "0002.jpg",
+    "entities": {
+      "EVENT": "solidarität mit allen",
+      "TOPIC": "Video & Content nichtohneuns_Dresden KUNDGEBUNG #SOLIDARITÄT MIT ALLEN!",
+      "DATE": "8.8.",
+      "TIME": "16 Uhr",
+      "LOC": "Dresden, Großer Garten"
+    }
+  },
+  {
+    "file_name": "0003.jpg",
+    "entities": {
+      "EVENT": "Primo Levi Gedenkkundgebung und antifaschistische Demonstration Mahnmal Levetzowstraße, Berlin-Moabit 9",
+      "TOPIC": "Solidarität mit den Opfern des deutschen Antisemitismus und Rassismus!",
+      "DATE": "1938-11-01",
+      "TIME": "18:00 Uhr",
+      "LOC": "Mahnmal Levetzowstraße, Berlin-Moabit 9"
+    }
+  },
+  {
+    "file_name": "0004.jpg",
+    "entities": {
+      "EVENT": "FEIERABEND SINGEN KULTUR NETZ",
+      "TOPIC": "Meiendorf",
+      "DATE": "21. JUNI 2023",
+      "TIME": "17.00 UHR",
+      "LOC": "Grundschule Islandstraße, Islandstraße 25"
+    }
+  },
+  {
+    "file_name": "0006.jpg",
+    "entities": {
+      "EVENT": "IHR HABT UNS DIE STADT GESTOHLEN GEBT SIE WIEDER HER!",
+      "TOPIC": "ZUKUNFT STATT OSTKREUZ CAMPUS DEMO GEGEN GENTRIFIZIERUNG",
+      "DATE": "09. JULI 2022",
+      "TIME": "15:00 UHR",
+      "LOC": "IHR HABT UNS DIE STADT GESTOHLEN GEBT SIE WIEDER HER!"
+    }
+  },
+  {
+    "file_name": "0007.jpg",
+    "entities": {
+      "EVENT": "Demo Herrentag Tag der Befreiung!",
+      "TOPIC": "13h Ostkreuz (Seite Sonntagstraße)"
+    }
+  },
+  {
+    "file_name": "0009.jpg",
+    "entities": {
+      "EVENT": "OMAS GEGEN RECHTS Benefizabend",
+      "TOPIC": "Ateliertheater",
+      "DATE": "10. Mai 2022",
+      "TIME": "19:30 Uhr",
+      "LOC": "Burggasse 71, 1070 Wien"
+    }
+  },
+  {
+    "file_name": "0010.jpg",
+    "entities": {
+      "EVENT": "GRUNDGESETZ MEDITATION",
+      "TOPIC": "02.05.2020 15:30 UHR",
+      "DATE": "02.05.2020",
+      "TIME": "15:30 UHR",
+      "LOC": "REWE BLIESKASTEL"
+    }
+  },
+  {
+    "file_name": "0011.jpg",
+    "entities": {
+      "EVENT": "SAVE THE DATE",
+      "TOPIC": "Am 11. Januar 2025 nach Riesa PROTEST GEGEN DEN AFD- BUNDESPARTEITAG STOPPT DIE AfD Aufstehen-gegen-Rassismus.de",
+      "DATE": "11. Januar 2025",
+      "TIME": "NaN",
+      "LOC": "Riesa PROTEST GEGEN DEN AFD- BUNDESPARTEITAG STOPPT DIE AfD Aufstehen-gegen-Rassismus.de"
+    }
+  },
+  {
+    "file_name": "0012.jpg",
+    "entities": {
+      "EVENT": "Großdemo",
+      "TOPIC": "NICHT OHNE UNS!",
+      "DATE": "29. August 2020",
+      "TIME": "20:00",
+      "LOC": "Berlin"
+    }
+  },
+  {
+    "file_name": "0013.jpg",
+    "entities": {
+      "EVENT": "BERLIN ORT",
+      "TOPIC": "ORANIENPLATZ KUNDGEBUNG 19. FEB – 14 UHR ERINNERN HEISST KÄMPFEN!",
+      "DATE": "19. FEB",
+      "TIME": "14:00 Uhr",
+      "LOC": "BERLIN ORT"
+    }
+  },
+  {
+    "file_name": "0014.jpg",
+    "entities": {
+      "EVENT": "HACK SEXISM Broschüren-Release",
+      "TOPIC": "Sexismus und sexualisierte Gewalt",
+      "DATE": "2023-07-05",
+      "TIME": "18:30",
+      "LOC": "MBI NYP"
+    }
+  },
+  {
+    "file_name": "0015.jpg",
+    "entities": {
+      "EVENT": "FR., 28. JUNI RAVE DEMO BASS GEGEN HASS 19 UHR, ESSEN HBF",
+      "TOPIC": null,
+      "DATE": "28. JUNI",
+      "TIME": "19:00",
+      "LOC": "HASS 19 UHR"
+    }
+  },
+  {
+    "file_name": "0016.jpg",
+    "entities": {
+      "EVENT": "WORKSHOP Do it Yourself Bau dein eigenen PC und Smartphone Wo?",
+      "TOPIC": "Wo?",
+      "DATE": "16.11.2024",
+      "TIME": "11 bis 13 Uhr",
+      "LOC": "Centrobibliothek Treptow"
+    }
+  },
+  {
+    "file_name": "0017.jpg",
+    "entities": {
+      "EVENT": "KÄMPFEN!",
+      "TOPIC": "76 Jahre Befreiung vom Faschismus Erinnern",
+      "DATE": "08.05.2021",
+      "TIME": "10:00–18:00 Uhr",
+      "LOC": "Sowjetisches Ehrenmahl Buch Kundgebung"
+    }
+  },
+  {
+    "file_name": "0018.jpeg",
+    "entities": {
+      "EVENT": "KUNDGEBUNG & AUFZUG DURCH KASSEL",
+      "TOPIC": "Nein zur Impfpflicht!",
+      "DATE": "29. JANUAR 2022",
+      "TIME": "14.00 UHR",
+      "LOC": "KÖNIGSPLATZ KASSEL FREIE BÜRGER KASSEL FÜR FRIEDEN & FREIHEIT"
+    }
+  },
+  {
+    "file_name": "0019.jpg",
+    "entities": {
+      "EVENT": "antifaschistische RALLY START BRENNER-BERG ZWISCHEN",
+      "TOPIC": "START BRENNER-BERG ZWISCHEN",
+      "DATE": "12 UND 16 UHR",
+      "TIME": "15.5 und 16.5",
+      "LOC": "BRENNER-BERG ZWISCHEN"
+    }
+  },
+  {
+    "file_name": "0020.jpg",
+    "entities": {
+      "EVENT": "DEMONSTRATION SONNTAG",
+      "TOPIC": "SCHÜLER/-INNEN GEGEN DIE MASKENPFLICHT!",
+      "DATE": "06.09.2020",
+      "TIME": "15:30 UHR",
+      "LOC": "WO: MEISTERSINGERHALLE NÜRNBERG"
+    }
+  },
+  {
+    "file_name": "0022.jpg",
+    "entities": {
+      "EVENT": "Workshop",
+      "TOPIC": "Redesigning Network Isolation and Resilience",
+      "DATE": "13.08.2022",
+      "TIME": "14.00 Uhr",
+      "LOC": "Berlin"
+    }
+  },
+  {
+    "file_name": "0023.jpg",
+    "entities": {
+      "EVENT": "Biberach Gigelberg Demo Wahrung der Grundrechte",
+      "TOPIC": "Art.1: Die Würde des Menschen ist unantastbar",
+      "DATE": "09. Mai 15.30 Uhr",
+      "TIME": "Biberach Gigelberg",
+      "LOC": "Biberach Gigelberg"
+    }
+  },
+  {
+    "file_name": "0024.jpg",
+    "entities": {
+      "EVENT": "ONE BILLION RISING HANAU Weltweit tanzen an diesem Tag Menschen gegen Gewalt an Frauen",
+      "TOPIC": "14. Februar",
+      "DATE": "2017-02-14",
+      "TIME": "16:00",
+      "LOC": "Marktplatz Macht"
+    }
+  },
+  {
+    "file_name": "0025.jpg",
+    "entities": {
+      "EVENT": "Landtagswahl",
+      "TOPIC": "Rechten",
+      "DATE": "17.08.2023",
+      "TIME": "13:30 Uhr",
+      "LOC": "Hauptbahnhof, SACHSEN UNTERSTÜTZEN"
+    }
+  },
+  {
+    "file_name": "0026.jpg",
+    "entities": {
+      "EVENT": "Kultur & Strasse FESTIVAL",
+      "TOPIC": "About Blank Berlin",
+      "DATE": "21. Juli 2024",
+      "TIME": "13:00 – 22:00 Uhr",
+      "LOC": "EINTRITT FREI!"
+    }
+  },
+  {
+    "file_name": "0027.jpg",
+    "entities": {
+      "EVENT": "A100 WEGBASSEN!",
+      "TOPIC": "FAHRRADDEMO gegen die A100 vom Verkehrsministerium zu 'A100 wegbassen'",
+      "DATE": "2.9.2023",
+      "TIME": "14:00",
+      "LOC": "Ostkreuz 2.9."
+    }
+  },
+  {
+    "file_name": "0028.jpg",
+    "entities": {
+      "EVENT": "Video & Content KUNDGEBUNG",
+      "TOPIC": "CORONA IST NICHT DAS PROBLEM nichtohneuns_Dresden",
+      "DATE": "20.6.",
+      "TIME": "16.30 Uhr",
+      "LOC": "Dresden, Neumarkt"
+    }
+  },
+  {
+    "file_name": "0029.jpg",
+    "entities": {
+      "EVENT": "Aktionstag Zukunft",
+      "TOPIC": "Erhalt und langfristige Sicherung von kulturellen Zwischenräumen – für das Ostkreuz und ganz Berlin",
+      "DATE": "13.11.22",
+      "TIME": "13 Uhr",
+      "LOC": "Rudolfplatz 3.12"
+    }
+  },
+  {
+    "file_name": "0030.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 21 (char 22)"
+  },
+  {
+    "file_name": "0031.jpg",
+    "entities": {
+      "EVENT": "DEMO",
+      "TOPIC": "Technopunk",
+      "DATE": "14.10.2021",
+      "TIME": "18 Uhr",
+      "LOC": "Hermannplatz Fairrad-Demo"
+    }
+  },
+  {
+    "file_name": "0032.jpg",
+    "entities": {
+      "EVENT": "WORKSHOP EINFÜHRUNG DADAISMUS",
+      "TOPIC": "Von der Uhr zur Kunst",
+      "DATE": "16.01. & 18.01.2025",
+      "TIME": "15 - 18:00 Uhr",
+      "LOC": "Mit Daniel Carrion Teilnahme: 10,- EUR NOCHMALL.DE/EVENTS/ Powered by BSR"
+    }
+  },
+  {
+    "file_name": "0035.jpg",
+    "entities": {
+      "EVENT": "Starkbierfest",
+      "TOPIC": "FÜRSTENFELDER",
+      "DATE": "17.02.2024",
+      "TIME": "17.00 Uhr - 20.00 Uhr",
+      "LOC": "Straße 12, 12345 München"
+    }
+  },
+  {
+    "file_name": "0036.jpg",
+    "entities": {
+      "EVENT": "Limited Booze Boys FREITAG",
+      "TOPIC": "Party + Live Band",
+      "DATE": "03. 431",
+      "TIME": "19:00",
+      "LOC": "Betreutes Trinken LETZTES WE IM OKTOBER VERDÄCHTIG GUTE EVENTS 03 431 - 611 367"
+    }
+  },
+  {
+    "file_name": "0037.jpeg",
+    "entities": {
+      "EVENT": "FREI ALL ANTIFAS!",
+      "TOPIC": "FREIHEIT FÜR NANUK!",
+      "DATE": "18. MÄRZ",
+      "TIME": "19 UHR",
+      "LOC": "U-BHF TÜRMSTR"
+    }
+  },
+  {
+    "file_name": "0039.jpeg",
+    "entities": {
+      "EVENT": "VOM STAAT VERKNACKT UND TROTZDEM DA FREE ALL ANTIFA #FREE NANUK TAG DER POLITISCHEN GEFANGENEN DEMO BERLIN 18.03.25 | 19⁰⁰ U-BHF. TURMSTR."
+    }
+  },
+  {
+    "file_name": "0040.jpeg",
+    "entities": {
+      "EVENT": "SOLI-FESTIVAL",
+      "TOPIC": "1. März 2025, 12 - 0 Uhr",
+      "DATE": "2025-03-01",
+      "TIME": "12:00:00",
+      "LOC": "Mühlstrasse 14 e.V. Soziokulturelles Stadtteilzentrum Leipzig AMNESTY INTERNATIONAL"
+    }
+  },
+  {
+    "file_name": "0041.jpg",
+    "entities": {
+      "EVENT": "50 JAHRE RUMBLE IN THE JUNGLE",
+      "TOPIC": "Podium",
+      "DATE": "25. Nov.",
+      "TIME": "19Uhr",
+      "LOC": "Markgrafendamm 24c, 10245 Berlin"
+    }
+  },
+  {
+    "file_name": "0043.jpg",
+    "entities": {
+      "EVENT": "LIVE DABEI",
+      "TOPIC": "★ ZSK ★ UND WEITERE ACTS!",
+      "DATE": "11. JANUAR 2025",
+      "TIME": "• 11. JANUAR 2025",
+      "LOC": "KUNDGEBUNG GEGEN AFD-PARTEITAG!"
+    }
+  },
+  {
+    "file_name": "0044.jpg",
+    "entities": {
+      "EVENT": "Willy-Brandt-Platz UNSERE DEMOKRATIE IST INFIZIERT!",
+      "TOPIC": "antikörper JETZT!",
+      "DATE": "14:30 Uhr",
+      "TIME": "antikörper JETZT!",
+      "LOC": "Willy-Brandt-Platz UNSERE DEMOKRATIE IST INFIZIERT!"
+    }
+  },
+  {
+    "file_name": "0045.jpeg",
+    "entities": {
+      "EVENT": "ACHTUNG NEUE VERSAMMLUNGSFLÄCHE!",
+      "TOPIC": "GROSSDEMO KASSEL Frühlingserwachen",
+      "DATE": "1. März 2021",
+      "TIME": "12:00 Uhr",
+      "LOC": "ALLER WELT"
+    }
+  },
+  {
+    "file_name": "0046.jpeg",
+    "entities": {
+      "EVENT": "h48 Plötzlich Meerjungmensch",
+      "TOPIC": "Die beste (nicht)Karnevals-Kostüm Party",
+      "DATE": "01. März 2025",
+      "TIME": "AB 20 UHR",
+      "LOC": "PROJEKTRAUM HERMANNSTRABE 48 LINE UP DJ KETCHUP (SPICY BASS / BREAKBEAT) DJ TDIPPZ (HAPPY HARDCORE) + KOSTÜMWETTBEWERB + PARTYSPIELE *VERKLEIDUNG ERWÜNSCHT"
+    }
+  },
+  {
+    "file_name": "0047.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 21 (char 22)"
+  },
+  {
+    "file_name": "0049.jpg",
+    "entities": {
+      "EVENT": "Rock'n'Roll Silvester BOPPIN'B Manu Tanzratte LEE'S REVENGE Silvester- & Wunschfeuer auf der Terrasse Killer Kirsche copper and blonde Di. 31.12.2024",
+      "TOPIC": null,
+      "DATE": "31.12.2024",
+      "TIME": "20:30 Uhr",
+      "LOC": "Killer Kirsche copper and blonde Di. 50"
+    }
+  },
+  {
+    "file_name": "0050.jpg",
+    "entities": {
+      "EVENT": "Einladung zur bewegten Versammlung Miteinander zur Freude Samstag, 15. August ab 17:30 vom Friedensengel zur Münchner Freiheit",
+      "TOPIC": "Die Maßnahmen der letzten Zeit haben uns allen viel abverlangt",
+      "DATE": "15. August",
+      "TIME": "17:30",
+      "LOC": "Friedensengel zur Münchner Freiheit"
+    }
+  },
+  {
+    "file_name": "0051.jpg",
+    "entities": {
+      "EVENT": "#23",
+      "TOPIC": "FREIHEIT #23",
+      "DATE": "29.12.2023",
+      "TIME": "::",
+      "LOC": "//"
+    }
+  },
+  {
+    "file_name": "0052.jpeg",
+    "entities": {
+      "EVENT": "Punk Against Gentrification Gemeinsam gegen das Clubsterben",
+      "TOPIC": "Einlass : 19 Uhr",
+      "DATE": "01.03.2025",
+      "TIME": "19 Uhr",
+      "LOC": "SOLTMANN"
+    }
+  },
+  {
+    "file_name": "0054.jpg",
+    "entities": {
+      "EVENT": "MAGISCHES FÜRSTENFELD 5. + 6. Januar 2025 Zaubervarieté für die ganze Familie",
+      "TOPIC": "JANIS VON DEM BORNE MARION METTERNICH DETLEF WINTERBERG",
+      "DATE": "2025-01-05",
+      "TIME": "18:00",
+      "LOC": "Straße 12, 12345 Berlin"
+    }
+  },
+  {
+    "file_name": "0055.jpg",
+    "entities": {
+      "EVENT": "Soliparty für Frauen auf der Flucht (ROSA e.V.)",
+      "TOPIC": "Dynamic x EUPHORIOT 7.3.2025, 23–7 Uhr",
+      "DATE": "7.3.2025",
+      "TIME": "23–7 Uhr",
+      "LOC": "//about blank SKYY YU/VA TIKITULA POWPOW MAARTEN KETRAEDA FUCHSITEK MISS PIXIE JULE BAMBULE GRETCHEN BAZOOKA SHANNON SOUNDQUIST HAVYLICOUS B2B GINGER B Tekno"
+    }
+  },
+  {
+    "file_name": "0057.jpg",
+    "entities": {
+      "EVENT": "VERANSTALTUNGSFORUM für Fürstenfeld",
+      "TOPIC": "STADTSAAL FÜRSTENFELD",
+      "DATE": "13. & 15.5.2022",
+      "TIME": "12 • 82256",
+      "LOC": "FORSCHENFELD, STADTSAAL FÜRSTENFELD"
+    }
+  },
+  {
+    "file_name": "0059.jpg",
+    "entities": {
+      "EVENT": "KIEZ COMEDY",
+      "TOPIC": "smash comedy 8. März, 19 Uhr",
+      "DATE": "19. März",
+      "TIME": "19 Uhr",
+      "LOC": "KUFA Moabit FLINTA* STAND UP COMEDY BERLIN Sozialraumorientierte Planungskoordination Gefördert durch die Stadtteilkasse"
+    }
+  },
+  {
+    "file_name": "0060.jpg",
+    "entities": {
+      "EVENT": "POETRY B'N'B DEIN FAST PRIME-TIME POETRY SLAM",
+      "TOPIC": "Eine Kooperation von Brakula Kultur in Bramfeld BIM Kulturzentrum auf KulTour",
+      "DATE": "26. April 2024",
+      "TIME": "20.12 Uhr",
+      "LOC": "KulTour"
+    }
+  },
+  {
+    "file_name": "0061.jpg",
+    "entities": {
+      "EVENT": "Freedom Parade",
+      "TOPIC": "Die Verleihung der roten Clownsnase",
+      "DATE": "01.10.2020",
+      "TIME": "10:00 Uhr",
+      "LOC": "Schloss Bellevue GRAFIK: LASERURCH.DE"
+    }
+  },
+  {
+    "file_name": "0062.jpg",
+    "entities": {
+      "EVENT": "B!M Kulturzentrum SEI DABEI!",
+      "TOPIC": "LESECLUB HORIZONTE ERWEITERN WELTEN ERLESEN.",
+      "DATE": "14.00 – 15.30 Uhr",
+      "TIME": "14.00 – 15.30 Uhr",
+      "LOC": "Gymnasium Meiendorf, Raum 804, Kreuzbau, Schierenberg 60 Leseklubs Stiftung Lesen GYMNASIUM MEIENDORF LESECLUB MEIENDORF"
+    }
+  },
+  {
+    "file_name": "0063.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 21 (char 22)"
+  },
+  {
+    "file_name": "0064.jpg",
+    "entities": {
+      "EVENT": "KIEZFEST KIEZKLUB Treptow-Kolleg",
+      "TOPIC": "Die fröhlichen Herbstlerchen",
+      "DATE": "1. Juli 2023",
+      "TIME": "14 – 18 Uhr",
+      "LOC": "Treptow-Kolleg"
+    }
+  },
+  {
+    "file_name": "0066.jpg",
+    "entities": {
+      "EVENT": "HocusPocus Fürstenfeld Festival der Zauberkunst",
+      "TOPIC": "Festival der Zauberkunst",
+      "DATE": "11. – 15. Mai 2022",
+      "TIME": "nicht angegeben",
+      "LOC": "HocusPocus Fürstenfeld 11"
+    }
+  },
+  {
+    "file_name": "0067.jpeg",
+    "entities": {
+      "EVENT": "Heart of Gaza",
+      "TOPIC": "Eine Ausstellung mit Bildern von Kindern aus Gaza",
+      "DATE": "15.03.2025",
+      "TIME": "16Uhr",
+      "LOC": "Café Wostok, Weitlingstr. 97 10317 Fundraising Veranstaltung"
+    }
+  },
+  {
+    "file_name": "0071.jpg",
+    "entities": {
+      "EVENT": "Freedom Parade No11 Großdemo",
+      "TOPIC": "Querdenken",
+      "DATE": "29. August 2020",
+      "TIME": "11:00 Uhr",
+      "LOC": "Brandenburger Tor"
+    }
+  },
+  {
+    "file_name": "0072.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 7 column 1 (char 210)"
+  },
+  {
+    "file_name": "0073.jpeg",
+    "entities": {
+      "EVENT": "Umsonst- Flohmarkt",
+      "TOPIC": "Waffeln & Musik",
+      "DATE": "02.03.",
+      "TIME": "12⁰⁰ - 17⁰⁰",
+      "LOC": "Rigaer Straße 94"
+    }
+  },
+  {
+    "file_name": "0074.jpg",
+    "entities": {
+      "EVENT": "ZERO WASTE FUTURE FESTIVAL",
+      "TOPIC": "Null Verschwendung",
+      "DATE": "16. November 2024",
+      "TIME": "13:00–18:00 Uhr",
+      "LOC": "NochMall, Berlin-Reinickendorf Komm vorbei!"
+    }
+  },
+  {
+    "file_name": "0075.jpg",
+    "entities": {
+      "EVENT": "Kinderdisco",
+      "TOPIC": "Friday",
+      "DATE": "26 APRIL",
+      "TIME": "14:00 - 19:30",
+      "LOC": "About Blank - S-Bahn Ostkreuz DJs: Robert Owens, Manuel Bürger ALL AGES"
+    }
+  },
+  {
+    "file_name": "0078.png",
+    "entities": null,
+    "error": "Invalid control character at: line 2 column 257 (char 258)"
+  },
+  {
+    "file_name": "0080.jpg",
+    "entities": {
+      "EVENT": "Für Demokratie und Menschenrechte",
+      "TOPIC": "SONN TAGS DEMO",
+      "DATE": "18. Februar 2024",
+      "TIME": "17:30 Uhr",
+      "LOC": "Dornbirn Marktplatz"
+    }
+  },
+  {
+    "file_name": "0081.jpg",
+    "entities": {
+      "EVENT": "WELCOM TO THE :// KINDERDISCO Musik + Tanz DJ-Workshop Pizza + Würstchen Baustellenstelle Kinderwagenparkplatz + Wickelstation Kreativ-Mobil Kaffee + Kuchen Mal- und Spray-Workshop Kinderschminken Fr 21·04·23 14–19 Uhr ://about blank markgrafendamm 24c, 10245 berlin am s-bhf ostkreuz"
+    }
+  },
+  {
+    "file_name": "0082.jpg",
+    "entities": {
+      "EVENT": "Demo Sa",
+      "TOPIC": "24.2. 14h Wrangelkiez am Platz ohne Namen Falckensteinst.",
+      "DATE": "14.02.2024",
+      "TIME": "14:00",
+      "LOC": "Platz ohne Namen Falckensteinst"
+    }
+  },
+  {
+    "file_name": "0086.jpg",
+    "entities": {
+      "EVENT": "Bürgerinitiative EINEN STATT SPALTEN Soll das zu meiner neuen Normalität werden",
+      "TOPIC": "08.08.",
+      "DATE": "16-18 Uhr SAMSTAG",
+      "TIME": "STIFTSPLATZ",
+      "LOC": "Kaiserslautern"
+    }
+  },
+  {
+    "file_name": "0089.jpeg",
+    "entities": {
+      "EVENT": "NEUER ORT",
+      "TOPIC": "Friedrichsplatz Kassel Vor dem Friedrichsmann Kindergarten & Aufgang Grundrechte",
+      "DATE": "15.01.2022",
+      "TIME": "15:30 Uhr",
+      "LOC": "Friedrichsplatz Kassel"
+    }
+  },
+  {
+    "file_name": "0090.jpeg",
+    "entities": {
+      "EVENT": "WORLD FREEDOM DAY",
+      "TOPIC": "Die Welt steht auf Auch Fulda",
+      "DATE": "20.11.2021",
+      "TIME": "12:00",
+      "LOC": "LANDESZEIT"
+    }
+  },
+  {
+    "file_name": "0091.jpg",
+    "entities": {
+      "EVENT": "Mobile Diskothek VERITAS",
+      "TOPIC": "VERITAS 27. Bike & Rock Festival Limberg",
+      "DATE": "08. - 11. August 2024",
+      "TIME": "2. August",
+      "LOC": "Cottbus und Vetschau"
+    }
+  },
+  {
+    "file_name": "0093.jpg",
+    "entities": {
+      "EVENT": "INTERESSANTE MARKTSTÄNDE, KINDERSCHMINKEN, KINDERBASTELN, HÜPFBURG, TEDDYAMBULANZ GLASKUNST MIT VORFÜHRUNG, 3D-DRUCK ESSEN UND TRINKEN DUO CHARLSON & LUIS (BRA) SAMBA, CHORO, BOSA NOVA HARTMUT HAKER VON TANZBAR BIS SWINGEND RAINER HERZOG VON GESCHICHTE ZU GESCHICHTE JEDE MENGE KINDERLIEDER DIE HOBBYSTEPPER, MONIKAS TANZMIX, DJ DER CHOR DER FRÖHLICHEN SÄNGER VON JOHANNISTHAL"
+    }
+  },
+  {
+    "file_name": "0094.jpg",
+    "entities": {
+      "EVENT": "Trauerfeier",
+      "TOPIC": "Unsere geliebte Demokratie",
+      "DATE": "26.04.2020",
+      "TIME": "12:00 - 19:00",
+      "LOC": "Mariannenplatz"
+    }
+  },
+  {
+    "file_name": "0095.jpg",
+    "entities": {
+      "EVENT": "ICH BRAUCHE EINE GENIE VOL. 15 POPkultur, Feminismus, Change und so... Songbook Releaseparty LIVE",
+      "TOPIC": "KATRIN ACHINGER LESEPERFORMANCES & 1-SONG-SETS",
+      "DATE": "12.8.",
+      "TIME": "18:00 Uhr",
+      "LOC": "KOFFERRAUM MATCHING OUTFITS THE DOCTORELLA BABSI TOLLWUT 12.8."
+    }
+  },
+  {
+    "file_name": "0096.jpg",
+    "entities": {
+      "EVENT": "Volksbühne am Rosa-Luxemburg-Platz",
+      "TOPIC": "René 25",
+      "DATE": "25. April",
+      "TIME": "Unknown",
+      "LOC": "Rosa-Luxemburg-Platz"
+    }
+  },
+  {
+    "file_name": "0097.jpg",
+    "entities": {
+      "EVENT": "POLY▶LUX Veranstaltung",
+      "TOPIC": "The kids are clearly not alright",
+      "DATE": "13.12.2024",
+      "TIME": "20 Uhr",
+      "LOC": "// ABOUT BLANK"
+    }
+  },
+  {
+    "file_name": "0098.jpg",
+    "entities": {
+      "EVENT": "eine benefizveranstaltung von ://about blank und top b3rlin MOVING BEYOND HOPE antinationale amplitude wider die großwetterlage montag, 2. oktober 2023, 18:00 uhr STAAT. NATION. KAPITAL. SCHEISSE. TOP BERLIN. TOP-BERLIN.NET"
+    }
+  },
+  {
+    "file_name": "0099.jpg",
+    "entities": {
+      "EVENT": "Vergessene Arbeitskämpfe PUNK Abend Eintritt 8€ Roter Salon in der VOLKSBÜHNE Wann: 29.09., 21 Uhr",
+      "TOPIC": "Vergessene Arbeitskämpfe PUNK Abend Eintritt 8€ Roter Salon in der VOLKSBÜHNE Wann: 29.09., 21 Uhr",
+      "DATE": "29.09.",
+      "TIME": "21 Uhr",
+      "LOC": "VOLKSBÜHNE Wann"
+    }
+  },
+  {
+    "file_name": "0100.jpg",
+    "entities": {
+      "EVENT": "FAMILIEN-FLOHMARKT",
+      "TOPIC": "Paul-Schneider-Grundschule 25.05.24",
+      "DATE": "25.05.24",
+      "TIME": "10 - 14 Uhr",
+      "LOC": "Paul-Schneider-Grundschule 25.05.24"
+    }
+  },
+  {
+    "file_name": "0101.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 21 (char 22)"
+  },
+  {
+    "file_name": "0103.jpg",
+    "entities": {
+      "EVENT": "RAUS AUS DER DOSE!",
+      "TOPIC": "17.05.2020 14–18 Uhr Mariannenplatz Der Rückzug ins Digitale ist keine Alternative!",
+      "DATE": "17.05.2020",
+      "TIME": "14–18 Uhr",
+      "LOC": "Mariannenplatz"
+    }
+  },
+  {
+    "file_name": "0104.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 3 column 3 (char 190)"
+  },
+  {
+    "file_name": "0106.jpg",
+    "entities": {
+      "EVENT": "Demo",
+      "TOPIC": "Antifaschistische und queerfeministische Menschen",
+      "DATE": "13.04.2023",
+      "TIME": "15:00 Uhr",
+      "LOC": "Rosa-Luxemburg Platz"
+    }
+  },
+  {
+    "file_name": "0108.jpg",
+    "entities": {
+      "EVENT": "VOLKSBÜHNE Jazzanova The Pool Record Release Konzert",
+      "TOPIC": "30.06.18 Rosa- Luxemburg- Platz",
+      "DATE": "2018-06-30",
+      "TIME": "19:00",
+      "LOC": "Rosa- Luxemburg- Platz"
+    }
+  },
+  {
+    "file_name": "0110.jpg",
+    "entities": {
+      "EVENT": "CLUBS. STADT. KLIMAKRIZE. A100 WEGBASSEN!",
+      "TOPIC": "2.9. 14°°–22°° MARKGRAFENDAMM"
+    }
+  },
+  {
+    "file_name": "0111.jpg",
+    "entities": {
+      "EVENT": "50 JAHRE RUMBLE IN THE JUNGLE",
+      "TOPIC": "Podium",
+      "DATE": "25. Nov.",
+      "TIME": "19Uhr",
+      "LOC": "Markgrafendamm 24c, 10245 Berlin"
+    }
+  },
+  {
+    "file_name": "0112.jpg",
+    "entities": {
+      "EVENT": "RAVE AUFSTAND ZUM GLOBAL STRIKE",
+      "TOPIC": "FREITAG",
+      "DATE": "20.09.19",
+      "TIME": "15:00 UHR",
+      "LOC": "Berlin Mitte & Übergang"
+    }
+  },
+  {
+    "file_name": "0113.jpg",
+    "entities": {
+      "EVENT": "Demonstration",
+      "TOPIC": "NSÜB",
+      "DATE": "17:30",
+      "TIME": "S&U-BHF. FRIEDRICHSTR. BEFREIUNG.UND.WIDERSTAND",
+      "LOC": "Berlin"
+    }
+  },
+  {
+    "file_name": "0114.jpg",
+    "entities": {
+      "EVENT": "KEIN RAMMSTEIN VOR GERICHT STATT AUF DIE BÜHNE!",
+      "TOPIC": "15.07.23 IN BERLIN SA. 15. JULI – 14:30 UHR THEODOR-HEUSS-PLATZ CA. 16:00 UHR – OLYMPIASTADION + MUSIK @keinrammstein_berlin STOMP THE PATRIARCHY",
+      "DATE": "15.07.23",
+      "TIME": "15:30",
+      "LOC": "STEOR-HEUSS-PLATZ CA"
+    }
+  },
+  {
+    "file_name": "0115.jpg",
+    "entities": {
+      "EVENT": " soliparty",
+      "TOPIC": " gegen das klima der angst",
+      "DATE": "16.11.2024",
+      "TIME": "20 Uhr",
+      "LOC": "//about blank I ://"
+    }
+  },
+  {
+    "file_name": "0116.jpg",
+    "entities": {
+      "EVENT": "AKTIONSBÜNDNIS KARLSRUHE DEMOKRATIE",
+      "TOPIC": "Verschiedene Rede- & Musikbeiträge",
+      "DATE": "08.08.20",
+      "TIME": "12:30–18 Uhr",
+      "LOC": "Günther-Klotz Anlage in Karlsruhe Stay Free!"
+    }
+  },
+  {
+    "file_name": "0117.jpg",
+    "entities": {
+      "EVENT": "Bündnis gegen Verdrängung und #Mietenwahnsinn",
+      "TOPIC": "Demo",
+      "DATE": "01. Juni 2024",
+      "TIME": "14:00 Uhr",
+      "LOC": "Potsdamer Platz"
+    }
+  },
+  {
+    "file_name": "0118.jpeg",
+    "entities": {
+      "EVENT": "Willkommenscafé",
+      "TOPIC": "Gegenseitiges Kennenlernen",
+      "DATE": "19–21",
+      "TIME": "19–21 Uhr",
+      "LOC": "Rote Lilly, Emser Str. 114, Neukölln"
+    }
+  },
+  {
+    "file_name": "0119.jpeg",
+    "entities": {
+      "EVENT": "PALÄSTINA STEHT NICHT ZUM VERKAUF LAUFDEMONSTRATION FÜR PALÄSTINA SAMSTAG, 01.03. UM 13 UHR U-BAHN & S-BAHN ZOOLOGISCHER GARTEN, BERLIN"
+    }
+  },
+  {
+    "file_name": "0120.jpg",
+    "entities": {
+      "EVENT": "Wahlkampf-Veranstaltung",
+      "TOPIC": "STADTHALLE LEONBERG",
+      "DATE": "22.01.2023",
+      "TIME": "19:00 Uhr",
+      "LOC": "ROMERSTRASSE 110 | 71229 Leonberg"
+    }
+  },
+  {
+    "file_name": "0121.jpg",
+    "entities": {
+      "EVENT": "Zeit für Fans",
+      "TOPIC": "05.12.2024 Mach dein Foto mit dem Nikolaus And",
+      "DATE": "13. Dezember 2024",
+      "TIME": "18:00 Uhr",
+      "LOC": "Auguste-Viktoria-Allee 99  //  13403 Berlin"
+    }
+  },
+  {
+    "file_name": "0122.jpg",
+    "entities": {
+      "EVENT": "Omas-on-Stage",
+      "TOPIC": "Theater",
+      "DATE": "25. APRIL, 2023",
+      "TIME": "20.00 UHR",
+      "LOC": "Stage Per performances, Lieder, Gedichte... im Café Korb Brandstätte 9, 1010 Wien"
+    }
+  },
+  {
+    "file_name": "0123.jpg",
+    "entities": {
+      "EVENT": "SOLIDARITÄTSDEMO",
+      "TOPIC": "DIE UKRAINE",
+      "DATE": "05. März 2022",
+      "TIME": "15 bis 17 Uhr",
+      "LOC": "Platz der Menschenrechte, Wien 15 bis 17 Uhr"
+    }
+  },
+  {
+    "file_name": "0124.jpg",
+    "entities": {
+      "EVENT": "#SAVE BRAIN CITY Wissenschaft",
+      "TOPIC": "Sichert die Zukunft Berlins 19.12.2024",
+      "DATE": "19.12.2024",
+      "TIME": "8:30 Uhr",
+      "LOC": "Berlin"
+    }
+  },
+  {
+    "file_name": "0127.jpeg",
+    "entities": {
+      "EVENT": "Solidarischer Stammtisch",
+      "TOPIC": "Unser Verständnis vom Patriarchat und unser Umgang damit Diskussion und gemeinsames Essen",
+      "DATE": "4. März",
+      "TIME": "19:00 Uhr",
+      "LOC": "Maggie” Frankfurter Allee 205"
+    }
+  },
+  {
+    "file_name": "0128.jpg",
+    "entities": {
+      "EVENT": "Transferale Das Wissenschafts- Festival für Klima und Gesundheit Zukunft",
+      "TOPIC": "Stadt Das Hochschulnetzwerk für ein resilientes Berlin",
+      "DATE": "25.09. — 27.09.2024",
+      "TIME": "00:00",
+      "LOC": "Kulturquartier silent green Zukunft"
+    }
+  },
+  {
+    "file_name": "0129.jpg",
+    "entities": {
+      "EVENT": "BerlinIstKultur DEMO GEGEN DIE KÜRZUNGEN IM KULTURBEREICH!",
+      "TOPIC": "VOLKS BÜHNE AM ROSA-LUXEMBURG-PLATZ",
+      "DATE": "13.11.2023",
+      "TIME": "10:00",
+      "LOC": "Brandenburger Tor Platz des 18. März"
+    }
+  },
+  {
+    "file_name": "0130.jpg",
+    "entities": {
+      "EVENT": "NOCH MALL ALLES AUSSER NEU",
+      "TOPIC": "quality repair",
+      "DATE": "19. Oktober 2024",
+      "TIME": "14–18 Uhr",
+      "LOC": "NochMall 19"
+    }
+  },
+  {
+    "file_name": "0131.jpeg",
+    "entities": {
+      "EVENT": "GENOCIDE STARTS HERE!",
+      "TOPIC": "KUNDGEBUNG MI",
+      "DATE": "05.03.2025",
+      "TIME": "12:00 Uhr",
+      "LOC": "ECKE TAUENTZIENSTR./ MARBURGER STR., 10789 BERLIN GRIEVING DOVES JÜDISCHE STIMME STOP ARMING ISRAEL KEINE WAFFEN FÜR ISRAEL SHUT ELBIT DOWN"
+    }
+  },
+  {
+    "file_name": "0132.jpg",
+    "entities": {
+      "EVENT": "SOS ANTIFA",
+      "TOPIC": "23. Februar · 18 Uhr",
+      "DATE": "2023-02-23",
+      "TIME": "18:00",
+      "LOC": "Sea-Watch.org"
+    }
+  },
+  {
+    "file_name": "0133.jpg",
+    "entities": {
+      "EVENT": "KUNDGEBUNG MIT DR. WEBER SAMSTAG 05.09.2020, 14:30 MARBURG ERWIN-PISCATOR-HAUS ÄRZTE FÜR AUFKLÄRUNG"
+    }
+  },
+  {
+    "file_name": "0134.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 21 (char 22)"
+  },
+  {
+    "file_name": "0135.jpg",
+    "entities": {
+      "EVENT": "FEMINISM UNLIMITED",
+      "TOPIC": "Demo",
+      "DATE": "08. März",
+      "TIME": "13:00 Uhr",
+      "LOC": "S+U Schönhauser Allee"
+    }
+  },
+  {
+    "file_name": "0136.jpg",
+    "entities": {
+      "EVENT": "GEGEN JEDE NAZI PROPAGANDA!",
+      "TOPIC": "MARTIN SELLNER",
+      "DATE": "27.02.2023",
+      "TIME": "18:15 Uhr",
+      "LOC": "Uhlandstraße 51"
+    }
+  },
+  {
+    "file_name": "0137.jpg",
+    "entities": {
+      "EVENT": "Omas-on-Stage",
+      "TOPIC": "Kultursommer Politischer Aktivismus",
+      "DATE": "09. Juli 2022",
+      "TIME": "18.30",
+      "LOC": "Muthsamgasse, 1140 Wien FREIER EINTRITT"
+    }
+  },
+  {
+    "file_name": "0139.jpg",
+    "entities": {
+      "EVENT": null,
+      "TOPIC": null,
+      "DATE": null,
+      "TIME": null,
+      "LOC": "ZENTRUM KREUZBERG MEHR POLIZEI"
+    }
+  },
+  {
+    "file_name": "0140.jpg",
+    "entities": {
+      "EVENT": "WORKSHOP Motion-Capture HTW",
+      "TOPIC": "All zwischen 7 & 17 Jahren * Vorkenntnisse sind nicht notwendig.",
+      "DATE": "03.02.2024",
+      "TIME": "11–13.30 Uhr",
+      "LOC": "Schöneweide Wer?"
+    }
+  },
+  {
+    "file_name": "0142.jpeg",
+    "entities": {
+      "EVENT": "Demo",
+      "TOPIC": "Naziangriff auf Geflüchtetenunterkunft in Stahnsdorf",
+      "DATE": "14.03.2025",
+      "TIME": "17:30",
+      "LOC": "S Teltow Stadt"
+    }
+  },
+  {
+    "file_name": "0143.jpg",
+    "entities": {
+      "EVENT": "Ostkreuz nicht den Nazis überlassen!",
+      "TOPIC": null,
+      "DATE": "14.07. 14:00 Uhr",
+      "TIME": "14:00 Uhr",
+      "LOC": "Ostkreuz"
+    }
+  },
+  {
+    "file_name": "0145.jpg",
+    "entities": {
+      "EVENT": "A100 WEGBASSEN!",
+      "TOPIC": "SOLI-RAVE RAVE LIVE ACTS PANEL DISCUSSION",
+      "DATE": "06.10.2023",
+      "TIME": "20:00",
+      "LOC": "MENSCH MEIER"
+    }
+  },
+  {
+    "file_name": "0146.jpg",
+    "entities": {
+      "EVENT": "Antisemitismus im Kultur– und Clubbetrieb Reflexionen",
+      "TOPIC": "about blank Markgrafendamm 24c (Ostkreuz) 15.12.24 11:30– 19:30 Uhr",
+      "DATE": "15.12.24",
+      "TIME": "11:30– 19:30 Uhr",
+      "LOC": "Straße mit Hausnummern, Plätze, Gebäude, Stadtteile, Städte"
+    }
+  },
+  {
+    "file_name": "0147.jpeg",
+    "entities": {
+      "EVENT": "Wehren uns!",
+      "TOPIC": "Rassismus, Abschiebung und Gewalt",
+      "DATE": "01.03.2023",
+      "TIME": "18:00 Uhr",
+      "LOC": "Komşukeller, Kottbusser Straße 4/5 ZORA"
+    }
+  },
+  {
+    "file_name": "0148.jpg",
+    "entities": {
+      "EVENT": "BUCHPREMIERE JUDENHASS UNDERGROUND Antisemitismus in emanzipatorischen Subkulturen und Bewegungen Ein Abend mit Nicholas Potter, Stefan Lauer, Rosa Jellinek, Leon Kahane, Konstantin Nowotny und Anastasia Tikhomirova DJ: Ori Raz (Motivo Positivo)",
+      "TOPIC": null,
+      "DATE": "1. September 2023",
+      "TIME": "19 Uhr",
+      "LOC": "://about blank"
+    }
+  },
+  {
+    "file_name": "0149.jpg",
+    "entities": {
+      "EVENT": "WIR BRAUCHEN DICH!",
+      "TOPIC": "10.00 bis 12.00 UHR Demonstration für FREIHEIT GRUNDRECHTE SELBSTBESTIMMUNG ZUR FREIHEIT SAMSTAG 11.7.2020 10 - 12 Uhr KÖNIGSPLATZ - MÜNCHEN Prof. Dr. Christoph Hueck Biochemiker, Impfstoffentwickler Markus Haintz Querdenken Initiative Ulm Rechtsanwalt Milorad Krstic Unternehmer und Buchautor rin99er Hip Hop - Rap",
+      "DATE": "11.7.2020",
+      "TIME": "10 - 12 Uhr",
+      "LOC": "KÖNIGSPLATZ - MÜNCHEN Prof. Dr. Christoph Hueck Biochemiker, Impfstoffentwickler Markus Haintz Querdenken Initiative Ulm Rechtsanwalt Milorad Krstic Unternehmer und Buchautor rin99er Hip Hop - Rap"
+    }
+  },
+  {
+    "file_name": "0151.jpg",
+    "entities": {
+      "EVENT": "TANZ DEMO",
+      "TOPIC": "15 Uhr am Frankfurter Tor",
+      "DATE": "08·06·24",
+      "TIME": "15 Uhr",
+      "LOC": "Frankfurter Tor Mehr Infos auf kollektiv-kirsch.de WEM GEHÖRT DIE STADT?"
+    }
+  },
+  {
+    "file_name": "0152.jpg",
+    "entities": {
+      "EVENT": "Klimaschutz",
+      "TOPIC": "Laufdemo auf der A100",
+      "DATE": "21. April",
+      "TIME": "14 Uhr",
+      "LOC": "Tempelhofer Damm"
+    }
+  },
+  {
+    "file_name": "0153.jpg",
+    "entities": {
+      "EVENT": "GEDENKEN BEIM MAHNMAL GEGEN KRIEG & FASCHISMUS",
+      "TOPIC": "12.03.1938 - 12.03.2025 NIE WIEDER IST JETZT!",
+      "DATE": "12.03.1938 - 12.03.2025",
+      "TIME": "18:30",
+      "LOC": "Albertinaplatz, 18:30"
+    }
+  },
+  {
+    "file_name": "0154.jpeg",
+    "entities": {
+      "EVENT": "LIVEKONZERT",
+      "TOPIC": "LIZ MELINE",
+      "DATE": "21.01.25",
+      "TIME": "20:00",
+      "LOC": "LEIPZIG"
+    }
+  },
+  {
+    "file_name": "0155.jpg",
+    "entities": {
+      "EVENT": "FIRST SLAYSTANS SOLI PARTY",
+      "TOPIC": "16/02",
+      "DATE": "8PM",
+      "TIME": "ERREICHBAR, REICHENBERGER STR 63A"
+    }
+  },
+  {
+    "file_name": "0156.jpeg",
+    "entities": {
+      "EVENT": "SOLI FLOHMARKT",
+      "TOPIC": "10–18 UHR",
+      "DATE": "1. MÄRZ",
+      "TIME": "1. MÄRZ",
+      "LOC": "Zielona Gora, Grünbergerstr. 73 BERLINER OBDACHLOSENHILFE e.V."
+    }
+  },
+  {
+    "file_name": "0157.jpg",
+    "entities": {
+      "EVENT": "SIEG DER UKRAINE",
+      "TOPIC": "FRIEDEN FÜR EUROPA",
+      "DATE": "17. DECEMBER",
+      "TIME": "15:00 VOR",
+      "LOC": "Berlin Demokrati-JA"
+    }
+  },
+  {
+    "file_name": "0158.jpg",
+    "entities": {
+      "EVENT": "Kundgebung",
+      "TOPIC": "5. Jahrestag des rechtsterroristischen Anschlags von Halle 9.10.2024 17:30 Uhr Oranienplatz",
+      "DATE": "2024-05-05",
+      "TIME": "17:30",
+      "LOC": "Oranienplatz"
+    }
+  },
+  {
+    "file_name": "0160.jpg",
+    "entities": {
+      "EVENT": "ALICE WEIDEL",
+      "TOPIC": "BUNDESTAGSWAHL - SCHLUSSRUNDE",
+      "DATE": "22:00 Uhr",
+      "TIME": "ARD & ZDF",
+      "LOC": "Straße mit Hausnummern, PLZ, Gebäude, Stadtteile, Städte"
+    }
+  },
+  {
+    "file_name": "0161.jpg",
+    "entities": {
+      "EVENT": "Ukraine Freiheit Demokratie NEIN Putin AfD",
+      "TOPIC": "22.02.25 16 : 00",
+      "DATE": "22.02.25",
+      "TIME": "16 : 00",
+      "LOC": "Brandenburger Tor 3"
+    }
+  },
+  {
+    "file_name": "0162.jpeg",
+    "entities": {
+      "EVENT": "Antifa Treffen",
+      "TOPIC": "Antifaschistisch",
+      "DATE": "14-März 2025",
+      "TIME": "19Uhr",
+      "LOC": "Lottumstr. 10a, Prenzlauer Berg"
+    }
+  },
+  {
+    "file_name": "0163.jpg",
+    "entities": {
+      "EVENT": "Our Zivilisation",
+      "TOPIC": "Stoppt das Infektionsschutzgesetz",
+      "DATE": "18.11.2020",
+      "TIME": "11:00 Uhr",
+      "LOC": "Berlin - Bundestag ES"
+    }
+  },
+  {
+    "file_name": "0164.jpg",
+    "entities": {
+      "EVENT": "Demokratie verteidigen Demonstration",
+      "TOPIC": "Demonstration 03.02",
+      "DATE": "15:00",
+      "TIME": "18:00",
+      "LOC": "Graz Hauptbahnhof"
+    }
+  },
+  {
+    "file_name": "0165.jpg",
+    "entities": {
+      "EVENT": "2000er PARTY Strausberg Kulturpark",
+      "TOPIC": null,
+      "DATE": "15.08.2024",
+      "TIME": "11:90 Uhr",
+      "LOC": "Strausberg Am Strand"
+    }
+  },
+  {
+    "file_name": "0166.jpg",
+    "entities": {
+      "EVENT": "WORKSHOP",
+      "TOPIC": "HOW TO KULTURFÖRDERUNG WITH KAROLINE LUCKS",
+      "DATE": "12.03.25",
+      "TIME": "16-19",
+      "LOC": "Clubcommission Office, Brückenstraße 1, 10179 Berlin"
+    }
+  },
+  {
+    "file_name": "0167.jpg",
+    "entities": {
+      "EVENT": "Kinderfest",
+      "TOPIC": "Children's festival",
+      "DATE": "08.07.2023",
+      "TIME": "14.00 – 17.00",
+      "LOC": "Nordlandweg 110 · 22145 Hamburg"
+    }
+  },
+  {
+    "file_name": "0169.jpeg",
+    "entities": {
+      "EVENT": "Im schwarzen Block der Feministinnen ARTE Reportage KURZFILMABEND 2. MÄRZ | 17:00",
+      "TOPIC": "Im schwarzen Block der Feministinnen ARTE Reportage KURZFILMABEND 2. MÄRZ",
+      "DATE": "8. März",
+      "TIME": "17:00",
+      "LOC": "ELELE Inang Maynila Life under martial law as a rebellious Catholic schoolgirl in the Philippines"
+    }
+  },
+  {
+    "file_name": "0170.jpeg",
+    "entities": {
+      "EVENT": "fembi Plakate malen für den feministischen Kampftag!",
+      "TOPIC": "feministische Kampftag",
+      "DATE": "04. März 2025",
+      "TIME": "19.30 Uhr",
+      "LOC": "Cafe Cralle Hochstädter Str. 10a, 13347 Berlin-Wedding"
+    }
+  },
+  {
+    "file_name": "0171.jpg",
+    "entities": {
+      "EVENT": "# Masken-frei # Abstands-frei # Quarantäne-frei # freie Impfentscheidung Spaziergang jeden Tag im LockDown Ab Montag, 2.11. 19:00 - 19:30 Uhr Start Marktplatz in jeder Stadt/Ort KOMMT ALLE!",
+      "TOPIC": null,
+      "DATE": "2.11.2023",
+      "TIME": "19:00 - 19:30",
+      "LOC": "Start Marktplatz in jeder Stadt/Ort KOMMT ALLE!"
+    }
+  },
+  {
+    "file_name": "0172.jpg",
+    "entities": {
+      "EVENT": "Stadtlauf STÄRKE ZEIGEN GEMEINSAM GEGEN GEWALT AN FRAUEN 6 km Hanau Marktplatz 2016 17 Uhr 16. September",
+      "TOPIC": "Stadtlauf",
+      "DATE": "2016-09-16",
+      "TIME": "17:00",
+      "LOC": "Hanau Marktplatz 2016"
+    }
+  },
+  {
+    "file_name": "0173.jpg",
+    "entities": {
+      "EVENT": "Demonstration für die Aufnahme der Menschen an der Politische Belarussischen Grenze!",
+      "TOPIC": "14. November 14 Uhr Brandenburg",
+      "DATE": "14. November 2023",
+      "TIME": "14:00 Uhr",
+      "LOC": "Brandenburg Tor"
+    }
+  },
+  {
+    "file_name": "0176.jpg",
+    "entities": null,
+    "error": "Invalid control character at: line 3 column 43 (char 65)"
+  },
+  {
+    "file_name": "0177.jpg",
+    "entities": {
+      "EVENT": "DEMO SOMMERFEST der AFD",
+      "TOPIC": "Demo gegen das Sommerfest der AfD",
+      "DATE": "07.09.2023",
+      "TIME": "14:00 Uhr",
+      "LOC": "Market 11 17268 Templin Austehen-gegen-Rassismus.de"
+    }
+  },
+  {
+    "file_name": "0178.jpg",
+    "entities": {
+      "EVENT": "JETZT KARTEN SICHERN!",
+      "TOPIC": "dance first tanzfestival",
+      "DATE": "2024-06-16",
+      "TIME": "16:07",
+      "LOC": "Stadtsaal Fürstenfeldbruck KROATISCHES NATIONALBALLETT TRANSPARADA Choreografie: Maša Kolar / Mauro Bigonzetti / Marco Goecke / Nadav Zelner"
+    }
+  },
+  {
+    "file_name": "0179.jpg",
+    "entities": {
+      "EVENT": "Demos",
+      "TOPIC": "Rechtsextremismus",
+      "DATE": "23.5. bis 8.6.24",
+      "TIME": "N/A",
+      "LOC": "demo"
+    }
+  },
+  {
+    "file_name": "0180.jpg",
+    "entities": {
+      "EVENT": "IS PALESTINE A FEMINIST ISSUE?! ZUR VERSCHRÄNKUNG VON (QUEER-)FEMINISMUS UND ANTISEMITISMUS Vortrag & Diskussion mit Cordula Trunk Do 19.12. 19:00 Uhr about blank Markgrafendamm 24c"
+    }
+  },
+  {
+    "file_name": "0181.jpg",
+    "entities": {
+      "EVENT": "ES IST WIEDER SOWEIT!",
+      "TOPIC": "IN RAHLSTEDT IST WAS LOS",
+      "DATE": "28. Rahlstedter KULTUR WOCHEN 31. AUGUST – 18. OKTOBER 2024",
+      "TIME": "VerschIEDENE ORTE IN RAHLSTEDT RAHLSTEDTER KULTURWOCHEN",
+      "LOC": "RAHLSTEDT"
+    }
+  },
+  {
+    "file_name": "0182.jpg",
+    "entities": {
+      "EVENT": "ANTIFA-BLOCK AUF DER LICHTENHAGEN-DEMO",
+      "TOPIC": "27.08.2022",
+      "DATE": "30 JAHRE NACH DEN POGROMEN »ERINNERST DU DICH NOCH AN ROSTOCK-LICHTENHAGEN«",
+      "TIME": "BUNDESWEITE DEMO IN ROSTOCK",
+      "LOC": "ROSTOCK-LICHTENHAGEN"
+    }
+  },
+  {
+    "file_name": "0183.jpg",
+    "entities": {
+      "EVENT": "RAVE KUNDGEBUNG KASTANIENALLEE",
+      "TOPIC": "KASTANIENALLEE",
+      "DATE": "14TH APRIL",
+      "TIME": "NOON TO 8 PM",
+      "LOC": "TUNTENHAUS BLEIBT"
+    }
+  },
+  {
+    "file_name": "0185.jpg",
+    "entities": {
+      "EVENT": "Eintritt frei!",
+      "TOPIC": "TÖPFER & KUNST HAND WERKER",
+      "DATE": "10–18 Uhr",
+      "TIME": "10.+11.08.24",
+      "LOC": "Fürstenfeldbruck"
+    }
+  },
+  {
+    "file_name": "0186.jpg",
+    "entities": {
+      "EVENT": "Einlass",
+      "TOPIC": "DJ Andreas Michalke mit Schallplatten aus Marseille",
+      "DATE": "11. Oktober 2024",
+      "TIME": "19 Uhr",
+      "LOC": " ://about blank Markgrafendamm 24c 10245 Berlin Musik: DJ Andreas Michalke mit Schallplatten aus Marseille"
+    }
+  },
+  {
+    "file_name": "0187.jpg",
+    "entities": {
+      "EVENT": "Autobahn-Abrissparty",
+      "TOPIC": "Rückbau statt Neubau",
+      "DATE": "2.6.24",
+      "TIME": "16 - 20 Uhr",
+      "LOC": "Breitenbachplatz"
+    }
+  },
+  {
+    "file_name": "0190.jpg",
+    "entities": {
+      "EVENT": "AUF DER AUTOBAHN SPEKTAKEL WORKSHOP",
+      "TOPIC": "20.11.2022 ZUKUNFT AM OSTKREUZ LASKERSTRASSE 5",
+      "DATE": "20.11.2022",
+      "TIME": "14–19",
+      "LOC": "LASKERSTRASSE 5, 10245 BERLIN 14–19 UHR"
+    }
+  },
+  {
+    "file_name": "0191.jpg",
+    "entities": {
+      "EVENT": "WK WIDERSTANDSKOMITEE",
+      "TOPIC": "STURZ dem IMPERIALISMUS",
+      "DATE": "27.02",
+      "TIME": "18:00",
+      "LOC": "Oranienplatz"
+    }
+  },
+  {
+    "file_name": "0193.jpg",
+    "entities": {
+      "EVENT": "RAUS GEGA NGEN EROBIQUE NEUJAHRS PARTY FESTSAAL KREUZBERG MI, 01.01. AB 21:00 UHR TIPP",
+      "TOPIC": null,
+      "DATE": "01.01.2023",
+      "TIME": "21:00 Uhr",
+      "LOC": "KREUZBERG MI"
+    }
+  },
+  {
+    "file_name": "0194.jpg",
+    "entities": {
+      "EVENT": "Protestfest für Kinder und Erwachsene",
+      "TOPIC": "VIELFALT. KULTUR. LEBEN",
+      "DATE": "17.05.2025",
+      "TIME": "17–22 Uhr",
+      "LOC": "S TREPTOWER PARK 14–17 UHR"
+    }
+  },
+  {
+    "file_name": "0195.jpg",
+    "entities": {
+      "EVENT": "BERLIN ACTION ANTICAPITALIST-ANTIFASCIST DAS MONOPOL ZERSCHLAGEN!",
+      "TOPIC": "Tower to the People!",
+      "DATE": "26.10.2023",
+      "TIME": "16:30 Uhr",
+      "LOC": "26.10 Schleidenplatz 16"
+    }
+  },
+  {
+    "file_name": "0196.jpg",
+    "entities": {
+      "EVENT": "26.4 WHOSE STREETS?",
+      "TOPIC": "ANTIFA HEIßT ANGRIFF WIDERSTAND WIE NOCH NIE BERLIN BERLIN ANTIFA!",
+      "DATE": "12:15",
+      "TIME": "13:00",
+      "LOC": "12:15 - Start S Friedrichstraße (Südseite) 13:00 - Zwischenkundgebung Bebelplatz 13:30 - Gegenprotest Neptunbrunnen (Nähe Startplatz rechte Demo) → Weitere Route: Infos folgen!"
+    }
+  },
+  {
+    "file_name": "0197.jpg",
+    "entities": {
+      "EVENT": "DER AfD WIDER- SETZEN",
+      "TOPIC": "22.2.25 12:30",
+      "DATE": "12.02.25",
+      "TIME": "12:00",
+      "LOC": "VORTREFFPUNKT DEMO 12:00"
+    }
+  },
+  {
+    "file_name": "0198.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 4 column 3 (char 250)"
+  },
+  {
+    "file_name": "0199.jpg",
+    "entities": {
+      "EVENT": "RECHTEN MARSCH DURCH MITTE STOPPEN!",
+      "TOPIC": "SAMSTAG",
+      "DATE": "22.02.25",
+      "TIME": "11:30",
+      "LOC": "SCHIFFBAUERDAMM 1 AB 11"
+    }
+  },
+  {
+    "file_name": "0200.jpg",
+    "entities": {
+      "EVENT": "NEIN ZUR AFD!",
+      "TOPIC": "DER AFD KEINE PLATTE LASSEN!",
+      "DATE": "22.02.2025",
+      "TIME": "13:00",
+      "LOC": "PREROWER PLATZ NEU – HOHENSCHÖNHAUSEN"
+    }
+  },
+  {
+    "file_name": "0201.jpg",
+    "entities": {
+      "EVENT": "Protestzug",
+      "TOPIC": "Brandmauer durch Merz und Co.fallen",
+      "DATE": "09.02.2023",
+      "TIME": "15.00 Uhr",
+      "LOC": "Willy-Brandt-Haus 15.00 Uhr"
+    }
+  },
+  {
+    "file_name": "0202.jpg",
+    "entities": {
+      "EVENT": "Gegen Faschismus, Queer- und Frauen- Feindlichkeit!",
+      "TOPIC": "14.12. ca. 12.30 Uhr",
+      "DATE": "14.12. ca. 12.30 Uhr",
+      "TIME": "12.30 Uhr",
+      "LOC": "Friedrichshain Markgrafendamm 24c & 25 Neuwahlen"
+    }
+  },
+  {
+    "file_name": "0203.jpg",
+    "entities": {
+      "EVENT": "FOR SALE",
+      "TOPIC": "Tower to the People",
+      "DATE": "17:30",
+      "TIME": "161 fuck off",
+      "LOC": "S+U Bfh Warschauerstr. 29.11"
+    }
+  },
+  {
+    "file_name": "0204.jpg",
+    "entities": {
+      "EVENT": "transfeindlichkeit tötet Neuwahlen erstrecht: kämpfen statt sterben!",
+      "TOPIC": "Neuwahlen",
+      "DATE": "14.00 Uhr",
+      "TIME": "16.11",
+      "LOC": "Forckenbeckplatz Berlin"
+    }
+  },
+  {
+    "file_name": "0205.jpg",
+    "entities": {
+      "EVENT": "ZEIT ZU HANDELN Die AfD-Party zur Landtagswahl versauen!",
+      "TOPIC": "Solidarisch gegen den Rechtsruck antifaschistisch · queerfeministisch · klassenkämpferisch · klimagerecht Kundgebung",
+      "DATE": "14:20 Uhr",
+      "TIME": "16 Uhr",
+      "LOC": "Hbf. Potsdam-Marquardt Anreise aus Potsdam: 15:36 Uhr | Hbf. (Gleis 1 | RB 21)"
+    }
+  },
+  {
+    "file_name": "0206.jpg",
+    "entities": {
+      "EVENT": "ZEIT ZU HANDELN - GEGEN DIE AFD-WAHLPARTY IN BERLIN!",
+      "TOPIC": "Afd Wahlparty",
+      "DATE": "17.08.2023",
+      "TIME": "17:00 Uhr",
+      "LOC": "Berlin Alt-Blankenburg 12 Nähe S-Bhf. Blankenburg zeitzuhandeln.org"
+    }
+  },
+  {
+    "file_name": "0207.jpg",
+    "entities": {
+      "EVENT": "Schöner ohne AfD!",
+      "TOPIC": "16. August",
+      "DATE": "15:30 Uhr",
+      "TIME": "ab 15:30 Uhr",
+      "LOC": "Marktplatz Gegenkundgebung"
+    }
+  },
+  {
+    "file_name": "0208.jpg",
+    "entities": {
+      "EVENT": "Demo",
+      "TOPIC": "Compact Magazin Startpunkt",
+      "DATE": "13.7.24",
+      "TIME": "15:00 Uhr",
+      "LOC": "Falkensee Bahnhof gemeinsame Anreise: 14:05 Ostkreuz Gl. 2 mit Musik von Paul Geigerzähler V.I.S.D.P Otto Roth, Lilienstraße 161, 14612 Falkensee"
+    }
+  },
+  {
+    "file_name": "0209.jpg",
+    "entities": {
+      "EVENT": "Rave-Demo & großes Aktionsplenum",
+      "TOPIC": "Mach Dich schlau & dann mach mit widersetzen.com AfD Parteitag",
+      "DATE": "28. – 30. Juni 2024",
+      "TIME": "19 Uhr",
+      "LOC": "Essen"
+    }
+  },
+  {
+    "file_name": "0210.jpg",
+    "entities": {
+      "EVENT": "SUBCULTURE AGAINST PATRIARCHY!",
+      "TOPIC": "DEMO",
+      "DATE": "08.03.2024",
+      "TIME": "14:00–20:00",
+      "LOC": "STRALAUER PLATZ (OSTBAHNHOF)"
+    }
+  },
+  {
+    "file_name": "0211.jpg",
+    "entities": {
+      "EVENT": "BUNDESTAG",
+      "TOPIC": "ZUSAMMEN GEGEN RECHTS",
+      "DATE": "16.01.24",
+      "TIME": "16:00",
+      "LOC": "BUNDESTAG ZUSAMMEN GEGEN RECHTS"
+    }
+  },
+  {
+    "file_name": "0212.jpg",
+    "entities": {
+      "EVENT": "FRAUEN- SCHLÄGER AUS DER STADT JAGEN!",
+      "TOPIC": "@FRAUENKAMPFTAG.SFO | @KEINESHOWFUERTAETER_BERLIN Demo: 25. November 2023 16:30 Uhr",
+      "DATE": "25. November 2023",
+      "TIME": "16:30 Uhr",
+      "LOC": "Boxhagener Platz * Berlin Internationaler Tag zur Beseitigung patriarchaler Gewalt KEINE SHOWS FÜR TÄTER!"
+    }
+  },
+  {
+    "file_name": "0213.jpg",
+    "entities": {
+      "EVENT": "Demonstration",
+      "TOPIC": "22.10.23 FALKENSEE 17:30 UHR",
+      "DATE": "17.10.23",
+      "TIME": "17:30 Uhr",
+      "LOC": "Bahnhof FKS V.i.S.d.P.: Otto Roth, Lilienstraße 161, 14612 Falkensee"
+    }
+  },
+  {
+    "file_name": "0214.jpg",
+    "entities": {
+      "EVENT": "KEIN RAMMSTEIN VOR GERICHT STATT AUF DIE BÜHNE!",
+      "TOPIC": " STOMP THE PATRIARCHY",
+      "DATE": "15.07.23",
+      "TIME": "15:00 UHR – 14:30 UHR",
+      "LOC": "THEODOR-HEUSS-PLATZ CA. 16:00 UHR – OLYMPIASTADION + MUSIK"
+    }
+  },
+  {
+    "file_name": "0215.jpg",
+    "entities": {
+      "EVENT": "HUMMUS & BASS STATT HETZE & HASS ANTIFA PICKNICK GEGEN QUERDENKEN PARTY IM MAUERPARK SAMSTAG 3.6. ab 16.30 UHR",
+      "TOPIC": null,
+      "DATE": "3.6.2023",
+      "TIME": "16.30 Uhr",
+      "LOC": "MAUERPARK SAMSTAG"
+    }
+  },
+  {
+    "file_name": "0216.jpg",
+    "entities": {
+      "EVENT": "KRITISCHE PERSPEKTIVE AUF DEN OSTERMARSCH ’23 SAMSTAG 08.04. AB 13 UHR ➤ MÜLLERSTRASSE 146",
+      "TOPIC": "Warum Linkssein....nicht vor Konservatismus schützt.. HUFEISENTHEORIE?QUERFRONT?",
+      "DATE": "08.04.23",
+      "TIME": "13:00 Uhr",
+      "LOC": "Müllerstraße 146"
+    }
+  },
+  {
+    "file_name": "0217.jpg",
+    "entities": {
+      "EVENT": "GEGENKUNDGEBUNG ZUR RECHTSOFFENEN QUERFRONTDEMO",
+      "TOPIC": "AUFSTAND FÜR FRIEDEN",
+      "DATE": "25.02.2023",
+      "TIME": "14 Uhr",
+      "LOC": "Tiergarten ggü. US-Botschaft, Ecke Platz des 18. März RIGHT TO RESIST LINKE UKRAINE-SOLIDARITÄT BERLIN @righttoresistUA GERADEDENKEN"
+    }
+  },
+  {
+    "file_name": "0218.jpg",
+    "entities": {
+      "EVENT": "Geradedenken",
+      "TOPIC": "CAPTAIN FAIL VS. BÖHMERMANN",
+      "DATE": "09.01.2023",
+      "TIME": "18:00 Uhr",
+      "LOC": "Max-Schmeling-Halle"
+    }
+  },
+  {
+    "file_name": "0219.jpg",
+    "entities": {
+      "EVENT": "StraßenFFFest",
+      "TOPIC": "Laufdemo Leopoldplatz",
+      "DATE": "03.09.22",
+      "TIME": "14:30",
+      "LOC": "Mauerpark Straßenfest ab 19 Uhr"
+    }
+  },
+  {
+    "file_name": "0220.jpg",
+    "entities": {
+      "EVENT": "Antifaschistisches PICKNICK",
+      "TOPIC": "Gegen Querdenken und Rechts",
+      "DATE": "06.08.SAMSTAG",
+      "TIME": "14 Uhr",
+      "LOC": "MAUERPARK 06.08 SAMSTAG"
+    }
+  },
+  {
+    "file_name": "0221.jpg",
+    "entities": {
+      "EVENT": "GEGEN KRIEG FASCHISMUS UND QUERFRONT",
+      "TOPIC": "Kein Platz für Verschwörungsideolog*innen und ihre rechtsoffene »Friedenskundgebung« auf dem Weißenseer Antonplatz!",
+      "DATE": "25.06.22",
+      "TIME": "12³⁰ UHR",
+      "LOC": "ANTONPLATZ WEISSENSEE"
+    }
+  },
+  {
+    "file_name": "0222.jpg",
+    "entities": {
+      "EVENT": "#b0105wedding",
+      "TOPIC": "Wedding Querdenken",
+      "DATE": "1. MAI 13",
+      "TIME": "NETTELBECKPLATZ",
+      "LOC": " die Linke Wedding"
+    }
+  },
+  {
+    "file_name": "0223.jpg",
+    "entities": {
+      "EVENT": "Querdenken",
+      "TOPIC": "VERSENKEN",
+      "DATE": "SAMSTAG",
+      "TIME": "13:30 Uhr",
+      "LOC": "Querdenken Versenken Afd"
+    }
+  },
+  {
+    "file_name": "0224.jpg",
+    "entities": {
+      "EVENT": "SPAZIER STOP Lokal Dezentral Überall + Putinfans GEGEN QUERDENKEN UND RECHTS KASTANIENALLEE/ZIONSKIRCHSTRASSE MONTAG, 28.02. 19 UHR JEDEN MONTAG DEMO No 9 NEUER STANDORT"
+    }
+  },
+  {
+    "file_name": "0225.jpg",
+    "entities": {
+      "EVENT": "Kundgebung Washingtonplatz BERLINER BÜNDNIS GEGEN RECHTS",
+      "TOPIC": "11.12.21 14.30 Kundgebung",
+      "DATE": "11.12.21",
+      "TIME": "14.30",
+      "LOC": "Washingtonplatz BERLINER BÜNDNIS GEGEN RECHTS"
+    }
+  },
+  {
+    "file_name": "0226.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 3 column 3 (char 115)"
+  },
+  {
+    "file_name": "0227.jpg",
+    "entities": {
+      "EVENT": "RAUS ZUM FEMINISTISCHEN KAMPFTAG!",
+      "TOPIC": "8. MÄRZ DEMO 2025",
+      "DATE": "19 UHR CEIJA STOJKA PLATZ",
+      "TIME": "1070 WIEN",
+      "LOC": "1070 WIEN"
+    }
+  },
+  {
+    "file_name": "0228.jpg",
+    "entities": {
+      "EVENT": "Gedenkspaziergang",
+      "TOPIC": "Zwangsarbeiter*innen-Lager Großmotorenwerk der Daimler- Benz AG in Ludwigsfelde",
+      "DATE": "19.04.2025",
+      "TIME": "None",
+      "LOC": "Waldfriedhof"
+    }
+  },
+  {
+    "file_name": "0229.jpg",
+    "entities": {
+      "EVENT": "WIR BLEIBEN ALLE!",
+      "TOPIC": "POLITISCH MOTIVIERTE ABSCHIEBUNGEN STOPPEN",
+      "DATE": "18.APRIL",
+      "TIME": "16°°",
+      "LOC": "ALEX"
+    }
+  },
+  {
+    "file_name": "0230.jpg",
+    "entities": {
+      "EVENT": "PunkRock_Lyrik",
+      "TOPIC": "Gegen die Arbeit",
+      "DATE": "17.04.25",
+      "TIME": "19:00 Uhr",
+      "LOC": "RegenbogenCafé"
+    }
+  },
+  {
+    "file_name": "0231.jpg",
+    "entities": {
+      "EVENT": "STUDENTISCHE FREIRÄUME UND PROTEST AN DER FU VORTRAG IM ROTEN CAFÉ Di, 15. APRIL AB 18 UHR IHNESTR. 22, KELLER VORTRAG UND DISKUSSION KÜFA UND GETRÄNKE (GEGEN SPENDE) GEGEN IHRE KRIEGE"
+    }
+  },
+  {
+    "file_name": "0232.jpg",
+    "entities": {
+      "EVENT": "Diskussion, Basteln, Soli-Merch, Crêpes & Drinks Balkanbrücke Frühlingsevent",
+      "TOPIC": null,
+      "DATE": "13.04.25",
+      "TIME": "15–21 Uhr",
+      "LOC": "Wagenplatz Lohmühle Lohmühlenstraße 17, 12435 B"
+    }
+  },
+  {
+    "file_name": "0233.jpg",
+    "entities": {
+      "EVENT": "DEMONSTRATION",
+      "TOPIC": "15:00",
+      "DATE": "05.04.2025",
+      "TIME": "00:00",
+      "LOC": "U-BERNAUERSTRASSE"
+    }
+  },
+  {
+    "file_name": "0234.jpg",
+    "entities": {
+      "EVENT": "TeslaTakedown",
+      "TOPIC": "5. April - 12 Uhr Kundgebung Tesla Store Wilhelmstr. Berlin",
+      "DATE": "2023-04-05",
+      "TIME": "12:00",
+      "LOC": "Wilhelmstr. Berlin"
+    }
+  },
+  {
+    "file_name": "0235.jpg",
+    "entities": {
+      "EVENT": "Provisorischer anarchistischer Antikriegsrat Berlin",
+      "TOPIC": "information and mobilization for the protest against the first German Veterans Day",
+      "DATE": "2025-04-03",
+      "TIME": "20:00",
+      "LOC": "Fischladen Rigaerstr. 83 / 10247 Berlin U-Bhf Samariterstrasse"
+    }
+  },
+  {
+    "file_name": "0236.jpg",
+    "entities": {
+      "EVENT": "SOLIDARISCHER STAMMTISCH GEGEN 500 MILLIARDEN KRIEGSKREDITE discussion & Abendessen",
+      "TOPIC": "discussion & Abendessen",
+      "DATE": "1. April",
+      "TIME": "19:00",
+      "LOC": "Maggie, Frankfurter Allee 205"
+    }
+  },
+  {
+    "file_name": "0237.jpg",
+    "entities": {
+      "EVENT": "Kundgebung Gerechtigkeit für Cleo!",
+      "TOPIC": "Gegen Racial Profiling und Transmisogynoir",
+      "DATE": "31. März",
+      "TIME": "12 Uhr",
+      "LOC": "Justizzentrum Potsdam Jägerallee 10-12 14469 Potsdam"
+    }
+  },
+  {
+    "file_name": "0238.jpg",
+    "entities": {
+      "EVENT": "BLEIBERECHTSKAMPF",
+      "TOPIC": "ABEND",
+      "DATE": "18.00 - 20.00",
+      "TIME": "20.00 - 23.00",
+      "LOC": "FLINTA only *create a save space* open mic* 20.00 - 23.00 all gender welcome *BANDS* *THEM PRETTY SONGS* *INTENSIVE SNARE UNIT* 23.00 - open end all gender PARTY im CAFE U Bernkastelerstr. 78 13088 Berlin 28.03"
+    }
+  },
+  {
+    "file_name": "0239.jpg",
+    "entities": {
+      "EVENT": "Vergessene Arbeitskämpfe PUNK Abend Eintritt",
+      "TOPIC": "8€ Roter Salon in der VOLKSBÜHNE Wann",
+      "DATE": "24.11.2023",
+      "TIME": "21 Uhr",
+      "LOC": "Volksbuehne Wann"
+    }
+  },
+  {
+    "file_name": "0240.jpg",
+    "entities": {
+      "EVENT": "#KeinFussbreit!",
+      "TOPIC": "Antisemitismus und Rassismus töten - rechter Terror bedroht unsere Gesellschaft!",
+      "DATE": "13.10.2019",
+      "TIME": "13 Uhr",
+      "LOC": "Bebelplatz - Berlin-Mitte unteilbar.org"
+    }
+  },
+  {
+    "file_name": "0241.jpg",
+    "entities": {
+      "EVENT": "Demokratischer Widerstand",
+      "TOPIC": "Auf die ersten 20 Artikel unserer Verfassung",
+      "DATE": "19.12.2020",
+      "TIME": "14:30 Uhr",
+      "LOC": "Rosa-Luxemburg-Platz 14"
+    }
+  },
+  {
+    "file_name": "0242.jpg",
+    "entities": {
+      "EVENT": "DEMO",
+      "TOPIC": "Showtime bei Antonplatz",
+      "DATE": "06.10.2024",
+      "TIME": "13 Uhr",
+      "LOC": "Antonplatz KEINEN RAUM DEM III. WEG!"
+    }
+  }
+]

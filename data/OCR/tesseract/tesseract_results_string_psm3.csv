@@ -1,0 +1,2005 @@
+file_name,category,ground_truth,ocr_tesseract,similarity,normalized_ocr_tesseract,similarity02,char_accuracy02,char_accuracy,word_accuracy,word_accuracy02,cer02,wer02,cer,wer
+0001.jpg,noisy,SPRACHCAFE WEIHNACHTSFEIER DIENSTAG 21.12. OLOF-PALME ZENTRUM 19 UHR WIR FREUEN UNS AUF EUCH!,"ÄCHCAFE—&
+aHTSFELER
+
+DIENSTAG 21.12.
+OLOF-PALME ZENTRUM —
+19 UHR
+
+WIR FREUEN UNS AUF EUCH!",0.0,ÄCHCAFE—& aHTSFELER DIENSTAG 21.12. OLOF-PALME ZENTRUM — 19 UHR WIR FREUEN UNS AUF EUCH!,0.0,0.8387096774193549,0.7849462365591398,0.3076923076923077,0.3076923076923077,0.16129032258064516,0.23076923076923078,0.21505376344086022,0.38461538461538464
+0002.jpg,noisy,"SCHLIESST EUCH AN! ET Video & Content nichtohneuns_Dresden KUNDGEBUNG #SOLIDARITÄT MIT ALLEN! BERICHTE: WIE WAR DIE BERLIN-DEMO WIRKLICH? Dresden, Großer Garten, 8.8. um 16 Uhr","#SOLIDARITÄT MIT ALLEN!
+
+BERICHTE: WIE WAR DIE BERLIN-DEMO WIRKLICH?
+
+Dresden, Großer Garten, 8.8. um 16 Uhr
+
+CT",0.0,"#SOLIDARITÄT MIT ALLEN! BERICHTE: WIE WAR DIE BERLIN-DEMO WIRKLICH? Dresden, Großer Garten, 8.8. um 16 Uhr CT",0.0,0.5852272727272727,0.5568181818181819,0.0,0.0,0.4147727272727273,0.4,0.4431818181818182,0.4
+0003.jpg,noisy,"»ES IST GESCHEHEN UND FOLGLICH KANN ES WIEDER GESCHEHEN.« Primo Levi Gedenkkundgebung und antifaschistische Demonstration Mahnmal Levetzowstraße, Berlin-Moabit 9. November 1938–2023 18:00 Uhr 85 Jahre nach den Novemberpogromen; Solidarität mit den Opfern des deutschen Antisemitismus und Rassismus! 9november.blackblogs.org","Gedenkkundgebung und
+
+antifaschistische Demonstration
+
+)) Mahnmal Levetzowstraße, Berlin-Moabit
+9. November
+
+18:00 Uhr
+
+& [Sj
+WWIEDER GEBGHEHEN.
+
+|
+
+85 Jahre nach den Novemberpogromen;
+Solidarität mit den Opfern des
+Onovember.blackblogs.org deutschen Antisemitismus und Rassismus!",0.0,"Gedenkkundgebung und antifaschistische Demonstration )) Mahnmal Levetzowstraße, Berlin-Moabit 9. November 18:00 Uhr & [Sj WWIEDER GEBGHEHEN. | 85 Jahre nach den Novemberpogromen; Solidarität mit den Opfern des Onovember.blackblogs.org deutschen Antisemitismus und Rassismus!",0.0,0.5201238390092879,0.4860681114551083,0.0,0.0,0.47987616099071206,0.5263157894736842,0.5139318885448917,0.6052631578947368
+0004.jpg,noisy,"FEIERABEND SINGEN KULTUR NETZ Meiendorf IMMER UM 17.00 UHR JEDE*R IST ♥-LICH WILLKOMMEN! MITTWOCH, 21. JUNI 2023 Wo: Grundschule Islandstraße, Islandstraße 25","Ö
+
+A JEDEIR IST o-LS%WILLKQMMENLÄ
+
+S",0.0,Ö A JEDEIR IST o-LS%WILLKQMMENLÄ S,0.0,0.1518987341772152,0.1455696202531645,0.0,0.0,0.8481012658227848,0.9545454545454546,0.8544303797468354,0.9545454545454546
+0006.jpg,noisy,IHR HABT UNS DIE STADT GESTOHLEN GEBT SIE WIEDER HER! ZUKUNFT STATT OSTKREUZ CAMPUS DEMO GEGEN GENTRIFIZIERUNG 09. JULI 2022 / 15:00 UHR,"Aul
+DEMO GEGEN GENTRIFIZIERUNG
+Na 2022 / 15:00 UHR",0.0,Aul DEMO GEGEN GENTRIFIZIERUNG Na 2022 / 15:00 UHR,0.0,0.3382352941176471,0.3235294117647058,0.0,0.0,0.6617647058823529,0.6956521739130435,0.6764705882352942,0.782608695652174
+0007.jpg,noisy,9. Mai 2024 Demo Herrentag Tag der Befreiung! 13h Ostkreuz (Seite Sonntagstraße),,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0009.jpg,noisy,"OMAS GEGEN RECHTS Benefizabend am 10. Mai 2022, 19:30 Uhr Ateliertheater, Burggasse 71, 1070 Wien Anmeldung: www.ateliertheater.wien Harri Stojka Shlomit Butbul Klezmer Reloaded The English Lovers Aret Aleksanyan · Muamer Budimlic · Margaret Carter Caroline Koczan · Ingrid Porzner · Monika Salzer · Susanne Scholl Jenny Simanowitz · Kathy Tanner · Vira Zhuk und OMAS-ON-STAGE ATELIERTHEATER Eintritt frei",>|\g|_ASÜI:'GEI5!REM,0.0,>|\g|_ASÜI:'GEI5!REM,0.0,0.0222222222222222,0.0222222222222222,0.0,0.0,0.9777777777777777,1.0,0.9777777777777777,1.0
+0010.jpg,noisy,GRUNDGESETZ MEDITATION 02.05.2020 15:30 UHR REWE BLIESKASTEL,"GRU#@ESETZ
+MEDITARION
+02.05/2020 15:30 UHR
+REWELBLIESKÄASTEL",0.0,GRU#@ESETZ MEDITARION 02.05/2020 15:30 UHR REWELBLIESKÄASTEL,0.0,0.8833333333333333,0.8333333333333334,0.2857142857142857,0.2857142857142857,0.11666666666666667,0.7142857142857143,0.16666666666666666,0.8571428571428571
+0011.jpg,noisy,SAVE THE DATE Am 11. Januar 2025 nach Riesa PROTEST GEGEN DEN AFD- BUNDESPARTEITAG STOPPT DIE AfD Aufstehen-gegen-Rassismus.de,"Z Am II |anuar 2025 al
+
+\A 5E S 5
+C „55*_«‚w nach Riesa ; f jg% A
+
+(""‚l ?'?;v„„-",0.0,"Z Am II |anuar 2025 al \A 5E S 5 C „55*_«‚w nach Riesa ; f jg% A (""‚l ?'?;v„„-",0.0,0.2380952380952381,0.2301587301587301,0.0,0.0,0.7619047619047619,1.1111111111111112,0.7698412698412699,1.0555555555555556
+0012.jpg,noisy,"DEMOKRATISCHER Sommer www.nichtohneuns.de NICHT OHNE UNS! in Berlin 29. August 20202 Großdemo mit bis zu 5.000.000 Teilnehmern. NICHT OHNE UNS! Europe in Berlin 29. August Parade und Kundgebung für das Grundgesetz und eine Basis-Demokratische Wende Saturday, the 29.8.2020 Berlin invites Europe Nicht Ohne Uns!","@@äﬁ OKRATISCHER
+
+www.nichtohneuns.de
+!_ in Berlin 29. August 20202 Großdemo mit bis zu 5.000.000 Teilnehmern.
+
+Saturday, the 29.8.2020
+
+Berlin invites Europe .",0.0,"@@äﬁ OKRATISCHER www.nichtohneuns.de !_ in Berlin 29. August 20202 Großdemo mit bis zu 5.000.000 Teilnehmern. Saturday, the 29.8.2020 Berlin invites Europe .",0.0,0.4741935483870968,0.4580645161290322,0.0454545454545454,0.0454545454545454,0.5258064516129032,0.5909090909090909,0.5419354838709678,0.6136363636363636
+0013.jpg,noisy,BERLIN ORT: ORANIENPLATZ KUNDGEBUNG 19. FEB – 14 UHR ERINNERN HEISST KÄMPFEN! 3 JAHRE NACH HANAU Ferhat Unvar · Gökhan Gültekin · Vili-Viorel Păun · Sedat Gürbüz · Mercedes Kierpacz · Kaloyan Velkov · Said Nesar Hashemi · Fatih Saraçoğlu · Hamza Kenan Kurtović WIR FORDERN EINE LÜCKENLOSE AUFKLÄRUNG UND KONSEQUENZEN! RASSISMUS UND FASCHISMUS ENTSCHLOSSEN BEKÄMPFEN!,"BERLIN oer: oranıeNPLATZ
+
+19.FEB - 14 UHR
+
+ERINNERN HEISST KÄMPFEN!
+
+WIR FORDERN EINE LÜCKENLOSE AUFKLÄRUNG UND KONSEQUENZEN!
+RASSISMUS UND FASCHISMUS ENTSCHLOSSEN BEKAMPFEN!
+
+E A
+
+WE B l T mi ] ®",0.0,BERLIN oer: oranıeNPLATZ 19.FEB - 14 UHR ERINNERN HEISST KÄMPFEN! WIR FORDERN EINE LÜCKENLOSE AUFKLÄRUNG UND KONSEQUENZEN! RASSISMUS UND FASCHISMUS ENTSCHLOSSEN BEKAMPFEN! E A WE B l T mi ] ®,0.0,0.3825136612021858,0.3633879781420764,0.0178571428571428,0.0178571428571428,0.6174863387978142,0.8571428571428571,0.6366120218579235,0.8928571428571429
+0014.jpg,noisy,HACK SEXISM Broschüren-Release 5. Juli 2023 ://about blank 18:30 Einlass // 19 Uhr Start Strategien und Maßnahmen gegen Sexismus und sexualisierte Gewalt auf Festivals & Co MBI NYP,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0015.jpg,noisy,"FR., 28. JUNI RAVE DEMO BASS GEGEN HASS 19 UHR, ESSEN HBF","[FR., 28. JUNI [
+
+—19 UHR,
+SSSEN He:s",0.0,"[FR., 28. JUNI [ —19 UHR, SSSEN He:s",0.0,0.4736842105263158,0.4385964912280702,0.1666666666666666,0.1666666666666666,0.5263157894736842,0.75,0.5614035087719298,0.8333333333333334
+0016.jpg,noisy,WORKSHOP Do it Yourself Bau dein eigenen PC und Smartphone Wo? Mittelpunktbibliothek Treptow Wann? Samstag 16.11.2024 *11 bis 13 Uhr Jetzt Anmelden! PS: Alte/eigene Geräte können zum erforschen mitgebracht werden!,"Bau dein eigenen PC und Smartphone
+
+Wo?
+? Mittelpunktbibliothek Treptow
+PS: Alte/eigene Geräte können
+Wann? ;
+zum erforschen mitgebracht
+O samstag 16.11.2024
+
+. werden!
+*11 bis 13 Uhr",0.0,Bau dein eigenen PC und Smartphone Wo? ? Mittelpunktbibliothek Treptow PS: Alte/eigene Geräte können Wann? ; zum erforschen mitgebracht O samstag 16.11.2024 . werden! *11 bis 13 Uhr,0.0,0.3990610328638497,0.3802816901408451,0.0,0.0,0.6009389671361502,0.7666666666666667,0.6197183098591549,0.7666666666666667
+0017.jpg,noisy,"76 Jahre Befreiung vom Faschismus Erinnern heißt KÄMPFEN! Sa, 08.05.2021 Gedenken 10:00–18:00 Uhr Sowjetisches Ehrenmahl Buch Kundgebung 15:00 Uhr Vortreffungspunkt 14:30 Uhr Bahnsteig S-Pankow","78 Ian
+
+— Befreiung vom Fasch]H'nus
+TE ‚x heifst
+ER
+
+Sa, 08.05.2021
+Gedenken 10:00-18:00 Uhr
+Sowjetisches Ehrenmahl Buch
+Kundgebung 15:00 Uhr
+
+Vortreffungpunkt 14:30 Uhr
+Bahnsteig S-Pankow L",0.0,"78 Ian — Befreiung vom Fasch]H'nus TE ‚x heifst ER Sa, 08.05.2021 Gedenken 10:00-18:00 Uhr Sowjetisches Ehrenmahl Buch Kundgebung 15:00 Uhr Vortreffungpunkt 14:30 Uhr Bahnsteig S-Pankow L",0.0,0.844559585492228,0.7927461139896373,0.0,0.0,0.15544041450777202,0.4583333333333333,0.20725388601036268,0.75
+0018.jpeg,noisy,KUNDGEBUNG & AUFZUG DURCH KASSEL Nein zur Impfpflicht! Ärzte sprechen Klartext! 29. JANUAR 2022 14.00 UHR KÖNIGSPLATZ KASSEL FREIE BÜRGER KASSEL FÜR FRIEDEN & FREIHEIT,"A-  nlmpfpfhcht'
+Arzte sprechen Klartext'
+€ 4 29 JANÜA,R 2[pzz "";—‘f;‚_'x?_j
+
+70 U HR K
+. kONIGSPLNTZ KASSEL
+
+‘$
+
+\",0.0,"A- nlmpfpfhcht' Arzte sprechen Klartext' € 4 29 JANÜA,R 2[pzz "";—‘f;‚_'x?_j 70 U HR K . kONIGSPLNTZ KASSEL ‘$ \",0.0,0.3173652694610778,0.2994011976047904,0.04,0.04,0.6826347305389222,0.96,0.7005988023952096,0.96
+0019.jpg,noisy,antifaschistische RALLY START BRENNER-BERG ZWISCHEN 12 UND 16 UHR 15.5. 16.5.,"i
+antirfaschistisch c
+
+RALLY ”
+
+Zukun",0.0,i antirfaschistisch c RALLY ” Zukun,0.0,0.2727272727272727,0.2337662337662337,0.0,0.0,0.7272727272727273,1.0,0.7662337662337663,1.0
+0020.jpg,noisy,DEMONSTRATION SONNTAG 06.09.2020 SCHÜLER/-INNEN GEGEN DIE MASKENPFLICHT! WANN: 15:30 UHR WO: MEISTERSINGERHALLE NÜRNBERG. TOLLE REDNER MODERATOR (NANA LIFESTYLER) GUNNAR KAISER U.V.M. IMPRESSUM: SCHÜLER/-INNEN GEGEN DIE MASKENPFLICHT (DEUTSCHLAND) ADRIANBOOKING2019@GMAIL.COM,"DEMONSTRATION
+
+SONNTAG 0F@19.2020;
+
+1, S M
+SCHÜLER/-IN GEN
+DIE MASKENPFLICHT!._ _
+WANN: 15:30 UHR
+WO: MEISTERSINGERHALLE
+
+NÜRNBERG
+S
+TULLEHEDNER N “““Y9*
+
+MODERATOR
+(NANA LIFESTYLER)
+IMPRESSUM:SCHÜLER/-INNEN/GEGEN]DIE MASKENPFLICHT, [nzurscnuun]
+an / |fall;\ﬂlL""ül«?'L",0.0,"DEMONSTRATION SONNTAG 0F@19.2020; 1, S M SCHÜLER/-IN GEN DIE MASKENPFLICHT!._ _ WANN: 15:30 UHR WO: MEISTERSINGERHALLE NÜRNBERG S TULLEHEDNER N “““Y9* MODERATOR (NANA LIFESTYLER) IMPRESSUM:SCHÜLER/-INNEN/GEGEN]DIE MASKENPFLICHT, [nzurscnuun] an / |fall;\ﬂlL""ül«?'L",0.0,0.6436363636363636,0.6,0.0714285714285714,0.0714285714285714,0.3563636363636364,0.8214285714285714,0.4,0.8928571428571429
+0022.jpg,noisy,"AKTION RESISTENZ FRUSTRATION GEMEINSAMKEIT WIDERSTAND HOFFNUNG AUFSCHREI BESTÄRKUNG NETZWERK ISOLATION RESILIENZ SOLIDARITÄT TRAUER FLUCHT AUSBEUTUNG NEUANFANG 1 JAHR TALIBAN REGIME DEMO: SAMSTAG, 13.08.2022 14.00 UHR, AUSWÄRTIGES AMT PROTEST CAMP BERLIN 13.08.2022 — 15.08.2022 WORKSHOPS PERFORMANCES REDEBEITRÄGE #DONTFORGETAFGHANISTAN","AKTION RESISTENZ FRUSTRATION
+GEMEINSAMKEIT WIDERSTAND HOFFNUNG
+AUFSCHREI BESTÄRKUNG NETZWERK
+
+ISOLATION RESILIENZ SOLIDARITÄT
+TRAUER FLUCHT AUSBEUTUNG NEUANFANG
+
+JAHR
+
+TALIBAN
+REG
+
+DEMO: SAMSTAG, 13.08.2022
+14.00 UHR, AUSWARTIGES AMT
+PROTEST CAMP BERLIN
+13.08.2022 — 15.08.2022
+
+WORKSHOPS PERFORMANCES REDEBEITRÄGE
+
+#DONTFORGETAFGHANISTAN",0.0,"AKTION RESISTENZ FRUSTRATION GEMEINSAMKEIT WIDERSTAND HOFFNUNG AUFSCHREI BESTÄRKUNG NETZWERK ISOLATION RESILIENZ SOLIDARITÄT TRAUER FLUCHT AUSBEUTUNG NEUANFANG JAHR TALIBAN REG DEMO: SAMSTAG, 13.08.2022 14.00 UHR, AUSWARTIGES AMT PROTEST CAMP BERLIN 13.08.2022 — 15.08.2022 WORKSHOPS PERFORMANCES REDEBEITRÄGE #DONTFORGETAFGHANISTAN",0.0,0.9821958456973294,0.9317507418397626,0.4324324324324324,0.4324324324324324,0.017804154302670624,0.08108108108108109,0.06824925816023739,0.43243243243243246
+0023.jpg,noisy,09. Mai 15.30 Uhr Biberach Gigelberg angemeldete DEMO Wahrung der Grundrechte freie Impfentscheidung Art.1: Die Würde des Menschen ist unantastbar.... Art.2: Die Freiheit der Person ist unverletzlich... Art.5: Eine Zensur findet nicht statt... WICHTIG bitte Mindestabstand einhalten sonst könnte die Veranstaltung aufgelöst werden,"15.30 Uhr Biberach Gigelberg \
+angemeldete DEMO __
+Wahrung der Grundrechte *—
+freie Impfentscheidung
+
+Ar
+nn © / WICHTIG
+indestabstand einhalten
+
+PIC-COLLAGE",0.0,15.30 Uhr Biberach Gigelberg \ angemeldete DEMO __ Wahrung der Grundrechte *— freie Impfentscheidung Ar nn © / WICHTIG indestabstand einhalten PIC-COLLAGE,0.0,0.3787878787878788,0.3666666666666667,0.0697674418604651,0.0697674418604651,0.6212121212121212,0.7674418604651163,0.6333333333333333,0.7906976744186046
+0024.jpg,noisy,"ONE BILLION RISING HANAU Weltweit tanzen an diesem Tag Menschen gegen Gewalt an Frauen 14. Februar, 16 Uhr Marktplatz Macht mit! Tanzt mit! 2017 ONE BILLION RISING HANAU onebillionrising.org onebillionrising.de Schirmherr: Claus Kaminsky Oberbürgermeister Eine weltweite Aktion gegen Gewalt an Frauen","UNE DILLIUN NISJINUG
+
+HANAU
+
+Weltweit tanzen an diesem Tag Menschen
+gegen Gewalt an Frauen
+
+14.Februar, 16 Uhr
+Marktplatz 3n
+
+® F
+weltweite
+® . Aktion
+
+ONE BILLION RISING gegen Gewalt
+Schirmherr: Claus Kamin . . an Frauen",0.0,"UNE DILLIUN NISJINUG HANAU Weltweit tanzen an diesem Tag Menschen gegen Gewalt an Frauen 14.Februar, 16 Uhr Marktplatz 3n ® F weltweite ® . Aktion ONE BILLION RISING gegen Gewalt Schirmherr: Claus Kamin . . an Frauen",0.0,0.5766666666666667,0.54,0.3170731707317073,0.3170731707317073,0.42333333333333334,0.5365853658536586,0.46,0.6097560975609756
+0025.jpg,noisy,Noch drei Wochen bis zu den Landtagswahlen. IN ZWICKAU SIND WIR STARK GEGEN RECHTEN QUARK! +++ SA 17.08. 13:30 Uhr Hauptbahnhof +++ SACHSEN UNTERSTÜTZEN. STOPPT DIE AfD,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0026.jpg,noisy,Kultur & Strasse FESTIVAL About Blank Berlin 21. Juli 2024 13:00 – 22:00 Uhr EINTRITT FREI!,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0027.jpg,noisy,"A100 WEGBASSEN! FAHRRADDEMO gegen die A100 vom Verkehrsministerium zu ""A100 wegbassen"" am Ostkreuz 2.9. um 14 Uhr Invalidenpark",,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0028.jpg,noisy,"CORONA IST NICHT DAS PROBLEM nichtohneuns_Dresden ET Video & Content KUNDGEBUNG EINE WIRTSCHAFTSKRISE? Dresden, Neumarkt, 20.6. um 16.30 Uhr","tJlmeims Dresd L
+
+KUNDGEBUNG",0.0,tJlmeims Dresd L KUNDGEBUNG,0.0,0.1428571428571429,0.1357142857142856,0.0,0.0,0.8571428571428571,0.9473684210526315,0.8642857142857143,0.9473684210526315
+0029.jpg,noisy,"Zukunft am Ostkreuz, Laskerstraße 5, 10245 Berlin Keine Zukunft fürs Ostkreuz Gegen die Kündigung der Zukunft am Ostkreuz zum 31.03.22 Ohne Zukunft am Ostkreuz 13.11. Kiezdemo und Kundgebung 13 Uhr Rudolfplatz 3.12. Aktionstag Zukunft Für Erhalt und langfristige Sicherung von kulturellen Zwischenräumen – fürs Ostkreuz und ganz Berlin.","luuunh am
+
+— Keiuie
+Zukunfrt
+
+fürs Ostkreuz
+
+DE die
+
+K fgung der
+Eunft am
+DStkreuz zum
+81.03.22
+
+am Ostkreuz
+
+13.11. Kiezdemo und.Kundgebung
+13 Uhr Rudolfplatz‘
+SAg Zukung
+
+D ige Sicherung f
+S henräumen -
+A anz Berlin.",0.0,luuunh am — Keiuie Zukunfrt fürs Ostkreuz DE die K fgung der Eunft am DStkreuz zum 81.03.22 am Ostkreuz 13.11. Kiezdemo und.Kundgebung 13 Uhr Rudolfplatz‘ SAg Zukung D ige Sicherung f S henräumen - A anz Berlin.,0.0,0.5505952380952381,0.5,0.0208333333333333,0.0208333333333333,0.4494047619047619,0.7083333333333334,0.5,0.7708333333333334
+0030.jpg,noisy,"SCHLUSS MIT CORONA! ET Video & Content nichtohneuns_Dresden KUNDGEBUNG GENUG MIT DER ANGST! Dresden, Neumarkt, 13.6. um 16.30 Uhr","Dresden, Neumarkt‚ 13 6 um 16. 30 Uhr‘",0.0,"Dresden, Neumarkt‚ 13 6 um 16. 30 Uhr‘",0.0,0.2480620155038759,0.2480620155038759,0.0,0.0,0.751937984496124,1.0,0.751937984496124,1.0
+0031.jpg,noisy,TECHNOPUNK GEGEN UNHALTBARE ZUSTÄNDE 14.10.2021 DEMO 18 UHR HERMANNPLATZ FAHRRAD-DEMO 20 UHR SCHILLINGBRÜCKE #køpibleibt,"TECHNOPUNK GEGENE. 4
+
+UNHA!TRARE ZUSTÄNDE”
+20 UHR SCHILLNGBRÜCKE.
+
+#Kepibleibt",0.0,TECHNOPUNK GEGENE. 4 UNHA!TRARE ZUSTÄNDE” 20 UHR SCHILLNGBRÜCKE. #Kepibleibt,0.0,0.5083333333333333,0.475,0.0714285714285714,0.0714285714285714,0.49166666666666664,0.7857142857142857,0.525,0.8571428571428571
+0032.jpg,noisy,"WORKSHOP EINFÜHRUNG DADAISMUS Von der Uhr zur Kunst 16.01. & 18.01.2025 // 15 - 18:00 Uhr Mit Daniel Carrion Teilnahme: 10,- EUR NOCHMALL.DE/EVENTS/ Powered by BSR","EINFÜHRUNG
+
+DAIAISMUS",0.0,EINFÜHRUNG DAIAISMUS,0.0,0.1165644171779141,0.1042944785276073,0.0,0.0,0.8834355828220859,0.9615384615384616,0.8957055214723927,0.9615384615384616
+0035.jpg,fancy,FÜRSTENFELDER Salvator Neue Zähne beißen gut: Krügelredner Stefan KRÖLL! Das Starkbierfest 17.02.2024 - 20.00 Uhr,"— FÜRSTENFELDER —
+@ß
+
+”e„e Z..
+5 0/)„
+w helBen Ut:
+rll_qe/,ed„e A
+
+r
+KRÖLL ‚S' Jan
+
+„ _ Das Starkbierfest
+17.02.2024 - 20.00 Uhr
+
+\",0.0,"— FÜRSTENFELDER — @ß ”e„e Z.. 5 0/)„ w helBen Ut: rll_qe/,ed„e A r KRÖLL ‚S' Jan „ _ Das Starkbierfest 17.02.2024 - 20.00 Uhr \",0.0,0.504424778761062,0.4513274336283186,0.0,0.0,0.49557522123893805,1.2666666666666666,0.5486725663716814,1.0666666666666667
+0036.jpg,fancy,Limited Booze Boys FREITAG ab 19:00 Party + Live Band 21. STOCK CAR RENNEN HARTHA RENNSTRECKE HEEGWEG Betreutes Trinken LETZTES WE IM OKTOBER VERDÄCHTIG GUTE EVENTS 03 431 - 611 367,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0037.jpeg,fancy,FREE ALL ANTIFAS! FREIHEIT FÜR NANUK! KEINE AUSLIEFERUNG VON ANTIFAS NACH UNGARN! 18. MÄRZ 19 UHR | U-BHF TURMSTR | DEMO FREENANUK.NOBLOGS.ORG | BASG.NEWS,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0039.jpeg,fancy,VOM STAAT VERKNACKT UND TROTZDEM DA FREE ALL ANTIFA #FREE NANUK TAG DER POLITISCHEN GEFANGENEN DEMO BERLIN 18.03.25 | 19⁰⁰ U-BHF. TURMSTR.,"A
+7F HA
+1.&n [ '-I„
+
+(
+
+n.u.H.. Ää'.
+
+A
+
+H!!
+
+- _.r.„_m.
+
+-l.l— x\ n S
+
+H\‘nh\ Y— — p |..u Y
+a ß
+LL A
+
+""it
+
+wu.lﬂl Ä:
+
+LL
+-“
+
+DEMO R
+
+* TAG DER *
+POLITISCHEN
+GEFANGENEN
+
+——
+
+s",0.0,"A 7F HA 1.&n [ '-I„ ( n.u.H.. Ää'. A H!! - _.r.„_m. -l.l— x\ n S H\‘nh\ Y— — p |..u Y a ß LL A ""it wu.lﬂl Ä: LL -“ DEMO R * TAG DER * POLITISCHEN GEFANGENEN —— s",0.0,-0.0217391304347827,-0.1376811594202898,0.0,0.0,1.0217391304347827,1.8636363636363635,1.1376811594202898,1.5454545454545454
+0040.jpeg,fancy,"SOLI-FESTIVAL 1. März 2025, 12 - 0 Uhr UNSERE STIMMEN SOLL MAN HÖREN! Mühlstrasse 14 e.V. Soziokulturelles Stadtteilzentrum Leipzig AMNESTY INTERNATIONAL","SOLI-FESTIVAL
+
+1. März 2025‚
+
+UNSERE
+SOLL MAN
+HÖREN/
+
+r
+{ %
+W A
+
+e",0.0,SOLI-FESTIVAL 1. März 2025‚ UNSERE SOLL MAN HÖREN/ r { % W A e,0.0,0.3660130718954248,0.3071895424836601,0.1428571428571428,0.1428571428571428,0.6339869281045751,0.7142857142857143,0.6928104575163399,0.8571428571428571
+0041.jpg,fancy,"50 JAHRE RUMBLE IN THE JUNGLE Podium: Martin Krauß (Sportjournalist, taz) Dr. Michela Wrong (britische Journalistin) Fabian Kunow (Moderation) Film: When we were Kings (1997) Mo., 25. Nov., 19 Uhr ://about blank Markgrafendamm 24c, 10245 Berlin","50 JAHRE RUMDLE IN THE JUNGLE
+— ] Podium:
+
+| Martin Krauß
+
+{Sportjoumalist, taz)
+
+| Dr. Michela Wrong
+
+| _ (eritische Journalistin)
+Fabian Kunow
+
+(Moderation)
+
+Film: When we were Kings (1997)
+
+Mo., 25. Nov., 19 Uhr
+://about blank
+Markgrafendamm 24c, 10245 Berlin",0.0,"50 JAHRE RUMDLE IN THE JUNGLE — ] Podium: | Martin Krauß {Sportjoumalist, taz) | Dr. Michela Wrong | _ (eritische Journalistin) Fabian Kunow (Moderation) Film: When we were Kings (1997) Mo., 25. Nov., 19 Uhr ://about blank Markgrafendamm 24c, 10245 Berlin",0.0,0.930327868852459,0.8729508196721312,0.1388888888888889,0.1388888888888889,0.06967213114754098,0.25,0.12704918032786885,0.3888888888888889
+0043.jpg,fancy,STABIL BLEIBEN UND MASSENHAFT WIDERSETZEN! LIVE DABEI: ★ ZSK ★ UND WEITERE ACTS! • 11. JANUAR 2025 • ALLE NACH RIESA • KUNDGEBUNG GEGEN AFD-PARTEITAG!,"STABIL
+3LEIBEN
+
+MARSSENHAFT WIDERSETZEN!
+
+UuND
+
+“ UND WEITERE ACTS!
+
+O al — _
+
+- 11. JANUAR 2025 ° ALLE NACH RIESA °",0.0,STABIL 3LEIBEN MARSSENHAFT WIDERSETZEN! UuND “ UND WEITERE ACTS! O al — _ - 11. JANUAR 2025 ° ALLE NACH RIESA °,0.0,0.5533333333333333,0.5133333333333333,0.28,0.28,0.44666666666666666,0.72,0.4866666666666667,0.76
+0044.jpg,fancy,NICHT OHNE UNS! DORTMUND jeden Samstag 14:30 Uhr - Willy-Brandt-Platz UNSERE DEMOKRATIE IST INFIZIERT! antikörper JETZT!,"NICHT OHNE UNS! DORTMUND
+
+jeden Samstag 14:30 Uhr - Willy-Brandt-Platz",0.0,NICHT OHNE UNS! DORTMUND jeden Samstag 14:30 Uhr - Willy-Brandt-Platz,0.0,0.575,0.5583333333333333,0.625,0.625,0.425,0.375,0.44166666666666665,0.375
+0045.jpeg,fancy,ACHTUNG NEUE VERSAMMLUNGSFLÄCHE! GROSSDEMO KASSEL Frühlingserwachen – Die Welt steht auf! „Wir werden ALLE da sein!“ KARLSWIESE / ORANGERIE KASSEL WELTWEIT – ALLE ZUSAMMEN 1 TAG – 1 ZIEL WELTWEIT – ALLE ZUSAMMEN IN DER MITTE DEUTSCHLANDS 20.03.2021 12:00 – 16:00 UHR MIT ANSCHLIESSENDEM AUFZUG LIVESTREAMS AUS ALLER WELT #Zusammenhalt statt Spaltung,"GROSSDEMO
+„.«« 5 KASSEL -
+
+v’:mmlmj5a/ Wwachen -
+
+Die Well slcht auf!
+KARLSWIESE / ORANGERIE KASSEL
+
+WELTWEIT - ALLE ZUSAMMEN
+
+1TAG - 1ZIEL
+WELTWEIT - ALLE ZUSAMMEN
+
+IN DER MITTE DEUTSCHLANDS
+20.03.2021
+
+„ 12:00 - 16 00 UHR
+
+l/|‚$
+
+4Q k &q -
+&R Ms “""‘",0.0,"GROSSDEMO „.«« 5 KASSEL - v’:mmlmj5a/ Wwachen - Die Well slcht auf! KARLSWIESE / ORANGERIE KASSEL WELTWEIT - ALLE ZUSAMMEN 1TAG - 1ZIEL WELTWEIT - ALLE ZUSAMMEN IN DER MITTE DEUTSCHLANDS 20.03.2021 „ 12:00 - 16 00 UHR l/|‚$ 4Q k &q - &R Ms “""‘",0.0,0.5243553008595989,0.4813753581661891,0.0,0.0,0.47564469914040114,0.6923076923076923,0.5186246418338109,0.75
+0046.jpeg,fancy,h48 Plötzlich Meerjungmensch Die beste (nicht)Karnevals-Kostüm Party Berlins 01. März 2025 AB 20 UHR PROJEKTRAUM HERMANNSTRABE 48 LINE UP DJ KETCHUP (SPICY BASS / BREAKBEAT) DJ TDIPPZ (HAPPY HARDCORE) + KOSTÜMWETTBEWERB + PARTYSPIELE *VERKLEIDUNG ERWÜNSCHT. EGAL WAS!*,"&01. MÄRZ 2025
+
+Xx
+
+AR Z0OUHR LINE U®
+[ ‘ KETOHUP
+4 (M‘ITN""WT)
+PROJSKTRAUM 9 d
+HERMANNNTRARE 43 an -
+„PARTYBTIELG
+
+AYZKLZIDUNG SiNÜNGSGT, Z6AL WAY",0.0,"&01. MÄRZ 2025 Xx AR Z0OUHR LINE U® [ ‘ KETOHUP 4 (M‘ITN""WT) PROJSKTRAUM 9 d HERMANNNTRARE 43 an - „PARTYBTIELG AYZKLZIDUNG SiNÜNGSGT, Z6AL WAY",0.0,0.2611940298507462,0.2388059701492537,0.0,0.0,0.7388059701492538,0.9459459459459459,0.7611940298507462,0.9459459459459459
+0047.jpg,fancy,"15 JAHRE JUBILÄUMSSHOW GOITZSCHE FRONT WILLKUER Berserker Berlin UBER EATS MUSIC HALL BERLIN, 28.09.2024 EINLASS: 18.30 UHR","N Bers erkex
+? erlin
+UBER EATS MUSIG HALL
+äBERLIN‚ 28.08.20E |
+
+EINLASS: 18.30 UHR 7 }",0.0,N Bers erkex ? erlin UBER EATS MUSIG HALL äBERLIN‚ 28.08.20E | EINLASS: 18.30 UHR 7 },0.0,0.5040650406504066,0.4634146341463414,0.0,0.0,0.4959349593495935,0.8235294117647058,0.5365853658536586,0.8823529411764706
+0049.jpg,fancy,"Rock'n'Roll Silvester BOPPIN'B Manu Tanzratte LEE'S REVENGE Silvester- & Wunschfeuer auf der Terrasse Killer Kirsche copper and blonde Di. 31.12.2024 Beginn 20:30 Uhr (Einlass 20 Uhr) Eintritt: 25 € + VVK | Späteinlass (ab 22:30 Uhr, nur Abendkasse): 15 € Bürgerhaus Dreieich Fichtestr. 50 | 63303 Dreieich","Di. 3112.2024 —
+
+Beginn 20:30 Uhr (Einlass 20 Uhn)
+
+Eintritt: 25 € + VVG | Späteinlass (albı 22:30 Uhr, nur Abendkasse): 15 €
+
+Bürgerhaus Dreieich X<
+
+Fichtestr. 50 | 63303 Dreieich DREIEICH",0.0,"Di. 3112.2024 — Beginn 20:30 Uhr (Einlass 20 Uhn) Eintritt: 25 € + VVG | Späteinlass (albı 22:30 Uhr, nur Abendkasse): 15 € Bürgerhaus Dreieich X< Fichtestr. 50 | 63303 Dreieich DREIEICH",0.0,0.4967320261437908,0.4771241830065359,0.0,0.0,0.5032679738562091,0.5319148936170213,0.5228758169934641,0.5319148936170213
+0050.jpg,fancy,"Einladung zur bewegten Versammlung Miteinander zur Freude Samstag, 15. August ab 17:30 vom Friedensengel zur Münchner Freiheit Die Maßnahmen der letzten Zeit haben uns allen viel abverlangt Mit Musik und guter Laune ziehen wir gemeinsam durch München und holen uns die LEBENSFREUDE zurück!","Einladung zur bewegten Versammlung
+Mliteinander
+
+Samstag, 15. August ab 17:30
+vom Friedensengel
+zur Münchner Freiheit
+
+Die 7‘4%nafunm der letzen Zeit haben uns allen Viel abverlangt.
+
+Mit Musik und guter Laune zighen Wir gemeinsam durch
+München z//zd/zalenunsdze LEBENS) F;.E'LLDEW*",0.0,"Einladung zur bewegten Versammlung Mliteinander Samstag, 15. August ab 17:30 vom Friedensengel zur Münchner Freiheit Die 7‘4%nafunm der letzen Zeit haben uns allen Viel abverlangt. Mit Musik und guter Laune zighen Wir gemeinsam durch München z//zd/zalenunsdze LEBENS) F;.E'LLDEW*",0.0,0.8339100346020761,0.8027681660899654,0.0930232558139534,0.0930232558139534,0.16608996539792387,0.3488372093023256,0.1972318339100346,0.5116279069767442
+0051.jpg,fancy,bEwegunGS FREIHEIT #23 29.12.2023 ://ABOUT BLANK SOLIPARTY FÜR MENSCHEN MIT FLUCHTGESCHICHTE,"EIT #23
+
+.IPARTY FÜR MENSCHEN
+‚ MIT FLUCHTGESCHICHTE",0.0,EIT #23 .IPARTY FÜR MENSCHEN ‚ MIT FLUCHTGESCHICHTE,0.0,0.5108695652173914,0.5,0.0,0.0,0.4891304347826087,0.6363636363636364,0.5,0.6363636363636364
+0052.jpeg,fancy,"01.03.2025 Punk Against Gentrification Gemeinsam gegen das Clubsterben ni-jusan AUF KRAMPF LADEHEMMUNG Einlass : 19 Uhr Beginn : 20 Uhr VVK : 13,12€   AK : 15€ Wo : SOLTMANN","Tickets_ 01.03.2025
+5 Punk Agailsta
+S Gentrificslgen —
+
+. E E \«v®
+Einlass: 19Uhr. DA
+Beginn:; 20 Uhr. “
+VVK:13,12€ AK: /
+
+Wo:: SOLTMANNIE
+
+B",0.0,"Tickets_ 01.03.2025 5 Punk Agailsta S Gentrificslgen — . E E \«v® Einlass: 19Uhr. DA Beginn:; 20 Uhr. “ VVK:13,12€ AK: / Wo:: SOLTMANNIE B",0.0,0.4277456647398844,0.4046242774566474,0.0,0.0,0.5722543352601156,0.9655172413793104,0.5953757225433526,0.9655172413793104
+0054.jpg,fancy,MAGISCHES FÜRSTENFELD 5. + 6. Januar 2025 Zaubervarieté für die ganze Familie JANIS VON DEM BORNE MARION METTERNICH DETLEF WINTERBERG,"Zaubervariete
+für die ganze Famile",0.0,Zaubervariete für die ganze Famile,0.0,0.2481203007518797,0.2406015037593984,0.0,0.0,0.7518796992481203,0.85,0.7593984962406015,0.9
+0055.jpg,fancy,"Soliparty für Frauen auf der Flucht (ROSA e.V.) DYNAMIC x EUPHORIOT 7.3.2025, 23–7 Uhr ://about blank SKYY YU/VA TIKITULA POWPOW MAARTEN KETRAEDA FUCHSITEK MISS PIXIE JULE BAMBULE GRETCHEN BAZOOKA SHANNON SOUNDQUIST HAVYLICOUS B2B GINGER B Tekno, Gabber, Frenchcore + Karaoke Markgrafendamm 24c, 10245 Berlin Fascists not welcome!",,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0057.jpg,fancy,HOCUS POCUS DIE INTERNATIONALE ZAUBERGALA MIT SORIA IENG ALBERTO GIORGI & LAURA SVEN HEUBES & SABRINA MAGIC DORIAN ANDY JORDAN MARC OBERON MODERATION BERT CALLENBACH 13. & 15.5.2022 VERANSTALTUNGSFORUM FÜRSTENFELD - STADTSAAL FÜRSTENFELD 12 • 82256 FÜRSTENFELDBRUCK • KARTEN AB 27€ AUF FÜRSTENFELD.RESERVIX.DE,"DIE
+INTERNATIONALE
+ZAUBERGALA
+
+SORIA IENG
+ALBERTO GIORGI & LAURA
+SVEN HEUBES & SABRINA ’
+
+|
+|
+|| MAGIC DORIAN
+| ANDY JORDAN
+MARC OBERON
+
+BERT CALLENBACH
+
+3. & 15.5.2022
+M FÜRSTENFELD - STADTSAAI
+
+VERANSTALTUNGSFORU",0.0,DIE INTERNATIONALE ZAUBERGALA SORIA IENG ALBERTO GIORGI & LAURA SVEN HEUBES & SABRINA ’ | | || MAGIC DORIAN | ANDY JORDAN MARC OBERON BERT CALLENBACH 3. & 15.5.2022 M FÜRSTENFELD - STADTSAAI VERANSTALTUNGSFORU,0.0,0.5760517799352751,0.5372168284789645,0.0,0.0,0.42394822006472493,0.5348837209302325,0.4627831715210356,0.7209302325581395
+0059.jpg,fancy,"KIEZ COMEDY smash comedy 8. März, 19 Uhr, KUFA Moabit FLINTA* STAND UP COMEDY BERLIN Sozialraumorientierte Planungskoordination Gefördert durch die Stadtteilkasse","N]
+
+, 8. MÄRZ, 19 UHR, KUFA MOABIT er £.4
+— FLINTA® STAND UP COMEDY .
+
+La",0.0,"N] , 8. MÄRZ, 19 UHR, KUFA MOABIT er £.4 — FLINTA® STAND UP COMEDY . La",0.0,0.228395061728395,0.2222222222222222,0.0,0.0,0.7716049382716049,0.8571428571428571,0.7777777777777778,0.8095238095238095
+0060.jpg,fancy,"POETRY B'N'B DEIN FAST PRIME-TIME POETRY SLAM 26. April 2024, 20.12 Uhr DAS GROSSE FINALE Eine Kooperation von Brakula Kultur in Bramfeld BIM Kulturzentrum auf KulTour","T PRIME-TIME PUHRY U\M
+
+7 W 24 2012
+
+Eine Kooperation von",0.0,T PRIME-TIME PUHRY U\M 7 W 24 2012 Eine Kooperation von,0.0,0.2934131736526946,0.281437125748503,0.0,0.0,0.7065868263473054,0.8461538461538461,0.718562874251497,0.8461538461538461
+0061.jpg,fancy,Freedom Parade Die Verleihung der roten Clownsnase durch Captain Future an Dr. Drosten 01.10.2020 ab 10:00 Uhr vorm Schloss Bellevue GRAFIK: LASERURCH.DE,": Freedom Parade
+
+Die Verleihung der coten C (@umnsnase.
+3„:t„ Carhin ""£“'“ anDr. Droste
+
+A
+
+20° HDINTS2SE7 :Aya9
+
+Z
+
+vorm Schloss Bellewe",0.0,": Freedom Parade Die Verleihung der coten C (@umnsnase. 3„:t„ Carhin ""£“'“ anDr. Droste A 20° HDINTS2SE7 :Aya9 Z vorm Schloss Bellewe",0.0,0.542483660130719,0.4901960784313726,0.0,0.0,0.45751633986928103,0.7727272727272727,0.5098039215686274,0.7272727272727273
+0062.jpg,fancy,"B!M Kulturzentrum SEI DABEI! LESECLUB HORIZONTE ERWEITERN WELTEN ERLESEN. LESECLUB Montags von 14.00 – 15.30 Uhr für alle Kinder zwischen 9 und 12 Jahren im Gymnasium Meiendorf, Raum 804, Kreuzbau, Schierenberg 60 Leseklubs Stiftung Lesen GYMNASIUM MEIENDORF LESECLUB MEIENDORF","B ’ M Kultur-
+® zenfrum
+
+HON ZONTE
+
+JERWEITERN
+—WELTENTERLESEN
+
+l für alle Kinder zwischen 9 und 12 Jahren
+im Gymnasium Meiendorf, Raum 804, Kreuzbau, Schierenberg 60
+
+SYMNASDENM
+VENBNDERE",0.0,"B ’ M Kultur- ® zenfrum HON ZONTE JERWEITERN —WELTENTERLESEN l für alle Kinder zwischen 9 und 12 Jahren im Gymnasium Meiendorf, Raum 804, Kreuzbau, Schierenberg 60 SYMNASDENM VENBNDERE",0.0,0.5631768953068592,0.5342960288808665,0.0,0.0,0.4368231046931408,0.5897435897435898,0.4657039711191336,0.6410256410256411
+0063.jpg,fancy,DEMO STOPPT DIE GASLOBBY soziale Klima- und Energiepolitik gegen die European Gas Conference POWER TO THE PEOPLE 28. März 17:30 Uhr Stephansplatz @systemchange.not.climatechange,"STOPPT DIE
+GASLOBBY
+
+17:30 Uhr
+Stephansplatz
+
+@systemchange.not.climatechange",0.0,STOPPT DIE GASLOBBY 17:30 Uhr Stephansplatz @systemchange.not.climatechange,0.0,0.423728813559322,0.3954802259887006,0.0,0.0,0.576271186440678,0.6956521739130435,0.6045197740112994,0.8695652173913043
+0064.jpg,fancy,"KIEZFEST KIEZKLUB Treptow-Kolleg Samstag, 1. Juli 2023 von 14 – 18 Uhr Eröffnung durch Frau Weingart Stellvertretende Bezirksbürgermeisterin und Leiterin der Abteilung Soziales, Arbeit und Teilhabe Es spielt die Combo des Landespolizeiorchesters Brandenburg Die fröhlichen Herbstlerchen erfreuen uns mit ihrem Vortrag Kreistanzgruppe unter Leitung von Monika Kemmnitz Dirk Jüttner erfreut uns als Elvis Presley Kinder- und Erwachsenen-Tanzteam des PSV Olympia Berlin Belly Dance mit „SOURAIA HAGIR“ Eine kostenlose Fahrradkennzeichnung durch den Polizeabschnitt 65, außerdem gibt es noch Mit- mach-Aktionen für Kinder, Seifenblasen mit Ciello, Holzarbeiten, Schwerter basteln mit Marlies, das Kinderschminken mit Farina und Jessica, Malen und Basteln mit Michaela und vieles mehr … Unsere Ehrenamtlichen des KIEZKLUB’s und das Seniorenpflegeheim DOMIZIL verwöhnen sie mit selbstgebackenem Kuchen. Für Ihr leibliches Wohl ist gesorgt.","KIEZKLUB Treptow-Kollag
+
+5am5tag‚ 1. JU"" 2023 von 14 — 18 Uhr
+
+Eröffnung durch Frau Weingart
+Stellvertretende Bezirksbürgermeisterin
+und Leiterin der Abteilung Soziales, Arbeit
+
+und Teilhabe
+
+Es spielt die Combo des
+Landespolizeiorchesters
+
+Brandenburg
+
+Die fröhlichen Herbstlerchen
+erfreuen uns mit ihrem Vortrag
+
+Kreistanzgruppe unter Leitung von
+
+Monika Kemmnitz
+
+/
+
+X
+
+K ICESZUKAURB
+
+TRDEDTAW KMIILEC
+
+Dirk Jüttner
+erfreut uns als Elvis Presley
+
+Kinder- und Erwachsenen-Tanzteam
+des PSV Olympia Berlin
+
+Belly Dance mit „SOURAIA HAGIR“
+
+Eine kostenlose Fahrradkennzeichnung durch den
+Polzeiabschnitt 65, außerdem gibt es noch Mit-
+mach-Aktionen für Kinder, Seifenblasen mit Ciello,
+Holzarbeiten, Schwerter basteln mit Marlies, das
+Kinderschminken mit Farina und Jessica, Malen
+und Basteln mit Michaela und vieles mehr ...
+Unsere Ehrenamtlichen des KIEZKLUB's und das
+Seniorenpflegeheim DOMIZIL verwöhnen sie mit
+selbstgebackenem Kuchen. Für Ihr leibliches Wohl
+
+ist gesorgt.
+3 (a",0.0,"KIEZKLUB Treptow-Kollag 5am5tag‚ 1. JU"" 2023 von 14 — 18 Uhr Eröffnung durch Frau Weingart Stellvertretende Bezirksbürgermeisterin und Leiterin der Abteilung Soziales, Arbeit und Teilhabe Es spielt die Combo des Landespolizeiorchesters Brandenburg Die fröhlichen Herbstlerchen erfreuen uns mit ihrem Vortrag Kreistanzgruppe unter Leitung von Monika Kemmnitz / X K ICESZUKAURB TRDEDTAW KMIILEC Dirk Jüttner erfreut uns als Elvis Presley Kinder- und Erwachsenen-Tanzteam des PSV Olympia Berlin Belly Dance mit „SOURAIA HAGIR“ Eine kostenlose Fahrradkennzeichnung durch den Polzeiabschnitt 65, außerdem gibt es noch Mit- mach-Aktionen für Kinder, Seifenblasen mit Ciello, Holzarbeiten, Schwerter basteln mit Marlies, das Kinderschminken mit Farina und Jessica, Malen und Basteln mit Michaela und vieles mehr ... Unsere Ehrenamtlichen des KIEZKLUB's und das Seniorenpflegeheim DOMIZIL verwöhnen sie mit selbstgebackenem Kuchen. Für Ihr leibliches Wohl ist gesorgt. 3 (a",0.0,0.932475884244373,0.8863879957127545,0.008130081300813,0.008130081300813,0.06752411575562701,0.13008130081300814,0.11361200428724544,0.34146341463414637
+0066.jpg,fancy,HocusPocus Fürstenfeld Festival der Zauberkunst Veranstaltungsforum Fürstenfeld 11. – 15. Mai 2022,"HocusPocus
+-Fürstenfeld
+__ Festival der Zauberkunst
+
+Veranstaltungsforum
+Fürstenfeld
+
+11.- 15. Mai 2022",0.0,HocusPocus -Fürstenfeld __ Festival der Zauberkunst Veranstaltungsforum Fürstenfeld 11.- 15. Mai 2022,0.0,0.9387755102040816,0.8775510204081632,0.3333333333333333,0.3333333333333333,0.061224489795918366,0.3333333333333333,0.12244897959183673,0.5
+0067.jpeg,fancy,"HEART OF GAZA Eine Ausstellung mit Bildern von Kindern aus Gaza @stadtteilkomitee_lichtenberg @stk_lichtenberg 15.03.2025 - 16Uhr Café Wostok, Weitlingstr. 97 10317 Fundraising Veranstaltung | Eintritt frei Alle Spenden werden gezielt für das Projekt “We are not alone” eingesetzt","HEART
+OF GAZA!
+Eine Ausstellung mit Bildern \
+
+©& @stadtteilkomitee_lichtenberg \
+w @stk_lichtenberg X
+
+15.03.2025 - 16Uhr 7
+Cafe Wostok, Weitlingstr. 97 10317 M l
+
+Fundraising Veranstaltung | Eintritt frei ©53E
+
+Alle Spenden werden gezielt für das Projekt “We are not alone” eingesetzt E",0.0,"HEART OF GAZA! Eine Ausstellung mit Bildern \ ©& @stadtteilkomitee_lichtenberg \ w @stk_lichtenberg X 15.03.2025 - 16Uhr 7 Cafe Wostok, Weitlingstr. 97 10317 M l Fundraising Veranstaltung | Eintritt frei ©53E Alle Spenden werden gezielt für das Projekt “We are not alone” eingesetzt E",0.0,0.8571428571428572,0.8357142857142857,0.1842105263157894,0.1842105263157894,0.14285714285714285,0.34210526315789475,0.16428571428571428,0.39473684210526316
+0071.jpg,fancy,Freedom Parade No11 Großdemo mit Querdenken 29. August 2020 11:00 Uhr Start: Brandenburger Tor Ziel: Siegessäule GRAFIK: LASERLURCH.DE,": Freedom Parade N911
+
+GROßDEMO mit QUERDENKEN
+
+; | Start: Brandendurger Tor
+\(,MF«I: « 4 Z2ieL; S iosessäv (e
+LASERWRAHFDE f",0.0,": Freedom Parade N911 GROßDEMO mit QUERDENKEN ; | Start: Brandendurger Tor \(,MF«I: « 4 Z2ieL; S iosessäv (e LASERWRAHFDE f",0.0,0.417910447761194,0.3880597014925373,0.0,0.0,0.582089552238806,1.0,0.6119402985074627,0.8888888888888888
+0072.jpg,fancy,"DEMO UND LICHTERMEER „ZUSAMMENHALTEN GEGEN RECHTS“ MI. 14.2.2024 RIED IM INNKREIS 16:30 Bahnhof Ried (Bahnhofstraße 69) ab 17:00 Kundgebung, Marktplatz Ried mit Monika Salzer, Hans-Henning Scharsach und Susanne Scholl Bitte Kerze mitnehmen! omasgegenrechts.at ab 16:00 „Kulturpolitischer Aschermittwoch“ in der Giesserei, Ried kulturlandimpulse.at ZUM SCHUTZ UNSERER DEMOKRATIE OMAS GEGEN RECHTS OMAS GEGEN RECHTS","DEMO UND L \ OMAS
+
+- 1“’ W xl GEGEN
+
+AUSA élää\% En [ @
+4.2.2024 A| n
+mlv\ﬂx'v\ \?‘NK?(%\S .
+
+16:30 Bahnhof Ried -
+(Bahnhofstra‘!e 69)
+
+ab 17:00 Kundgebüng, Markplatz .Ried
+mit Monika Salzer, Hans- Scharsach
+und Susanne Scholl
+-
+Bitte Kerze mitnehmen! ö
+
+‚omasgegenrechts.at
+
+OMAS. /
+GEGEN
+
+\ /RECHTS,",0.0,"DEMO UND L \ OMAS - 1“’ W xl GEGEN AUSA élää\% En [ @ 4.2.2024 A| n mlv\ﬂx'v\ \?‘NK?(%\S . 16:30 Bahnhof Ried - (Bahnhofstra‘!e 69) ab 17:00 Kundgebüng, Markplatz .Ried mit Monika Salzer, Hans- Scharsach und Susanne Scholl - Bitte Kerze mitnehmen! ö ‚omasgegenrechts.at OMAS. / GEGEN \ /RECHTS,",0.0,0.4697336561743341,0.4406779661016949,0.0384615384615384,0.0384615384615384,0.5302663438256658,0.8461538461538461,0.559322033898305,0.8846153846153846
+0073.jpeg,fancy,Umsonst- flohmarkt + Waffeln & Musik Lang vergessene Schätze des Hauses könnten euch gehören 02.03. | 12⁰⁰ - 17⁰⁰ Rigaer Straße 94,";?""""""'“"" 02.03.| 12°°- 17°
+Rigaer Straße 94",0.0,";?""""""'“"" 02.03.| 12°°- 17° Rigaer Straße 94",0.0,0.2461538461538461,0.2384615384615385,0.0,0.0,0.7538461538461538,0.8636363636363636,0.7615384615384615,0.9090909090909091
+0074.jpg,fancy,"ZERO WASTE FUTURE FESTIVAL Null Verschwendung. Volles Programm. 16. November 2024 13:00–18:00 Uhr NochMall, Berlin-Reinickendorf Komm vorbei!","Null Verschwendung.
+Volles Programm.
+
+16. November 2024
+13:00—18:00 Uhr
+NochMall, Berlin-Reinickendorf
+
+Komm
+vorbei!",0.0,"Null Verschwendung. Volles Programm. 16. November 2024 13:00—18:00 Uhr NochMall, Berlin-Reinickendorf Komm vorbei!",0.0,0.801418439716312,0.7446808510638299,0.0,0.0,0.19858156028368795,0.29411764705882354,0.2553191489361702,0.7058823529411765
+0075.jpg,fancy,"My Heart is a Kinderdisco KINDERDISCO Friday 26 APRIL 14:00 - 19:30 ://About Blank - S-Bahn Ostkreuz DJs: Robert Owens, Manuel Bürger ALL AGES","‘ _:Ilhb°°ﬁßlunä-sßqhn Ö$tKrtvl
+DJS:R°'°%G#E eNf, Manvel ür",0.0,"‘ _:Ilhb°°ﬁßlunä-sßqhn Ö$tKrtvl DJS:R°'°%G#E eNf, Manvel ür",0.0,0.1901408450704225,0.1830985915492957,0.0,0.0,0.8098591549295775,1.0,0.8169014084507042,1.0
+0078.png,fancy,LLEWELLYN LIVE SARA MILLER B2B KEV SHERIDAN KARETE BU JESSAMINE live at robert johnson running back riotvan permanent vacation maeve institut für zukunft drive g-edit ://about blank BORN WITH A NERVOUS BREAKDOWN ://about blank sat 6.5.2023 2 pm,"LLEWELLYN lr atrobertjchnson runningback  riobven
+SARA MILLER »# KEV SHERIDAN
+KARETE BU institut fürzukunfe _ driv
+JESSAMINE ‚ebout blank
+
+://about blank sat 6.5.2023 2pm",0.0,LLEWELLYN lr atrobertjchnson runningback riobven SARA MILLER »# KEV SHERIDAN KARETE BU institut fürzukunfe _ driv JESSAMINE ‚ebout blank ://about blank sat 6.5.2023 2pm,0.0,0.4016393442622951,0.389344262295082,0.0263157894736842,0.0263157894736842,0.5983606557377049,0.7368421052631579,0.610655737704918,0.7894736842105263
+0080.jpg,fancy,"Für Demokratie und Menschenrechte: SONN TAGS DEMO 18. Februar 2024, 17:30 Uhr Dornbirn Marktplatz Zeit aufzustehen: gegen Gedankengut, das die Demokratie zersetzt, und für das Gemeinsame in der Zivilgesellschaft, Solidarität und Mitmenschlichkeit. REDEBEITRÄGE Werner Dreier – Historiker, ehemaliger Leiter von erinnern.at, Sophia Hagleitner und Sophia Simon – Fridays for Future, Hanno Loewy – Jüdisches Museum Hohenems, Gerhild Steinbuch – HYDRA (Autor*inneninitiative gegen die europäische Rechte) MUSIK Andreas Paragioudakis VERANSTALTER Vorarlberger Plattform für Menschenrechte, das Bündnis aus 40 Organisationen: unter anderem: Menschenrechts- at","das Gemeinsame® in
+So\\dal'\tät und Mit'
+
+VERANSTALTER
+gür Menschen!
+
+Für Demokratie und Menscnemeu..
+
+$ 0
+
+MO
+
+REDEBEITRÄGE Werner DI Dreier
+Historiker, ® ehemaliger r Leiter von
+erinnerN-. ‚at, ophia Ha‘ jagleitner und
+Ssophia simon - Fridays for Future,
+Hanno Loewy - _ Jüdisches Museum
+HohenemS, Gerhild Steinbuch -
+‚utor*inn! en\ nitiative
+gegen die europä\ b Rechte)
+
+MUSIK Andreas Parug\oudak\s
+UNTERSTD‘\'IT oN
+
+A0 Orgln\slﬂ ‚jonen:
+—— _ka al",0.0,"das Gemeinsame® in So\\dal'\tät und Mit' VERANSTALTER gür Menschen! Für Demokratie und Menscnemeu.. $ 0 MO REDEBEITRÄGE Werner DI Dreier Historiker, ® ehemaliger r Leiter von erinnerN-. ‚at, ophia Ha‘ jagleitner und Ssophia simon - Fridays for Future, Hanno Loewy - _ Jüdisches Museum HohenemS, Gerhild Steinbuch - ‚utor*inn! en\ nitiative gegen die europä\ b Rechte) MUSIK Andreas Parug\oudak\s UNTERSTD‘\'IT oN A0 Orgln\slﬂ ‚jonen: —— _ka al",0.0,0.4701378254211332,0.442572741194487,0.0,0.0,0.5298621745788668,0.8048780487804879,0.557427258805513,0.8414634146341463
+0081.jpg,fancy,"WELCOM TO THE :// KINDERDISCO Musik + Tanz DJ-Workshop Pizza + Würstchen Baustellenstelle Kinderwagenparkplatz + Wickelstation Kreativ-Mobil Kaffee + Kuchen Mal- und Spray-Workshop Kinderschminken Fr 21·04·23 14–19 Uhr ://about blank markgrafendamm 24c, 10245 berlin am s-bhf ostkreuz","<w> W A
+
+ME
+Musik + Tanz Kaffe + Kuchen 14-19 Uhr
+DJI-Workshop -
+k Mal- und Spray-Workshop ://about blank
+W Hen Kinderschminken markgra fnd mm 2;/ t7/‘0245 berlin",0.0,<w> W A ME Musik + Tanz Kaffe + Kuchen 14-19 Uhr DJI-Workshop - k Mal- und Spray-Workshop ://about blank W Hen Kinderschminken markgra fnd mm 2;/ t7/‘0245 berlin,0.0,0.3133802816901408,0.2992957746478873,0.0,0.0,0.6866197183098591,0.7837837837837838,0.7007042253521126,0.8108108108108109
+0082.jpg,fancy,"Demo Sa, 24.2. 14h Wrangelkiez am Platz ohne Namen Falckensteinst. 1A Der Görli bleibt auf! Bündnis Görli Zaunfrei","5a 24.2. 14h
+1",0.0,5a 24.2. 14h 1,0.0,0.1140350877192982,0.1052631578947368,0.0,0.0,0.8859649122807017,0.8888888888888888,0.8947368421052632,0.9444444444444444
+0086.jpg,fancy,Bürgerinitiative EINEN STATT SPALTEN Soll das zu meiner neuen Normalität werden !? nächste Kundgebung: 08.08. 16-18 Uhr SAMSTAG STIFTSPLATZ Kaiserslautern,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0089.jpeg,fancy,NEUER ORT: FRIEDRICHSPLATZ KASSEL VOR DEM FRIDERICIANUM KUNDGEBUNG & AUFZUG Grundrechte gelten! MIT GASTREDNER HERMANN PLOPPA 15. JANUAR 2022 15:30 UHR,"KUNDGEBUNG &
+AUFZUG
+
+gelten!
+
+15. JANUAR 2022
+15:30 UHR
+
+MIT GASTREDNER
+HERMANN PLOPPA",0.0,KUNDGEBUNG & AUFZUG gelten! 15. JANUAR 2022 15:30 UHR MIT GASTREDNER HERMANN PLOPPA,0.0,0.2715231788079471,0.2450331125827815,0.0,0.0,0.7284768211920529,0.7619047619047619,0.7549668874172185,0.9047619047619048
+0090.jpeg,fancy,"""Wir werden ALLE da sein!"" WORLD FREEDOM DAY Die Welt steht auf Auch Fulda macht dicht! ALLE INITIATIVEN & ORGANISATIONEN WELTWEIT - GEMEINSAM! UM 12:00 UHR LANDESZEIT! MAGDEBURG 20.11.2021 12:00 - 16:00 UHR LIVESTREAMS AUS ALLER WELT","; «é%;$
+*“3:;;Q‚ö°f’
+WORLD FREEDOM
+DAY
+
+J>c'e W@[Ü 5Ü@‘ßtf
+
+NITTÄATIVEN SCORGANISATIONEN
+WELTWEIT: - GEMEINSÄM!
+UM 12:00 UHR LANDESZEIT!
+
+' MAGDEBURG
+
+DE,
+
+«“",0.0,"; «é%;$ *“3:;;Q‚ö°f’ WORLD FREEDOM DAY J>c'e W@[Ü 5Ü@‘ßtf NITTÄATIVEN SCORGANISATIONEN WELTWEIT: - GEMEINSÄM! UM 12:00 UHR LANDESZEIT! ' MAGDEBURG DE, «“",0.0,0.4487179487179487,0.405982905982906,0.0,0.0,0.5512820512820513,0.7837837837837838,0.594017094017094,0.8918918918918919
+0091.jpg,fancy,mit Mobile Diskothek VERITAS 27. Bike & Rock Festival Limberg zwischen Cottbus und Vetschau 08. - 11. August 2024 immer am 2. August Wochenende Limited Booze Boys BLIND BANKERS Bullshit Rock’n’Roll aus Berlin NOBODY Infos: brf-limberg.de,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0093.jpg,photo,"KIEZKLUB Rathaus Johannisthal Sterndamm 102, 12487 BERLIN im Innenhof SOMMERFEST Sa 3. Sept. 14–19 Uhr INTERESSANTE MARKTSTÄNDE, KINDERSCHMINKEN, KINDERBASTELN, HÜPFBURG, TEDDYAMBULANZ GLASKUNST MIT VORFÜHRUNG, 3D-DRUCK ESSEN UND TRINKEN DUO CHARLSON & LUIS (BRA) SAMBA, CHORO, BOSA NOVA HARTMUT HAKER VON TANZBAR BIS SWINGEND RAINER HERZOG VON GESCHICHTE ZU GESCHICHTE JEDE MENGE KINDERLIEDER DIE HOBBYSTEPPER, MONIKAS TANZMIX, DJ DER CHOR DER FRÖHLICHEN SÄNGER VON JOHANNISTHAL Der Eintritt ist frei.",".\u- P} 20 ST}
+YLUD Ralfldus JUNAVINHSTNAL
+
+y X ı
+‘?_x 4537 DF !lk
+
+INTERESSANTE MARKTSTÄNDE, KINDERSCHMINKEN,
+KINDERBASTELN, HÜPFBURG, TEDDYAMBULANZ
+
+GLASKUNST MIT VORFÜHRUNG, 3D-DRUCK
+ESSEN UND TRINKEN n v
+
+DUO CHARLSON & LUIS (BRA) SAMBA, CHORO, BOSA NOVA
+HARTMUT HAKER VON TANZBAR BIS SWINGEND
+
+RAINER HERZOG VON GESCHICHTE ZU GESCHICHTE /
+JEDE MENGE KINDERLIEDER ‚ j
+
+dd / j x
+DIE HOBBYSTEPPER, MONIKAS TANZMIX, DJ N_"" '
+DER CHOR DER FRÖHLICHEN SÄNGER SE ®
+VON JOHANNISTHAL k
+
+CAEMNTRINSTICREN
+
+v x __ aun M S",0.0,".\u- P} 20 ST} YLUD Ralfldus JUNAVINHSTNAL y X ı ‘?_x 4537 DF !lk INTERESSANTE MARKTSTÄNDE, KINDERSCHMINKEN, KINDERBASTELN, HÜPFBURG, TEDDYAMBULANZ GLASKUNST MIT VORFÜHRUNG, 3D-DRUCK ESSEN UND TRINKEN n v DUO CHARLSON & LUIS (BRA) SAMBA, CHORO, BOSA NOVA HARTMUT HAKER VON TANZBAR BIS SWINGEND RAINER HERZOG VON GESCHICHTE ZU GESCHICHTE / JEDE MENGE KINDERLIEDER ‚ j dd / j x DIE HOBBYSTEPPER, MONIKAS TANZMIX, DJ N_"" ' DER CHOR DER FRÖHLICHEN SÄNGER SE ® VON JOHANNISTHAL k CAEMNTRINSTICREN v x __ aun M S",0.0,0.7051792828685259,0.6792828685258965,0.0,0.0,0.2948207171314741,0.5294117647058824,0.3207171314741036,0.6176470588235294
+0094.jpg,photo,"Einladung zur Trauerfeier für unsere geliebte Demokratie *1949 - 2020 26.04.2020 12:00 - 19:00 Mariannenplatz Wir bitten alle Trauergäste nur einzeln oder zu zweit zu kommen und protest- taugliche Schilder, Transparente und Plakate zur Niederlegung mitzubringen. Wir freuen uns auf Eure Trauerreden. Anlage und Mikrofon sind vor Ort. www.Aktion-Eigensinn.net","/ *- 26.04.2020
+
+‚ 12:00 - 19:00
+Mavxiannenplatz }
+oder zu zweit zu kommen und pratest-
+
+taugliche Schilder, Transparente und
+
+UAnlage und Mikrofen sind vor Ont,",0.0,"/ *- 26.04.2020 ‚ 12:00 - 19:00 Mavxiannenplatz } oder zu zweit zu kommen und pratest- taugliche Schilder, Transparente und UAnlage und Mikrofen sind vor Ont,",0.0,0.4022346368715084,0.3854748603351955,0.0,0.0,0.5977653631284916,0.673469387755102,0.6145251396648045,0.7142857142857143
+0095.jpg,photo,"Bohemian Strawberry 🍓 & AmSTARt präsentieren: ICH BRAUCHE EINE GENIE VOL. 15 POPkultur, Feminismus, Change und so ... Songbook Releaseparty LIVE: KATRIN ACHINGER LESEPERFORMANCES & 1-SONG-SETS: ANNETTE BENJAMIN (HANS-A-PLAST), BERNADETTE LA HENGST, DAYN, DIE SUPERERBIN, ELKE BRAUWEILER, FAULENZA, FELINE & STRANGE, HANSJANA, LYDIA DAHER, MALONDA, MARIAMA SAFI, TOTE CRACKHUREN IM KOFFERRAUM MATCHING OUTFITS THE DOCTORELLA BABSI TOLLWUT 12.8. :://aboutblank","POPKI
+ab )PKULTUR, FEMINISMUS, CHANGE UND SO -.-
+;
+
+;S-A-PLAST),
+A =
+
+A==
+»
+\ E l
+
+Saneeset O Ea",0.0,"POPKI ab )PKULTUR, FEMINISMUS, CHANGE UND SO -.- ; ;S-A-PLAST), A = A== » \ E l Saneeset O Ea",0.0,0.1179039301310044,0.1004366812227074,0.0,0.0,0.8820960698689956,1.0,0.8995633187772926,1.0
+0096.jpg,photo,Schmeiß dein Ego weg und FEIER WAS DU LIEBST Für René 25. April Volksbühne am Rosa-Luxemburg-Platz,"Era _
+
+Schmeiß dein Ego weg und Schmeiß dein Ego weg und
+
+FürRene 25. April % FürRene 25. April",0.0,Era _ Schmeiß dein Ego weg und Schmeiß dein Ego weg und FürRene 25. April % FürRene 25. April,0.0,0.4081632653061224,0.3775510204081632,0.0,0.0,0.5918367346938775,0.75,0.6224489795918368,0.75
+0097.jpg,photo,UNTERM TECHNO LIEGT DER PUNK :// ABOUT BLANK The kids are clearly not alright Welche Rolle spielen emanzipatorische Subkultur & Bewegung in Ostdeutschland? POLY▶LUX Veranstaltung 13.12.2024 20 Uhr :// about blank,"clearly
+not
+alright ,
+
+Welche Rolle spielen ‘
+
+emanzipatorische
+Subkultur & Bewegung in
+Ostdeutschland ? \
+
+Veranstaltung
+13.12.2024 >
+20Uhr }
+
+:// about blank",0.0,"clearly not alright , Welche Rolle spielen ‘ emanzipatorische Subkultur & Bewegung in Ostdeutschland ? \ Veranstaltung 13.12.2024 > 20Uhr } :// about blank",0.0,0.6415094339622642,0.5990566037735849,0.0,0.0,0.3584905660377358,0.6129032258064516,0.4009433962264151,0.7419354838709677
+0098.jpg,photo,"eine benefizveranstaltung von ://about blank und top b3rlin MOVING BEYOND HOPE antinationale amplitude wider die großwetterlage montag, 2. oktober 2023, 18:00 uhr STAAT. NATION. KAPITAL. SCHEISSE. TOP BERLIN . TOP-BERLIN.NET","i SS
+
+eine benefizveranstaltung von ://about blänk und töp b3rlin
+
+u
+
+MOVING
+BEYOND
+HOPE
+
+antinationale amplitude wider'die großwetterlage
+
+montag, 2.0ktober 2023, 18:00 uhr ‘ [",0.0,"i SS eine benefizveranstaltung von ://about blänk und töp b3rlin u MOVING BEYOND HOPE antinationale amplitude wider'die großwetterlage montag, 2.0ktober 2023, 18:00 uhr ‘ [",0.0,0.6785714285714286,0.6339285714285714,0.0,0.0,0.32142857142857145,0.5666666666666667,0.36607142857142855,0.6333333333333333
+0099.jpg,photo,"Vergessene Arbeitskämpfe PUNK Abend Eintritt 8€ Roter Salon in der VOLKSBÜHNE Wann: 29.09., 21 Uhr Wer: EAT LIPSTICK + TOTENWALD arbeitskaempfe@volksbuehne-berlin.de","m m
+‘‚„.lu-l‘£'
+
+='_
+x",0.0,m m ‘‚„.lu-l‘£' ='_ x,0.0,0.0363636363636363,0.0303030303030302,0.0,0.0,0.9636363636363636,1.0,0.9696969696969697,1.0
+0100.jpg,photo,FAMILIEN-FLOHMARKT in der Paul-Schneider-Grundschule 25.05.24 10 - 14 Uhr,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0101.jpg,photo,"Freitag, den 28. Mai 2021 um 17 Uhr Stolpersteinverlegung in Alt-Hohenschönhausen Suermondtstraße 46, 13053 Berlin Blume Luise Albers, geb. Chassin, geb. am 22.12.1878 in Smolensk Musikalische Begleitung: Johann-Vincent Slawinski Blume Luise Albers war mit dem deutschen Beamten Steuersekretär Oskar Albers verheiratet. Die Eheschließung erfolgte am 22.12.1913 in Windhuk (Deutsch-Südwest-Afrika) im Standesamt Windhuk mit der Nr. 63. Das Paar lebte in Hohenschönhausen in der Suermondtstraße 46 vorn parterre. Laut Berliner Adressbuch ist der Straßenbezug noch 1927 als Baustelle eingetragen. Suermondt war Mitbegründer der Grunderwerbs- und Baugesellschaft in Hohenschönhausen, welche die Häuser bauen ließ und auch Eigentümer war. Mit der Fertigstellung der Wohnungen bezog das Ehepaar Albers ihre Wohnung im parterre. Die Wohnung bestand aus zwei Stuben und einer Küche. Blume Albers war Hausfrau. Oskar Albers verstarb am 4. Oktober 1940 in der gemeinsamen Wohnung laut Urkunde an einem Gehirnschlag. Frau Luise Albers war danach bis 1943 im Berliner Adressbuch als Mieterin eingetragen ist. Blume Albers musste Zwangsarbeit leisten in den Pankower Heilanstalten. Am 10. September 1943 wurde Blume Luise Albers mit dem 96. Alterstransport von dem Sammellager Große Hamburger Straße 26 nach Theresienstadt deportiert. Drei Monate später, am 18. Dezember 1943 wurde sie von Theresienstadt nach Auschwitz deportiert und dort ermordet.","Suermondtstra|
+
+geb. am 22.12.1878 in Smolensk
+
+Musikalische ng: Johann-Vincent Slawinski
+
+Blume Luise Albers
+
+deutschen Beamten Steu-
+ersekretär Oska
+
+ratet. Die Eheschließung
+913 in Windhuk (Deutsch-Südwest-Afrika)
+indhuk mit der Nr. 63
+
+Das Paar lebte in Hohenschönhausen in der Suermondts
+
+vorn parterre. Laut Berliner Adressbuch ist der Stra
+nzug noch 1927 als Baustelle eingetragen.
+‚ermondt war Mitbegründer der Grunderwerbs- und
+
+schaft in Hohenschönhausen, welche die Häus
+
+ıch Eigentümer war. Mit der Fertig: n
+hnung im parterre, Die Wohnung bestand aus zwei Stuben und
+rer Küche. Blume Albers war Hausfrau,
+
+Oskar Albers verstarb am 4. Oktober 1940 in der gemeinsamen Wöhnung laut Urkunde
+
+an einem Gehirnschlag. Frau Luise Albers war danach bis 1943 Im Berliner Adressbuck
+Mieterin eingetragen is en
+
+Blume Albers mı wangsarbeit leisten in den Pankower Heimst
+
+Am 10.September 1943 wurde Blume Luise Albers mit dem 96 Allerstransport von dem
+
+Sammellager Große Hambürger Straße 26 nach Theresienstadt d6POrtiert
+
+Drei Monate später, am 18. Dezember 1943 wurde sie von Theresienstadt nach Ausch-
+
+vitz deportiert und dort ermordet.
+
+7in HT-BLICKE 7 w}
+UE N —— C®",0.0,"Suermondtstra| geb. am 22.12.1878 in Smolensk Musikalische ng: Johann-Vincent Slawinski Blume Luise Albers deutschen Beamten Steu- ersekretär Oska ratet. Die Eheschließung 913 in Windhuk (Deutsch-Südwest-Afrika) indhuk mit der Nr. 63 Das Paar lebte in Hohenschönhausen in der Suermondts vorn parterre. Laut Berliner Adressbuch ist der Stra nzug noch 1927 als Baustelle eingetragen. ‚ermondt war Mitbegründer der Grunderwerbs- und schaft in Hohenschönhausen, welche die Häus ıch Eigentümer war. Mit der Fertig: n hnung im parterre, Die Wohnung bestand aus zwei Stuben und rer Küche. Blume Albers war Hausfrau, Oskar Albers verstarb am 4. Oktober 1940 in der gemeinsamen Wöhnung laut Urkunde an einem Gehirnschlag. Frau Luise Albers war danach bis 1943 Im Berliner Adressbuck Mieterin eingetragen is en Blume Albers mı wangsarbeit leisten in den Pankower Heimst Am 10.September 1943 wurde Blume Luise Albers mit dem 96 Allerstransport von dem Sammellager Große Hambürger Straße 26 nach Theresienstadt d6POrtiert Drei Monate später, am 18. Dezember 1943 wurde sie von Theresienstadt nach Ausch- vitz deportiert und dort ermordet. 7in HT-BLICKE 7 w} UE N —— C®",0.0,0.7416434540389972,0.7214484679665738,0.005,0.005,0.25835654596100277,0.415,0.2785515320334262,0.43
+0103.jpg,photo,RAUS AUS DER DOSE! 17.05.2020 14–18 Uhr Mariannenplatz Der Rückzug ins Digitale ist keine Alternative! Deine Meinung ist relevant! Kunst ist relevant! Zeigt Eure Künste! Erhebt Eure Stimme! Das Mikrofon steht Euren Reden und Darbietungen offen www.aktion-eigensinn.net,"RAUS AUS DER DOSE!
+
+17.05.2020 14-18 Uhr
+Mariannenplatz
+
+Der Rückzug ins Digitale ist keine
+Alternative!
+. Deine Meinung ist relevant!
+> Kunst ist relevant!
+
+Zeigt Eure Künste!
+Erhebt Eure Stimme!
+
+Das Mikrofon stel
+
+Euren Reden
+Darbietungen offen
+
+www.aktion-€",0.0,RAUS AUS DER DOSE! 17.05.2020 14-18 Uhr Mariannenplatz Der Rückzug ins Digitale ist keine Alternative! . Deine Meinung ist relevant! > Kunst ist relevant! Zeigt Eure Künste! Erhebt Eure Stimme! Das Mikrofon stel Euren Reden Darbietungen offen www.aktion-€,0.0,0.9104477611940298,0.8544776119402985,0.3783783783783784,0.3783783783783784,0.08955223880597014,0.16216216216216217,0.1455223880597015,0.35135135135135137
+0104.jpg,photo,Kiezklub Rathaus Johannisthal Sterndamm 102 WEIHNACHTSBAZAR 3. Dez. 14–19 Uhr Draußen: Glühwein und Gegrilltes Feuertonne und Stockbrot weihnachtliche Livemusik Stände mit interessanten Dingen Drinnen: Bastelstraße Kindertheater aus dem Koffer Filzen,kiezk' u|g*:luu..!ollnnnlctlnl'tundamnl„,0.0,kiezk' u|g*:luu..!ollnnnlctlnl'tundamnl„,0.0,0.0999999999999999,0.0999999999999999,0.0,0.0,0.9,1.0,0.9,1.0
+0106.jpg,photo,"KEINE QUERFRONT AUF DEM ROSA-LUXEMBURG-PLATZ! ""NICHT OHNE UNS""? – OHNE UNS! Seit nunmehr vier Wochen demonstrieren Neurechte, Verschwörungsideolog*innen und Teile der rechtsradikalen und völkischen Szene auf dem Rosa-Luxemburg-Platz unter dem Banner „Hygienedemo“, organisiert von der „Kommunikationsstelle Demokratischer Widerstand“, deren Initiatoren sich in einem Interview vor dem Reichstag mit wehenden Deutschlandfahnen erklären. Wir rufen deshalb alle antifaschistischen, anarcha-queer-feministischen Menschen zur Verteidigung des Rosa-Luxemburg-Platzes und der Volksbühne auf. Kreativer Kontaktloser Gegenprotest: vor dem Karl Liebknecht Haus um 15 Uhr jeden Samstag und am 1. Mai seid kreativ laut und bunt! Kein Platz für Nazis! #antifaarea V.i.S.d.P.: Karla Krawall, Rosa-Luxemburg Platz 1, 1312 Berlin","KEINE QUERFRONT AUF DEM KOSA-LUXEMBURG-PLATZI
+
+Seit nunmehr vier Wochen demonstrieren Neurechte,
+Verschwörungsideolog*innen und Teile der rechtsradikalen und völ-
+kischen Szene auf dem Rosa-Luxemburg-Platz unter dem Banner „Hygie-
+nedemo“, organisiert von der „Kommunikationsstelle Demokratischer Wi-
+derstand“;-deren Initiatoren sich in einem Interview vor dem Reichstag
+mit wehenden Deutschlandfahnen erklären. Wir rufen deshalb alle antifa-
+schistischen, anarcha-queer-feministischen Menschen zur.Verteidigung
+des Rosa-Luxemburg-Platzes und der Volksbühne auf.
+
+| Kreativer Kontaktloser Gegenprotest:
+vor dem
+Karl Liebknecht Haus
+
+jeden Samstag
+und am 1.Mai
+
+seid kreativ Iaut und bunt!",0.0,"KEINE QUERFRONT AUF DEM KOSA-LUXEMBURG-PLATZI Seit nunmehr vier Wochen demonstrieren Neurechte, Verschwörungsideolog*innen und Teile der rechtsradikalen und völ- kischen Szene auf dem Rosa-Luxemburg-Platz unter dem Banner „Hygie- nedemo“, organisiert von der „Kommunikationsstelle Demokratischer Wi- derstand“;-deren Initiatoren sich in einem Interview vor dem Reichstag mit wehenden Deutschlandfahnen erklären. Wir rufen deshalb alle antifa- schistischen, anarcha-queer-feministischen Menschen zur.Verteidigung des Rosa-Luxemburg-Platzes und der Volksbühne auf. | Kreativer Kontaktloser Gegenprotest: vor dem Karl Liebknecht Haus jeden Samstag und am 1.Mai seid kreativ Iaut und bunt!",0.0,0.8118081180811808,0.7982779827798279,0.0495049504950495,0.0495049504950495,0.1881918819188192,0.36633663366336633,0.2017220172201722,0.44554455445544555
+0108.jpg,photo,VOLKSBÜHNE Jazzanova The Pool Record Release Konzert 30.06.18 Rosa- Luxemburg- Platz,"VOL
+
+Zz};SBUHNE
+KOnZert
+30.06.18
+Rosa-
+Luxemburg-
+Platz",0.0,VOL Zz};SBUHNE KOnZert 30.06.18 Rosa- Luxemburg- Platz,0.0,0.5119047619047619,0.4404761904761904,0.0,0.0,0.4880952380952381,0.6363636363636364,0.5595238095238095,1.0
+0110.jpg,photo,CLUBS. STADT. KLIMAKRIZE. A100 WEGBASSEN! 2.9. 14°°–22°° MARKGRAFENDAMM,"ECBAS 9ENI
+
+NARKGRAFENDAMN",0.0,ECBAS 9ENI NARKGRAFENDAMN,0.0,0.2676056338028169,0.2535211267605634,0.0,0.0,0.7323943661971831,1.0,0.7464788732394366,1.0
+0111.jpg,photo,"50 JAHRE RUMBLE IN THE JUNGLE Podium: Martin Krauß (Sportjournalist taz) Dr. Michela Wrong (britische Journalistin) Fabian Kunow (Moderation) und anschl. Kinodokumentation When we were Kings (1997) Mo., 25. Nov., 19 Uhr //:about blank, Markgrafendamm 24c, 10245 Berlin www.helle-panke.de Helle Panke ROSA LUXEMBURG STIFTUNG","50 JAHRE
+RI pUMBLE IN THE JUNGLE
+
+\ Podium:
+/ _ Martin Krauß (Sportjournalist taz)
+( — — Dr. Michela Wrong (britische Journalistin)
+bian Kunow (Moderation)
+nschl.
+okumentation When we were Kings (1997)
+
+Nov., 19 Uhr
+
+»fendamm 24c, 10245 Berli",0.0,"50 JAHRE RI pUMBLE IN THE JUNGLE \ Podium: / _ Martin Krauß (Sportjournalist taz) ( — — Dr. Michela Wrong (britische Journalistin) bian Kunow (Moderation) nschl. okumentation When we were Kings (1997) Nov., 19 Uhr »fendamm 24c, 10245 Berli",0.0,0.6439628482972136,0.6222910216718267,0.0454545454545454,0.0454545454545454,0.3560371517027864,0.5454545454545454,0.37770897832817335,0.5909090909090909
+0112.jpg,photo,"HAUPTSACHE ES KNALLT? NO FUTURE NO DANCEFLOOR. RAVE AUFSTAND ZUM GLOBAL STRIKE. FREITAG, 20.09.19 | 15:00 UHR BERLIN MITTE & ÜBERALL 12:00 UHR FRIDAYS FOR FUTURE RECLAIM CLUB CULTURE","/ [ a
+
+/ NO DA
+ZUM GL
+
+UuM
+
+FREITAG, 20.09.19 |_15:00 UHR
+S BERLIN MITTE & ÜBERALL
+
+12:00 UHR FRIDAYS FOR FUTURE RECLAIM",0.0,"/ [ a / NO DA ZUM GL UuM FREITAG, 20.09.19 |_15:00 UHR S BERLIN MITTE & ÜBERALL 12:00 UHR FRIDAYS FOR FUTURE RECLAIM",0.0,0.5714285714285714,0.5384615384615384,0.0,0.0,0.42857142857142855,0.5172413793103449,0.46153846153846156,0.5517241379310345
+0113.jpg,photo,9. MAI 79. JAHRESTAG DES SIEGES ÜBER NAZIDEUTSCHLAND NIE WIEDER FASCHISMUS! NIE WIEDER KRIEG! DEMONSTRATION / BERLIN 17:30 / S&U-BHF. FRIEDRICHSTR. BEFREIUNG.UND.WIDERSTAND INSTAGRAM: BEFREIUNG.UND.WIDERSTAND,"E WIEDER FASCHISM} JS
+NIE WIED R KRIEG! A
+
+MONSIET DEMONSTRATION / BERLIN
+ERUI | \
+
+’ ® &$g=\‘/.gklinklß\\sm /
+
+s @ D m
+f 173 ‚6 UNDWIDERST a
+
+‘W @ BEFREIUMG
+
+rm WNNERSTAND",0.0,E WIEDER FASCHISM} JS NIE WIED R KRIEG! A MONSIET DEMONSTRATION / BERLIN ERUI | \ ’ ® &$g=\‘/.gklinklß\\sm / s @ D m f 173 ‚6 UNDWIDERST a ‘W @ BEFREIUMG rm WNNERSTAND,0.0,0.3413461538461538,0.3173076923076923,0.0,0.0,0.6586538461538461,1.375,0.6826923076923077,1.25
+0114.jpg,photo,KEIN RAMMSTEIN VOR GERICHT STATT AUF DIE BÜHNE! 15.07.23 IN BERLIN SA. 15. JULI – 14:30 UHR THEODOR-HEUSS-PLATZ CA. 16:00 UHR – OLYMPIASTADION + MUSIK @keinrammstein_berlin STOMP THE PATRIARCHY,"DA
+
+-PLATZ
+
+HEUSS
+OLYMPIASTADION + MUSIK
+
+SA. 15. JULI - 14:30 UHR THEODOR-
+CA. 16:00 UHR
+
+.
+Y",0.0,DA -PLATZ HEUSS OLYMPIASTADION + MUSIK SA. 15. JULI - 14:30 UHR THEODOR- CA. 16:00 UHR . Y,0.0,0.3264248704663213,0.2901554404145078,0.0,0.0,0.6735751295336787,0.7241379310344828,0.7098445595854922,0.7586206896551724
+0115.jpg,simple,save blank? blank safe! soliparty gegen das klima der angst 16.11.2024 ab 20 Uhr ://about blank I ://,"save blank? blank safe! 16.11.2024 ab 20 Uhr
+soliparty gegen das klima der angst :llabout blank",0.0,save blank? blank safe! 16.11.2024 ab 20 Uhr soliparty gegen das klima der angst :llabout blank,0.0,0.504950495049505,0.504950495049505,0.2777777777777778,0.2777777777777778,0.49504950495049505,0.6111111111111112,0.49504950495049505,0.6111111111111112
+0116.jpg,simple,"AKTIONSBÜNDNIS KARLSRUHE DEMOKRATIE neu denken! Verschiedene Rede- & Musikbeiträge | Meditation LiveStream https://netzwerk-demokratie.org Familienfreundlich, mit Kinderbereich SAMSTAG 08.08.20 | 12:30–18 Uhr Günther-Klotz Anlage in Karlsruhe Stay Free! Karlsruhe Peace & Love Ettlinger Friedens Gruppe Selber denken, statt denken lassen NETZWERK DEMOKRATIE e.V. QUERDENKEN 721 – Karlsruhe","AKTIONSBÜNDNIS
+
+KARLSRUHE
+
+DEMOKRATIE neu denken!
+
+Verschiedene Rede- & Musikbeiträge | Meditation
+
+LiveStream
+emokratie.org
+
+https://netzwerk-d",0.0,AKTIONSBÜNDNIS KARLSRUHE DEMOKRATIE neu denken! Verschiedene Rede- & Musikbeiträge | Meditation LiveStream emokratie.org https://netzwerk-d,0.0,0.3393316195372751,0.313624678663239,0.2608695652173913,0.2608695652173913,0.6606683804627249,0.7391304347826086,0.6863753213367609,0.7608695652173914
+0117.jpg,simple,"Bündnis gegen Verdrängung und #Mietenwahnsinn www.mietenwahnsinn.info DIE MIETE IST ZU HOCH! Demo, Samstag 01. Juni 2024 14:00 Uhr Potsdamer Platz","‚ Bündnis gegen Verdrängung und _s:—=
+
+N#MIBIBIIW£IhIISIIIII *
+tenw ahnsinn.info |£ ;
+@ —
+u 8 '
+aM
+
+' z>EH
+
+Den Sams?‘ääüi Juni ‚2024
+""” ) Uhr Pntsdamerliä",0.0,"‚ Bündnis gegen Verdrängung und _s:—= N#MIBIBIIW£IhIISIIIII * tenw ahnsinn.info |£ ; @ — u 8 ' aM ' z>EH Den Sams?‘ääüi Juni ‚2024 ""” ) Uhr Pntsdamerliä",0.0,0.5,0.4657534246575342,0.0,0.0,0.5,1.15,0.5342465753424658,0.9
+0118.jpeg,simple,"Willkommenscafé Wir laden alle von Rassismus betroffenen & migrantischen Menschen zum gegenseitigen Kennenlernen in unser Willkommenscafé ein! Hier bekommt ihr einen Einblick in unsere Arbeit und findet heraus, wie ihr mitarbeiten könnt! Rote Lilly, Emser Str. 114, Neukölln Jeden letzten Mittwoch im Monat 19–21 Uhr","Willkommenscuf 8
+
+Wir _ laden _ alle von Rassismus betroffenen &
+migrantischen _ Menschen zum _gegenseitigen „
+Kennenlernen in unser Willkommenscafe ein!
+
+eAN
+G O
+S >
+‘3
+
+€R L\e",0.0,Willkommenscuf 8 Wir _ laden _ alle von Rassismus betroffenen & migrantischen _ Menschen zum _gegenseitigen „ Kennenlernen in unser Willkommenscafe ein! eAN G O S > ‘3 €R L\e,0.0,0.4493670886075949,0.4240506329113924,0.0,0.0,0.5506329113924051,0.8,0.5759493670886076,0.8222222222222222
+0119.jpeg,simple,"HÄNDE WEG VON UNSEREM LAND! PALÄSTINA STEHT NICHT ZUM VERKAUF LAUFDEMONSTRATION FÜR PALÄSTINA SAMSTAG, 01.03. UM 13 UHR U-BAHN & S-BAHN ZOOLOGISCHER GARTEN, BERLIN","HÄNDE WEG VON UNSEREM LAND!
+
+PALASTINA
+STEHT
+NICHT ZUM
+VERKAUF
+
+LAUFDEMONSTRATION FÜR PALÄSTINA
+SAMSTAG, 01.03. UM 13 UHR
+
+U-BAHN & S-BAHN ZOOLOGISCHER
+GARTEN, BERLIN",0.0,"HÄNDE WEG VON UNSEREM LAND! PALASTINA STEHT NICHT ZUM VERKAUF LAUFDEMONSTRATION FÜR PALÄSTINA SAMSTAG, 01.03. UM 13 UHR U-BAHN & S-BAHN ZOOLOGISCHER GARTEN, BERLIN",0.0,0.9938650306748468,0.9263803680981596,0.9583333333333334,0.9583333333333334,0.006134969325153374,0.041666666666666664,0.0736196319018405,0.375
+0120.jpg,simple,Wahlkampf-Veranstaltung STADTHALLE LEONBERG Römerstraße 110 | 71229 Leonberg 22.01. BEGINN 19 UHR | EINLASS 18 UHR LARS HAISE MARKUS FROHNMAIER TINO CHRUPALLA EMIL SÄNZE DIANA ZIMMER DEUTSCHLAND ZUERST! AfD Landesverband Baden-Württemberg,"Wahlkampf-Veranstaltung
+STADTHALLE LEONBERG - semeorenuss en
+
+Römerstraße 110 | 71229 Leonberg
+
+/""4' e
+
+} TINO
+RS W |MARKUS mun CHRUPALLA gMIL DIANA
+HAISE 'FROHNMAIER1 A SÄNZE ZIMMER
+
+DEUTSCHLAND ZUERST!
+— AfD
+
+m  Württemban 1g",0.0,"Wahlkampf-Veranstaltung STADTHALLE LEONBERG - semeorenuss en Römerstraße 110 | 71229 Leonberg /""4' e } TINO RS W |MARKUS mun CHRUPALLA gMIL DIANA HAISE 'FROHNMAIER1 A SÄNZE ZIMMER DEUTSCHLAND ZUERST! — AfD m Württemban 1g",0.0,0.5336134453781513,0.4957983193277311,0.0967741935483871,0.0967741935483871,0.46638655462184875,0.7419354838709677,0.5042016806722689,0.8064516129032258
+0121.jpg,simple,Zeit für Fans 05.12.2024 Mach dein Foto mit dem Nikolaus Und sicher dir den Adventsrabatt. Auguste-Viktoria-Allee 99  //  13403 Berlin,"p } x
+Zeit für Fans A 3 S }
+
+05.12.2024 ; #
+
+Auguste-Viktoria-Allee 99 // 13403 Berlin
+; s
+
+N
+I
+BN",0.0,p } x Zeit für Fans A 3 S } 05.12.2024 ; # Auguste-Viktoria-Allee 99 // 13403 Berlin ; s N I BN,0.0,0.3432835820895522,0.3134328358208955,0.0,0.0,0.6567164179104478,1.0,0.6865671641791045,0.9
+0122.jpg,simple,"25. APRIL, 2023 20.00 UHR OMAS ON STAGE PERFORMANCES, LIEDER, GEDICHTE... IM CAFÉ KORB Brandstätte 9, 1010 Wien Reservierung erforderlich: jenny@happybusiness.at Omas-on-Stage ist eine Theatergruppe innerhalb der Aktivistinnengruppe OMAS GEGEN RECHTS. In den letzten 3 Jahren sind wir bei zahlreichen Interventionen und Straßentheater, sowie beim Wiener Kultursommer, Demonstrationen und Frauenveranstaltungen aufgetreten. Omas-On-Stage besteht aus 12 Frauen– professionellen Schauspielerinnen und Laiendarstellerinnen. Durch unsere Aktionen beleuchten wir auch die Rolle, die ältere Frauen im politischen Geschehen und in der Gesellschaft spielen und können. Immer auch mit Humor und Ironie! FREIE SPENDE","29. APRIL, 20223 OMAS
+20.00 UHR ﬁ'ﬂ
+ISTAGE|
+
+PERF[]RMANGES
+LIEDER, GEDICHTE.
+
+Omes-on-Stage ist eine Theatergruppe innerhalb
+
+IV der Aktivistinnengruppe OMAS GEGEN RECHTS.
+
+| In den letzen 3 Jahren sind wir bei zahl
+
+n Interventionen und Strassentheater, sowie beim
+r Wiener Kultursommer, Demonstrationen und
+Frauenveranstaltungen aufgetreten.
+
+Omas-On-Stage besteht aus 12 Frauen- professionellen
+
+® Schauspielerinnen und Laiendarstellerinnen. Durch
+Hegn unsere Aktionen beleuchten wir auch die Rolle,
+die älterer Frauen im politischen Geschehen und
+
+in der Gesellschaft spielen können.
+
+Immer auch mit Humor und Ironie!
+FREIE SPENDE",0.0,"29. APRIL, 20223 OMAS 20.00 UHR ﬁ'ﬂ ISTAGE| PERF[]RMANGES LIEDER, GEDICHTE. Omes-on-Stage ist eine Theatergruppe innerhalb IV der Aktivistinnengruppe OMAS GEGEN RECHTS. | In den letzen 3 Jahren sind wir bei zahl n Interventionen und Strassentheater, sowie beim r Wiener Kultursommer, Demonstrationen und Frauenveranstaltungen aufgetreten. Omas-On-Stage besteht aus 12 Frauen- professionellen ® Schauspielerinnen und Laiendarstellerinnen. Durch Hegn unsere Aktionen beleuchten wir auch die Rolle, die älterer Frauen im politischen Geschehen und in der Gesellschaft spielen können. Immer auch mit Humor und Ironie! FREIE SPENDE",0.0,0.8028368794326242,0.7787234042553192,0.0224719101123595,0.0224719101123595,0.1971631205673759,0.34831460674157305,0.22127659574468084,0.42696629213483145
+0123.jpg,simple,"SOLIDARITÄTSDEMO FÜR DIE UKRAINE Samstag, 5. März 2022 Platz der Menschenrechte, Wien 15 bis 17 Uhr","SOLIDARITÄTSDEMO
+
+FÜR DIE UKRAINE
+
+Samstag, 5. März 2022
+
+Platz der Menschenrechte, Wien
+15 bis 17 Uhr",0.0,"SOLIDARITÄTSDEMO FÜR DIE UKRAINE Samstag, 5. März 2022 Platz der Menschenrechte, Wien 15 bis 17 Uhr",0.0,1.0,0.9292929292929292,1.0,1.0,0.0,0.0,0.0707070707070707,0.125
+0124.jpg,simple,#SAVE BRAIN CITY Wissenschaft sichert die Zukunft Berlins 19.12.2024 KUNDGEBUNG 8:30 Uhr vor dem Abgeordnetenhaus Berlin,"Wissenschaft
+sichert die Zukunft Berlins
+
+19.12.2024
+
+KUNDGEBUNG
+
+8:30 Uhr vor dem Abgeordnetenhaus Berlin",0.0,Wissenschaft sichert die Zukunft Berlins 19.12.2024 KUNDGEBUNG 8:30 Uhr vor dem Abgeordnetenhaus Berlin,0.0,0.8583333333333334,0.8,0.0,0.0,0.14166666666666666,0.1875,0.2,0.3125
+0127.jpeg,simple,"Solidarischer Stammtisch Thema: Unser Verständnis vom Patriarchat und unser Umgang damit Diskussion und gemeinsames Essen am Dienstag, 4. März ab 19:00 Uhr im “Maggie” Frankfurter Allee 205","TI
+
+Thema: Unser Verständnis vom ‘l
+
+Diskussion und gemeinsames Essen
+am Dienstag, 4. März ab 19:00 Uhr
+im “Maggie” Frankfurter Allee 205",0.0,"TI Thema: Unser Verständnis vom ‘l Diskussion und gemeinsames Essen am Dienstag, 4. März ab 19:00 Uhr im “Maggie” Frankfurter Allee 205",0.0,0.6931216931216931,0.671957671957672,0.037037037037037,0.037037037037037,0.30687830687830686,0.25925925925925924,0.328042328042328,0.4074074074074074
+0128.jpg,simple,Transferale Das Wissenschafts- Festival für Klima und Gesundheit Zukunft im Stadtumdrehen 25.09. — 27.09.2024 im Kulturquartier silent green Zukunft findet Stadt Das Hochschulnetzwerk für ein resilientes Berlin,"W Ia . 3
+Transferale/ «
+
+\ Y Zukunft im
+— Stadtumdrehen
+
+25.09. —
+27.09.2024
+im Kulturquartier
+silent green",0.0,W Ia . 3 Transferale/ « \ Y Zukunft im — Stadtumdrehen 25.09. — 27.09.2024 im Kulturquartier silent green,0.0,0.4095238095238095,0.3809523809523809,0.074074074074074,0.074074074074074,0.5904761904761905,0.6666666666666666,0.6190476190476191,0.8518518518518519
+0129.jpg,simple,#BerlinIstKultur DEMO GEGEN DIE KÜRZUNGEN IM KULTURBEREICH! VOLKS BÜHNE AM ROSA-LUXEMBURG-PLATZ 13.11. 10:00 Brandenburger Tor Platz des 18. März,"#BerlinistKultur
+
+GEGEN DIE KÜRZUNGEN IM KULTURBEREICH!
+
+13.11. Brandenburger Tor
+
+10:00 Platz des 18. März",0.0,#BerlinistKultur GEGEN DIE KÜRZUNGEN IM KULTURBEREICH! 13.11. Brandenburger Tor 10:00 Platz des 18. März,0.0,0.6275862068965516,0.6068965517241379,0.0,0.0,0.3724137931034483,0.42105263157894735,0.3931034482758621,0.42105263157894735
+0130.jpg,simple,NOCH MALL ALLES AUSSER NEU repami Netzwerk Qualitätsreparatur Reparaturtag in der NochMall 19. Oktober 2024 14–18 Uhr Save the date!,"Netzwerk l Qualitätsreparatur
+ES AUSSER NEU
+
+Reparaturtag
+
+in der NochMall
+19. Oktober 2024
+
+14-18 Uhr .
+
+o m OS&",0.0,Netzwerk l Qualitätsreparatur ES AUSSER NEU Reparaturtag in der NochMall 19. Oktober 2024 14-18 Uhr . o m OS&,0.0,0.5227272727272727,0.4772727272727273,0.0,0.0,0.4772727272727273,0.6,0.5227272727272727,0.65
+0131.jpeg,simple,"GENOCIDE STARTS HERE! KUNDGEBUNG MI, 05.03.2025 12:00 UHR ECKE TAUENTZIENSTR./ MARBURGER STR., 10789 BERLIN GRIEVING DOVES JÜDISCHE STIMME STOP ARMING ISRAEL KEINE WAFFEN FÜR ISRAEL SHUT ELBIT DOWN","\GEN[ICII]E STARTS HERE!
+
+MI, 05.03.2025
+12:00 UHR
+ECKE TAUENTZIENSTR./
+MARBURGER STR., 10789
+BERLIN
+
+‚” GRIENG DOVES
+E
+
+P
+IIIII
+öl
+
+WAFFEN",0.0,"\GEN[ICII]E STARTS HERE! MI, 05.03.2025 12:00 UHR ECKE TAUENTZIENSTR./ MARBURGER STR., 10789 BERLIN ‚” GRIENG DOVES E P IIIII öl WAFFEN",0.0,0.5888324873096447,0.532994923857868,0.1071428571428571,0.1071428571428571,0.41116751269035534,0.5357142857142857,0.467005076142132,0.8214285714285714
+0132.jpg,simple,DIE CDU IST KEIN GRUND ZUM FEIERN. SOS ANTIFA 23. FEBRUAR · 18 UHR KONRAD ADENAUER HAUS Sea-Watch.org,"DIE CDU IST KEIN GRUND ZUM FEIERN.
+
+23. FEBRUAR :18 UHR
+KONRAD ADENAUER HAUS
+
+Sa
+
+n
+Sea-Watch.org",0.0,DIE CDU IST KEIN GRUND ZUM FEIERN. 23. FEBRUAR :18 UHR KONRAD ADENAUER HAUS Sa n Sea-Watch.org,0.0,0.8217821782178218,0.7722772277227723,0.3888888888888889,0.3888888888888889,0.1782178217821782,0.3333333333333333,0.22772277227722773,0.4444444444444444
+0133.jpg,simple,"KUNDGEBUNG MIT DR. WEBER SAMSTAG 05.09.2020, 14:30 MARBURG ERWIN-PISCATOR-HAUS ÄRZTE FÜR AUFKLÄRUNG","KUNDGEBUNG MIT DR. WEBER
+SAMSTAG 05.09.2020,14:30
+
+ERWIN-PISCATUH-HAUS
+ÄRZTE FÜR AUFKLÄRUNG \",0.0,"KUNDGEBUNG MIT DR. WEBER SAMSTAG 05.09.2020,14:30 ERWIN-PISCATUH-HAUS ÄRZTE FÜR AUFKLÄRUNG \",0.0,0.8686868686868687,0.8383838383838383,0.4166666666666667,0.4166666666666667,0.13131313131313133,0.4166666666666667,0.16161616161616163,0.6666666666666666
+0134.jpg,simple,"Antifaschistische Kundgebung GEGEN DIE INSTRUMENTALISIERUNG DES ERINNERNS Montag, 27.05.24 18 Uhr Mahnmal Levetzowstraße Berlin-Moabit","Antifaschistische Kundgebung
+GEGEN DIE INSTRUMENTALISIERUNG
+DES ERINNERNS
+
+Montag, 27.05.24
+18 Uhr
+
+Mahnmal
+Levetzowstraße
+
+Berlin-Moabit
+
+© N",0.0,"Antifaschistische Kundgebung GEGEN DIE INSTRUMENTALISIERUNG DES ERINNERNS Montag, 27.05.24 18 Uhr Mahnmal Levetzowstraße Berlin-Moabit © N",0.0,0.9701492537313432,0.8880597014925373,1.0,1.0,0.029850746268656716,0.14285714285714285,0.11194029850746269,0.7142857142857143
+0135.jpg,simple,"Einfache Sprache Kommt zur Demo am 8. März! Wo? S+U Schönhauser Allee Wann? 8. März 2025, 13:00 Uhr Für Feminismus ohne Grenzen! FEMINISM UNLIMITED","Y )
+
+Kı
+Kommt zur Demo am 8. März!i
+? Wo? S+U Schönhauser Allee””
+” Wann? 8 März 2025, 13:00 Uhr/ v",0.0,"Y ) Kı Kommt zur Demo am 8. März!i ? Wo? S+U Schönhauser Allee”” ” Wann? 8 März 2025, 13:00 Uhr/ v",0.0,0.5238095238095238,0.5170068027210885,0.0,0.0,0.47619047619047616,0.625,0.48299319727891155,0.5416666666666666
+0136.jpg,simple,GEGEN JEDE NAZI PROPAGANDA! MARTIN SELLNER VON DER STRASSE FEGEN! HEUTE! ★ 27.02. ★ 18:15 UHR Kundgebung an der “Grünen Lampe” Uhlandstraße 51 Widersetzen Berlin,"GEGEN JEDE
+NAZI PROPAGANDA !
+
+MARTIN SELLNER VON DER
+@ STRASSE FEGEN!
+w —
+
+K3
+
+HEUTE! %* 27.02. * 18:15 UHR
+Kundgebung an der “Grünen Lampe”
+Uhlandstraße 51
+
+Widersetzen Berlin",0.0,GEGEN JEDE NAZI PROPAGANDA ! MARTIN SELLNER VON DER @ STRASSE FEGEN! w — K3 HEUTE! %* 27.02. * 18:15 UHR Kundgebung an der “Grünen Lampe” Uhlandstraße 51 Widersetzen Berlin,0.0,0.9192546583850932,0.8633540372670807,0.12,0.12,0.08074534161490683,0.32,0.13664596273291926,0.52
+0137.jpg,simple,"Omas-on-Stage beim Kultursommer Politischer Aktivismus mit Kunst Samstag, 9. Juli 2022, 18.30 Mortarapark, 1200 Wien Sonntag, 10. Juli 2022, 18.30 Muthsamgasse, 1140 Wien FREIER EINTRITT","Pohtuscher Akt|Vlsmus mit Kunst
+
+Samstag, 9. Juli 2022, 18.30
+Mortarapark, 1200 Wien
+
+Sonntag, 10. Juli 2022, 18.30 FREIER EINTRITT
+Muthsamgasse, 1140 Wien",0.0,"Pohtuscher Akt|Vlsmus mit Kunst Samstag, 9. Juli 2022, 18.30 Mortarapark, 1200 Wien Sonntag, 10. Juli 2022, 18.30 FREIER EINTRITT Muthsamgasse, 1140 Wien",0.0,0.6236559139784946,0.5967741935483871,0.0,0.0,0.3763440860215054,0.36,0.4032258064516129,0.44
+0139.jpg,simple,ZENTRUM KREUZBERG MEHR POLIZEI? NICHTS ZU FEIERN WIR BLEIBEN DABEI: SOZIALE LÖSUNGEN FÜR SOZIALE PROBLEME! KUNDGEBUNG GEGEN DIE ERÖFFNUNGSFEIER DER KOTTI-WACHE 15.02. AB 9:00 KOTTBUSSER TOR WACHE AM KOTTI? NOT WELCOME,"MEHR POLIZEI?
+NICHTS ZU FEIERN
+
+- KUNDGEBUNG
+
+GEGEN DIE ERÖFFNUNGSFEIER DER KOTTI-WACHE
+15.02. AB 9:00 KOTTBUSSER TOR
+
+WACHE AM KOTTI? NOT WELCOME",0.0,MEHR POLIZEI? NICHTS ZU FEIERN - KUNDGEBUNG GEGEN DIE ERÖFFNUNGSFEIER DER KOTTI-WACHE 15.02. AB 9:00 KOTTBUSSER TOR WACHE AM KOTTI? NOT WELCOME,0.0,0.6543778801843319,0.6221198156682028,0.0,0.0,0.3456221198156682,0.3225806451612903,0.3778801843317972,0.45161290322580644
+0140.jpg,simple,"Samstag, 03.02.2024 von 11–13.30 Uhr WORKSHOP Motion-Capture HTW in Schöneweide Wer? - Alle zwischen 7 & 17 Jahren * Vorkenntnisse sind nicht notwendig. Was mitbringen? - Laptop oder Tablet mit Kamera * Laptops können auch bei uns angefragt werden! JETZT KOSTENLOS ANMELDEN! https://pretix.eu/dojosw/","Samstag, 03.02.2024 von 11-13.30 Uhr
+
+WORKSHOP
+EMIoGlon=-©amGure
+
+? HTW in Schöneweide
+
+g Wer?
+- Alle zwischen 7 &17 Jahren
+* Vorkenntnisse sind nicht notwendig.
+
+Was mitbringen?
+
+- Laptop oder Tablet mit Kamera
+* Laptops können auch bei uns angefragt werden!",0.0,"Samstag, 03.02.2024 von 11-13.30 Uhr WORKSHOP EMIoGlon=-©amGure ? HTW in Schöneweide g Wer? - Alle zwischen 7 &17 Jahren * Vorkenntnisse sind nicht notwendig. Was mitbringen? - Laptop oder Tablet mit Kamera * Laptops können auch bei uns angefragt werden!",0.0,0.78,0.74,0.1162790697674418,0.1162790697674418,0.22,0.23255813953488372,0.26,0.3488372093023256
+0142.jpeg,simple,NAZIANGRIFFE NICHT UNBEANTWORTET LASSEN Demonstration nach Naziangriff auf Geflüchtetenunterkunft in Stahnsdorf - Solidarität mit den Betroffenen - 14.03.2025 Demo: 17:30 S Teltow Stadt Kundgebung: 19:00 Iserstraße Ecke Elbestraße,"NAZIANGRIFFE NICHT
+UNBEANTWORTET. LASSEN
+
+Demonstrationynach Naziangriff auf
+Geflüchtetenunterkunftin
+Stahnsdorf
+
+- Solidarität mit den Betroffenen -
+
+14.03.2025
+
+Demo:
+
+17:30 S Teltow Stadt msn
+Kundgebung:
+19:00 Iserstraße )
+Ecke Elbestraße",0.0,NAZIANGRIFFE NICHT UNBEANTWORTET. LASSEN Demonstrationynach Naziangriff auf Geflüchtetenunterkunftin Stahnsdorf - Solidarität mit den Betroffenen - 14.03.2025 Demo: 17:30 S Teltow Stadt msn Kundgebung: 19:00 Iserstraße ) Ecke Elbestraße,0.0,0.9608695652173912,0.9,0.1785714285714285,0.1785714285714285,0.0391304347826087,0.25,0.1,0.39285714285714285
+0143.jpg,simple,"Ostkreuz nicht den Nazis überlassen! So, 14.07. 14:00 Uhr Ostkreuz",< OstkreUZg — w,0.0,< OstkreUZg — w,0.0,0.0909090909090909,0.0909090909090909,0.0,0.0,0.9090909090909091,1.0,0.9090909090909091,1.0
+0145.jpg,simple,A100 WEGBASSEN! SOLI-RAVE RAVE LIVE ACTS PANEL DISCUSSION 06.10.2023 20:00 - 10:00 MENSCH MEIER,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0146.jpg,simple,THEMENTAG ://about blank Markgrafendamm 24c (Ostkreuz) 15.12.24 11:30– 19:30 Uhr Antisemitismus im Kultur– und Clubbetrieb Reflexionen ein Jahr nach dem 7. Okt. BILDUNG IN WIDERSPRUCH,"THEMENTAG 15.12.24
+
+://about blank 11:30-
+Markgrafendamm 24c (Ostkreuz) 19:30 Uhr
+
+Antisemitismus im
+Kultur- und Clubbetrieb
+
+Reflexionen ein Jahr
+nach dem 7. Okt.
+
+BILDUNG IN WIDERSPRUCH",0.0,THEMENTAG 15.12.24 ://about blank 11:30- Markgrafendamm 24c (Ostkreuz) 19:30 Uhr Antisemitismus im Kultur- und Clubbetrieb Reflexionen ein Jahr nach dem 7. Okt. BILDUNG IN WIDERSPRUCH,0.0,0.819672131147541,0.7704918032786885,0.68,0.68,0.18032786885245902,0.2,0.22950819672131148,0.32
+0147.jpeg,simple,"Input + Diskussion nach den Bundestagswahlen: Rassismus, Abschiebung und Gewalt - Wehren wir uns! 01.03. | 18:00 Uhr Komşukeller, Kottbusser Straße 4/5 ZORA","Input + Diskussion nach den Bundestagswahlen:
+
+a
+
+01.03. / 18:00 Uhr
+Komsukeller,
+Kottbusser Straße 4/5
+
+ZORAF",0.0,"Input + Diskussion nach den Bundestagswahlen: a 01.03. / 18:00 Uhr Komsukeller, Kottbusser Straße 4/5 ZORAF",0.0,0.6602564102564102,0.6217948717948718,0.2608695652173913,0.2608695652173913,0.33974358974358976,0.4782608695652174,0.3782051282051282,0.5652173913043478
+0148.jpg,simple,"1. September 2023 ▶ BUCHPREMIERE JUDENHASS UNDERGROUND Antisemitismus in emanzipatorischen Subkulturen und Bewegungen Ein Abend mit Nicholas Potter, Stefan Lauer, Rosa Jellinek, Leon Kahane, Konstantin Nowotny und Anastasia Tikhomirova DJ: Ori Raz (Motivo Positivo) 19 Uhr | ://about blank | freier Eintritt","1. September 2023 > BUCHPREMIERE
+
+JUDENHASS
+UNDERGROUND
+
+Antisemitismus in emanzipatorischen
+Subkulturen und Bewegungen
+
+Ein Abend mit
+
+Nicholas Potter, Stefan Lauer,
+Rosa Jellinek, Leon Kahane,
+Konstantin Nowotny und
+Anastasia Tikhomirova
+
+DJ: Ori Raz (Motivo Positivo)
+
+19 Uhr | ://about blank | freier Eintritt",0.0,"1. September 2023 > BUCHPREMIERE JUDENHASS UNDERGROUND Antisemitismus in emanzipatorischen Subkulturen und Bewegungen Ein Abend mit Nicholas Potter, Stefan Lauer, Rosa Jellinek, Leon Kahane, Konstantin Nowotny und Anastasia Tikhomirova DJ: Ori Raz (Motivo Positivo) 19 Uhr | ://about blank | freier Eintritt",0.0,0.996742671009772,0.9413680781758956,0.9761904761904762,0.9761904761904762,0.003257328990228013,0.023809523809523808,0.05863192182410423,0.2619047619047619
+0149.jpg,simple,"WIR BRAUCHEN DICH! 10.00 bis 12.00 UHR Demonstration für FREIHEIT GRUNDRECHTE SELBSTBESTIMMUNG ZUR FREIHEIT SAMSTAG 11.7.2020 10 - 12 Uhr KÖNIGSPLATZ - MÜNCHEN Prof. Dr. Christoph Hueck Biochemiker, Impfstoffentwickler Markus Haintz Querdenken Initiative Ulm Rechtsanwalt Milorad Krstic Unternehmer und Buchautor rin99er Hip Hop - Rap | Lienz Levi Wegmann • DJ Tuncay celsius19","ANUNBRNUCHEND/CH/A
+
+7 N HEN
+- MUNCHEI",0.0,ANUNBRNUCHEND/CH/A 7 N HEN - MUNCHEI,0.0,0.0689655172413793,0.0636604774535809,0.0,0.0,0.9310344827586207,0.9811320754716981,0.9363395225464191,1.0
+0151.jpg,simple,08·06·24 TANZ DEMO 15 Uhr am Frankfurter Tor Mehr Infos auf kollektiv-kirsch.de WEM GEHÖRT DIE STADT?,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0152.jpg,simple,"Klimaschutz statt Autobahn! Laufdemo auf der A100! Sonntag, 21. April Start: 14 Uhr Auffahrt Tempelhofer Damm","f\ z statt 2 ÜWÜ I] T | |
+
+lauﬁlemn auf .m ATOOL_
+
+A Snnntag‚ 21 I\nnl
+SIart 14 Uhr
+
+\]@@\C-Q PowerShift Lflu Säi Ü
+
+Bür nr..‚ cuumzﬁ '/( l \
+(m \\a <“ M \
+
+nlulllm",0.0,f\ z statt 2 ÜWÜ I] T | | lauﬁlemn auf .m ATOOL_ A Snnntag‚ 21 I\nnl SIart 14 Uhr \]@@\C-Q PowerShift Lflu Säi Ü Bür nr..‚ cuumzﬁ '/( l \ (m \\a <“ M \ nlulllm,0.0,-0.0458715596330274,-0.1009174311926606,0.0,0.0,1.0458715596330275,2.0625,1.1009174311926606,1.9375
+0153.jpg,simple,"GEDENKEN BEIM MAHNMAL GEGEN KRIEG & FASCHISMUS 12.03.1938 - 12.03.2025 NIE WIEDER IST JETZT! 12.03.2025, Albertinaplatz, 18:30 GEDENKEN BEIM MAHNMAL GEGEN KRIEG & FASCHISMUS mit Beiträgen von: Aaron Bezalel Haber Cornelius Obonya Dolores Bakos Jenny & Omas on Stage Ida Belaga León de Castillo Marina Hanke Maya Unger Monika Salzer Philipp Miksch Rihab Toumi Susanne Scholl Ursula Berner NIE WIEDER IST JETZT! 12.03.1938 - 12.03.2025","GEDENKEN BEIM MAHNMAL GEGEN KRIEG & FASCHISMUS
+
+12.03.1938 - 12.03.2025
+NIE WIEDER IST JETZT!
+
+12.03.2025, Albertinaplatz, 18:30
+GEDENKEN BEIM MAHNMAL
+GEGEN KRIEG & FASCHISMUS
+
+mit Beiträgen von: ME UL
+Aaron Bezalel Haber MEYZECLT SE
+Cornelius Obonya Monika Salzer
+Dolores Bakos Philipp Miksch
+Jenny & Omas on Stage Rihab Toumi
+Ida Belaga Susanne Scholl
+
+Leön de Castillo Ursula Berner
+
+NIE WIEDER IST JETZT! 12.03.1938-12.03.2025",0.0,"GEDENKEN BEIM MAHNMAL GEGEN KRIEG & FASCHISMUS 12.03.1938 - 12.03.2025 NIE WIEDER IST JETZT! 12.03.2025, Albertinaplatz, 18:30 GEDENKEN BEIM MAHNMAL GEGEN KRIEG & FASCHISMUS mit Beiträgen von: ME UL Aaron Bezalel Haber MEYZECLT SE Cornelius Obonya Monika Salzer Dolores Bakos Philipp Miksch Jenny & Omas on Stage Rihab Toumi Ida Belaga Susanne Scholl Leön de Castillo Ursula Berner NIE WIEDER IST JETZT! 12.03.1938-12.03.2025",0.0,0.6951501154734412,0.6605080831408776,0.5076923076923077,0.5076923076923077,0.30484988452655887,0.4307692307692308,0.3394919168591224,0.5230769230769231
+0154.jpeg,simple,LIVEKONZERT LIZ MELINE MEETS SNAILTAPE DIENSTAG 21.01.25 BEGINN 20:00 TONELLIS NEUMARKT 9  04109 LEIPZIG,"NSTAG
+I6",0.0,NSTAG I6,0.0,0.0673076923076922,0.0576923076923077,0.0,0.0,0.9326923076923077,1.0,0.9423076923076923,1.0
+0155.jpg,simple,"FIRST SLAYSTANS SOLI PARTY 16/02 8PM ERREICHBAR, REICHENBERGER STR 63A","EIRST
+SL_AYSTANS
+s*©l_‘*n HA I'QTY
+
+; ; 15/02 8SPM
+REICI—IEAR REICHENBERGER STR S34",0.0,EIRST SL_AYSTANS s*©l_‘*n HA I'QTY ; ; 15/02 8SPM REICI—IEAR REICHENBERGER STR S34,0.0,0.5714285714285714,0.5142857142857142,0.0,0.0,0.42857142857142855,1.1,0.4857142857142857,0.8
+0156.jpeg,simple,"SOLI FLOHMARKT 10–18 UHR 1. MÄRZ Wo: Zielona Gora, Grünbergerstr. 73 BERLINER OBDACHLOSENHILFE e.V. Alle Spenden fließen in die Unterstützung obdachloser und hilfsbedürftiger Menschen",,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0157.jpg,simple,"SIEG DER UKRAINE – FRIEDEN FÜR EUROPA Stoppt die Finanzierung des russischen Staatsterrors 17. DECEMBER, 15:00 VOR DER RUSSISCHEN BOTSCHAFT UNTER DEN LINDEN 63–65 ♀FAR Berlin Demokrati-JA","SIEG DER
+FRIEDEN FÜ
+
+Stoppt die Finanzierung
+des russischen
+Staatsterrors
+
+17. DECEMBER, 15:00
+VOR DER RUSSISCHEN BOTSCHAFT
+UNTER DEN LINDEN 63-65
+
+j
+N iiii
+
+© ®FAR Berlin
+
+Demokrati-JA",0.0,"SIEG DER FRIEDEN FÜ Stoppt die Finanzierung des russischen Staatsterrors 17. DECEMBER, 15:00 VOR DER RUSSISCHEN BOTSCHAFT UNTER DEN LINDEN 63-65 j N iiii © ®FAR Berlin Demokrati-JA",0.0,0.8342245989304813,0.7700534759358288,0.074074074074074,0.074074074074074,0.1657754010695187,0.37037037037037035,0.22994652406417113,0.7037037037037037
+0158.jpg,simple,Kundgebung zum 5. Jahrestag des rechtsterroristischen Anschlags von Halle 9.10.2024 17:30 Uhr Oranienplatz,"Kundgebung
+zum 5, Jahrestag
+des rechtsterroristischen
+
+Anschlags von Halle
+
+9.10.2024 17:30 Uhr Oranienplatz",0.0,"Kundgebung zum 5, Jahrestag des rechtsterroristischen Anschlags von Halle 9.10.2024 17:30 Uhr Oranienplatz",0.0,0.9905660377358492,0.9339622641509434,0.9230769230769232,0.9230769230769232,0.009433962264150943,0.07692307692307693,0.0660377358490566,0.38461538461538464
+0160.jpg,simple,"ALICE WEIDEL IN DER ""BUNDESTAGSWAHL - SCHLUSSRUNDE"" HEUTE, LIVE 22:00 UHR ARD & ZDF! ZEIT FÜR DEUTSCHLAND. AfD","— ALICE WEIDEL IN DER
+DESTAI „_$CHLUSSRUNDE ‘
+
+— HEUTE/LIVE
+22:00 UHR ARD & ZDF!",0.0,— ALICE WEIDEL IN DER DESTAI „_$CHLUSSRUNDE ‘ — HEUTE/LIVE 22:00 UHR ARD & ZDF!,0.0,0.5727272727272728,0.5454545454545454,0.0,0.0,0.42727272727272725,0.5555555555555556,0.45454545454545453,0.6666666666666666
+0161.jpg,simple,"Ukraine Freiheit Demokratie NEIN Putin AfD 22.02.25 16 : 00 Brandenburger Tor 3 Jahre seit der großflächigen Invasion Unsere Stimme für die Ukraine, für Demokratie, für Freiheit FREE RUSSIANS GLOBAL Deutsch-russischer Menschenrechte-Dialog Demokrati-JA QUARTEERA MEMORIAL DEUTSCHLAND REFORUM SPACE We stand with Ukraine","3 Jahre seit der großflächigen Invasion
+Unsere Stimme für die Ukraine, für Demokratie, für Freiheit
+
+FREE @ @ Deutsch-russischer
+RUSSIANS @@ Menschenrechte-
+GLOBAL @ .
+
+W stand witrhkh UKkralilne",0.0,"3 Jahre seit der großflächigen Invasion Unsere Stimme für die Ukraine, für Demokratie, für Freiheit FREE @ @ Deutsch-russischer RUSSIANS @@ Menschenrechte- GLOBAL @ . W stand witrhkh UKkralilne",0.0,0.4733542319749216,0.4545454545454546,0.0,0.0,0.5266457680250783,0.5714285714285714,0.5454545454545454,0.6428571428571429
+0162.jpeg,simple,"Du willst dich antifaschistisch organisieren und suchst dafür andere Menschen? Dann komm‘ zu unserem Plenum! 14-tägig im Bandito Rosso* (Lottumstr. 10a, Prenzlauer Berg) Offenes Antifa Treffen 5. März 2025, 19 Uhr mit Input zum feministischen Kampftag Web: oatberlin.noblogs.org Mail: oat-berlin@riseup.net *leider nicht barrierearm","Du willst dich
+antifaschistisch
+organisieren
+
+und suchst
+
+dafür andere Dann komm:
+
+Menschen? ZU unserem
+Plenum!
+
+14-tägig im Bandito Rosso*
+(Lottumstr. 10a, Prenzlauer Berg)
+
+Offenes Antifa Treffe
+
+5,. März 2025, 19 Uhr
+
+mit Input zum feministischen Kampftag
+
+Web: oatberlin.noblogs.org Mail: oat-berlin@riseup.net
+
+*leider nicht barrierearm",0.0,"Du willst dich antifaschistisch organisieren und suchst dafür andere Dann komm: Menschen? ZU unserem Plenum! 14-tägig im Bandito Rosso* (Lottumstr. 10a, Prenzlauer Berg) Offenes Antifa Treffe 5,. März 2025, 19 Uhr mit Input zum feministischen Kampftag Web: oatberlin.noblogs.org Mail: oat-berlin@riseup.net *leider nicht barrierearm",0.0,0.933734939759036,0.8734939759036144,0.8604651162790697,0.8604651162790697,0.06626506024096386,0.13953488372093023,0.12650602409638553,0.27906976744186046
+0163.jpg,simple,STOPPT das Infektionsschutzgesetz 18.11.2020 Ab 11:00 Uhr openEnd Unsere Zivilisation - Unsere Regeln! Berlin - Bundestag ES GIBT KEINE,"STOPPT
+
+das*infektmnsschutzgesetz
+
+18.:11:2020
+AD Uhr
+
+Unsere Zivilisation - Unsere Regeln!
+
+openknd
+
+/ WES'GIBT KEINE",0.0,STOPPT das*infektmnsschutzgesetz 18.:11:2020 AD Uhr Unsere Zivilisation - Unsere Regeln! openknd / WES'GIBT KEINE,0.0,0.7185185185185186,0.6666666666666667,0.1052631578947368,0.1052631578947368,0.2814814814814815,0.5789473684210527,0.3333333333333333,0.5789473684210527
+0164.jpg,simple,Demokratie verteidigen Demonstration 03.02 15:00 Graz Hauptbahnhof 16:30 Eintreffen Hauptplatz 18:00 Lichtermeer Kommt hin! Solidarisches Bündnis für Menschenrechte und Demokratie © Ayham Yossef,"Demokratie
+verteidigen
+
+Demonstration
+
+03.02
+
+15:00 Graz Hauptbahnhof
+16:30 Eintreffen Hauptplatz
+18:00 Lichtermeer 43
+
+%. Sohdansches Bundn15 furv Menschenrech’re
+SE dhewr i und Demokra'ne a",0.0,Demokratie verteidigen Demonstration 03.02 15:00 Graz Hauptbahnhof 16:30 Eintreffen Hauptplatz 18:00 Lichtermeer 43 %. Sohdansches Bundn15 furv Menschenrech’re SE dhewr i und Demokra'ne a,0.0,0.768041237113402,0.711340206185567,0.5217391304347826,0.5217391304347826,0.23195876288659795,0.5217391304347826,0.28865979381443296,0.7391304347826086
+0165.jpg,simple,"2000er PARTY Strausberg Kulturpark - Wriezener Str., 15344 Strausberg Am Strand Eintritt 11,90 € Ab 12–23 Uhr DJ Van Tell DJ Tomekk Food & Drinks HAUPTSTADT KULTUR Wir danken unseren Partnern 2024 08.06.2024","Kulturpark - Wriezener Str., 15344 Strausberg
+K
+
+Am Strand
+_ Eintritt 11,90 €
+
+nnnnnn",0.0,"Kulturpark - Wriezener Str., 15344 Strausberg K Am Strand _ Eintritt 11,90 € nnnnnn",0.0,0.3623188405797102,0.3478260869565217,0.0,0.0,0.6376811594202898,0.7272727272727273,0.6521739130434783,0.7272727272727273
+0166.jpg,simple,"WORKSHOP: HOW TO KULTURFÖRDERUNG WITH KAROLINE LUCKS 12.03.25 16-19 Clubcommission Office, Brückenstraße 1, 10179 Berlin CLUBCOMMISSION CLUB CULTURE HUB","WORKSHOP:
+HOW TO KULTURFÖRDERUNG
+
+WITH KAROLINE LUCKS
+
+12.03.25 16-19
+Clubcommission Office, Brückenstraße 1,
+10179 Berlin",0.0,"WORKSHOP: HOW TO KULTURFÖRDERUNG WITH KAROLINE LUCKS 12.03.25 16-19 Clubcommission Office, Brückenstraße 1, 10179 Berlin",0.0,0.7894736842105263,0.743421052631579,0.7894736842105263,0.7894736842105263,0.21052631578947367,0.21052631578947367,0.2565789473684211,0.5263157894736842
+0167.jpg,simple,BIM Kulturzentrum auf KulTour Flutopfer-Stiftung von 1962 Samstag · Saturday 08.07.2023 14.00 – 17.00 Seniorenzentrum Nordlandweg Nordlandweg 110 · 22145 Hamburg Kinderfest Children’s festival,"e_o_0_
+B ,M Kultur- Flutopfer-Stiftung
+® zenfrum von 1962
+
+(auf Kultoan
+
+Samstag - Saturday - Cy66oTa + 444
+08.07.2023 © 14.00 - 17.00
+
+Q Seniorenzentrum Nordlandweg
+Nordlandweg 110 - 22145 Hamburg
+
+Kinderfest
+
+Children’s festival . HetcKuM dectNBaNb + 4Sa S Güs",0.0,"e_o_0_ B ,M Kultur- Flutopfer-Stiftung ® zenfrum von 1962 (auf Kultoan Samstag - Saturday - Cy66oTa + 444 08.07.2023 © 14.00 - 17.00 Q Seniorenzentrum Nordlandweg Nordlandweg 110 - 22145 Hamburg Kinderfest Children’s festival . HetcKuM dectNBaNb + 4Sa S Güs",0.0,0.4739583333333333,0.4322916666666666,0.0416666666666666,0.0416666666666666,0.5260416666666666,1.0,0.5677083333333334,1.0416666666666667
+0169.jpeg,simple,"in Vorbereitung auf den 8. März Mexiko: Im schwarzen Block der Feministinnen ARTE Reportage KURZFILMABEND 2. MÄRZ | 17:00 | ELELE Inang Maynila Life under martial law as a rebellious Catholic schoolgirl in the Philippines In the toilet there was a big window, that's where we'd smoke.","in Vorbereitung auf den 8. März
+
+Mexiko: Im schwarzen Block der
+Feministinnen
+
+ARTE Reportage
+
+KURZFILMABEND
+2.MÄRZI17:00IELELE
+
+Inang Maynila
+
+Life under martial law as a
+rebellious Catholic
+schoolgirl in the Philippines
+
+R
+In the toilet there was GW4 Mat's where werd",0.0,in Vorbereitung auf den 8. März Mexiko: Im schwarzen Block der Feministinnen ARTE Reportage KURZFILMABEND 2.MÄRZI17:00IELELE Inang Maynila Life under martial law as a rebellious Catholic schoolgirl in the Philippines R In the toilet there was GW4 Mat's where werd,0.0,0.8873239436619719,0.8309859154929577,0.3191489361702128,0.3191489361702128,0.11267605633802817,0.2765957446808511,0.16901408450704225,0.425531914893617
+0170.jpeg,simple,"fembi Plakate malen für den feministischen Kampftag! Am 04. März 2025 Ab 19.30 Uhr im Café Cralle Hochstädter Str. 10a, 13347 Berlin-Wedding","fembi
+
+Plakate mal }
+den feministischen
+Kampftag!
+
+Am 04. März 2025 '
+Ab 19.30 Uhr PE
+im Cafe Cralle ‘ .
+
+Hochstädter Str.10a,
+13347 Berlin-Wedding",0.0,"fembi Plakate mal } den feministischen Kampftag! Am 04. März 2025 ' Ab 19.30 Uhr PE im Cafe Cralle ‘ . Hochstädter Str.10a, 13347 Berlin-Wedding",0.0,0.8857142857142857,0.8285714285714285,0.4090909090909091,0.4090909090909091,0.11428571428571428,0.4090909090909091,0.17142857142857143,0.5454545454545454
+0171.jpg,simple,"Eltern stehen auf Rheinland-Pfalz Wir sind das Licht! # Masken-frei # Abstands-frei # Quarantäne-frei # freie Impfentscheidung Spaziergang jeden Tag im LockDown Ab Montag, 2.11. 19:00 - 19:30 Uhr Start Marktplatz in jeder Stadt/Ort KOMMT ALLE! Taschenlampe, Handy-Lampe, Laterne Die Leute werden neugierig sein und alle sehen. Es werden so immer mehr werden. Keine Anmeldung jeder für sich. Keiner kann uns so aufhalten! ElternStehenAuf.de https://t.me/ElternStehen_RLP","V Eiltern
+stehen auf
+
+Rheinland-Pfalz
+
+Wir sind das
+
+Spaziergang jeden Tag im LockDown
+
+Ab Montag, 2.11.
+19:00 - 19:30 Uhr
+
+Start Marktplatz in jeder Stadt/Ort
+
+KOMMT ALLE!
+
+Taschenlampe, Handy-Lampe, Laterne
+
+Die Leute werden neugierig sein und alle sehen. Es werden
+so immer mehr werden. Keine Anmeldung |1<=.-der für sich.
+einer kann uns so aufhalten!",0.0,"V Eiltern stehen auf Rheinland-Pfalz Wir sind das Spaziergang jeden Tag im LockDown Ab Montag, 2.11. 19:00 - 19:30 Uhr Start Marktplatz in jeder Stadt/Ort KOMMT ALLE! Taschenlampe, Handy-Lampe, Laterne Die Leute werden neugierig sein und alle sehen. Es werden so immer mehr werden. Keine Anmeldung |1<=.-der für sich. einer kann uns so aufhalten!",0.0,0.7036247334754797,0.6631130063965884,0.0,0.0,0.29637526652452023,0.24615384615384617,0.3368869936034115,0.3230769230769231
+0172.jpg,simple,"Stadtlauf STÄRKE ZEIGEN GEMEINSAM GEGEN GEWALT AN FRAUEN 6 km Hanau Marktplatz 2016 17 Uhr 16. September www.hanauerstadtlauf.de Veranstalter: Magistrat der Stadt Hanau, Frauenbüro und Fachstelle Sport - Main-Kinzig-Kreis, Referat für Frauen und Chancengleichheit - 1. Hanauer Lauftreff - Sportkreis Main-Kinzig e.V.","6 km 2016
+| Hanau 17 Uhr
+_ Marktplatz 16. September
+
+die gesund
+
+umicore /HSB— Hen
+
+Stadtwerke Hanau Z me
+
+GOODYEAR DUNLOP (E;IERMER
+
+ir Frauenlragen und Chancengleichheit",0.0,6 km 2016 | Hanau 17 Uhr _ Marktplatz 16. September die gesund umicore /HSB— Hen Stadtwerke Hanau Z me GOODYEAR DUNLOP (E;IERMER ir Frauenlragen und Chancengleichheit,0.0,0.2753164556962025,0.259493670886076,0.0,0.0,0.7246835443037974,0.8571428571428571,0.740506329113924,0.8571428571428571
+0173.jpg,simple,DEMONSTRATION FÜR DIE AUFNAHME DER MENSCHEN AN DER POLNISCH BELARUSSISCHEN GRENZE! 14. NOVEMBER 14 UHR BRANDENBURGER TOR,"0>
+
+DEMONSTRATION
+FÜR DIE
+AUFNAHME DER
+MENSCHEN
+
+AN DER POLNISCH
+BELARUSSISCHEN
+GRENZE!
+
+14. NOVEMBER
+
+UHR
+BRANDENBURGER TOR",0.0,0> DEMONSTRATION FÜR DIE AUFNAHME DER MENSCHEN AN DER POLNISCH BELARUSSISCHEN GRENZE! 14. NOVEMBER UHR BRANDENBURGER TOR,0.0,0.95,0.85,0.1764705882352941,0.1764705882352941,0.05,0.11764705882352941,0.15,0.7058823529411765
+0176.jpg,simple,"Samstag, 30.11.2024, 11–13 Uhr CODING in der Feuerwache Bibliothek “Alte Feuerwache” Michael-Brückner-Str. 9, Schöneweide Bring ein Laptop oder Tablet mit oder reserviere ein Leihgerät! KOSTENLOS PROGRAMMIEREN LERNEN JETZT ANMELDEN! https://pretix.eu/dojosw/ https://coderdojo-schoeneweide.de","Samstag, 30.11.2024, 11-13 Uhr
+
+CODING
+in der FeUGPWACHE
+
+? Bibliothek “Alte Feuerwache”
+Michael-Brückner-Str. 9, Schöneweide
+
+m Bring ein Laptop oder Tablet mit
+
+oder reserviere ein Leihgerät! KOSTENLOS
+PROGRAMMIEREN
+LERNEN
+
+https://coderdojo-schoeneweide.de",0.0,"Samstag, 30.11.2024, 11-13 Uhr CODING in der FeUGPWACHE ? Bibliothek “Alte Feuerwache” Michael-Brückner-Str. 9, Schöneweide m Bring ein Laptop oder Tablet mit oder reserviere ein Leihgerät! KOSTENLOS PROGRAMMIEREN LERNEN https://coderdojo-schoeneweide.de",0.0,0.8116438356164384,0.773972602739726,0.1935483870967742,0.1935483870967742,0.18835616438356165,0.22580645161290322,0.22602739726027396,0.45161290322580644
+0177.jpg,skewed,"STOPPT DIE AfD SOMMER, SONNE, ANTIFA! DEMO SOMMERFEST DER AFD VERMIESEN Demo gegen das Sommerfest der AfD in Templin SAMSTAG 07.09. 14:00 Uhr Am Markt 11 17268 Templin Austehen-gegen-Rassismus.de","DEMO
+
+Austehen-gegen-Rassismus.de",0.0,DEMO Austehen-gegen-Rassismus.de,0.0,0.164102564102564,0.1589743589743589,0.0,0.0,0.8358974358974359,0.9310344827586207,0.841025641025641,0.9310344827586207
+0178.jpg,skewed,JETZT KARTEN SICHERN! dance first tanzfestival juni/juli 2024 DI 16.07.24 Stadtsaal Fürstenfeldbruck KROATISCHES NATIONALBALLETT TRANSPARADA Choreografie: Maša Kolar / Mauro Bigonzetti / Marco Goecke / Nadav Zelner www.dancefirst.de,"01160724
+Stantsaal
+FÜrSteNTEIANTUCK
+
+KROATISCHES NATIONALBALLETT
+TRANSPARADA
+
+SCNOFCOOTaNE:
+asa Kolar/ Mauro BIyONZEI / Marco GOoeCKE / NadavZeiner
+
+www.dancefirst.de
+
+tanzfestival
+juni/juli 2024",0.0,01160724 Stantsaal FÜrSteNTEIANTUCK KROATISCHES NATIONALBALLETT TRANSPARADA SCNOFCOOTaNE: asa Kolar/ Mauro BIyONZEI / Marco GOoeCKE / NadavZeiner www.dancefirst.de tanzfestival juni/juli 2024,0.0,0.4137931034482759,0.3663793103448276,0.0,0.0,0.5862068965517241,0.8214285714285714,0.6336206896551724,0.8571428571428571
+0179.jpg,skewed,Rechts- extremismus stoppen In Europa & vor Ort DEMOS im ganzen Land 23.5. bis 8.6.24 Demokratie verteidigen rechtsextremismus-stoppen.de,"In Europa
+& vor Ort
+
+D
+Y
+| ‘éh. im
+
+ganzen
+Land
+
+23.5. bis 8.6.24
+
+rechtsextremismus—stoppen.‚dé",0.0,In Europa & vor Ort D Y | ‘éh. im ganzen Land 23.5. bis 8.6.24 rechtsextremismus—stoppen.‚dé,0.0,0.5401459854014599,0.4744525547445255,0.3333333333333333,0.3333333333333333,0.45985401459854014,0.5555555555555556,0.5255474452554745,0.6666666666666666
+0180.jpg,skewed,IS PALESTINE A FEMINIST ISSUE?! ZUR VERSCHRÄNKUNG VON (QUEER-)FEMINISMUS UND ANTISEMITISMUS Vortrag & Diskussion mit Cordula Trunk Do 19.12. 19:00 Uhr about blank Markgrafendamm 24c,"IS PALESTINE
+
+A FEMINIST
+/ ISSUE?!
+ZUR VERSCHRÄNKUNG
+
+VON (QUEER-)FEMINISMUS
+UND ANTISEMITISMUS
+
+Vortrag & Diskussion mit __ g%ß
+Cordula Trunk _ s
+
+Do 19.12. S
+19:00 Uhr q",0.0,IS PALESTINE A FEMINIST / ISSUE?! ZUR VERSCHRÄNKUNG VON (QUEER-)FEMINISMUS UND ANTISEMITISMUS Vortrag & Diskussion mit __ g%ß Cordula Trunk _ s Do 19.12. S 19:00 Uhr q,0.0,0.7513812154696132,0.7016574585635359,0.16,0.16,0.24861878453038674,0.4,0.2983425414364641,0.56
+0181.jpg,skewed,"ES IST WIEDER SOWEIT! IN RAHLSTEDT IST WAS LOS, Digga! 28. Rahlstedter KULTUR WOCHEN 31. AUGUST – 18. OKTOBER 2024 VERSCHIEDENE ORTE IN RAHLSTEDT RAHLSTEDTER KULTURWOCHEN","ESIST WIEDER SOWEIT!
+
+IN RAHLSTEDT
+IST WAS LOS,
+
+Digga!
+
+31. AUGUST - 18. OKTOBER 2024
+VERSCHIEDENE ORTE IN RAHLSTEDT
+
+RAHLSTEDTER KULTURWOCHEN",0.0,"ESIST WIEDER SOWEIT! IN RAHLSTEDT IST WAS LOS, Digga! 31. AUGUST - 18. OKTOBER 2024 VERSCHIEDENE ORTE IN RAHLSTEDT RAHLSTEDTER KULTURWOCHEN",0.0,0.8117647058823529,0.7588235294117647,0.0,0.0,0.18823529411764706,0.2692307692307692,0.2411764705882353,0.4230769230769231
+0182.jpg,skewed,ANTIFA-BLOCK AUF DER LICHTENHAGEN-DEMO 27.08.2022 – Rostock-Lichtenhagen DAS BISSCHEN TOTSCHLAG... DEUTSCHE ZUSTÄNDE AUFMISCHEN 30 JAHRE NACH DEN POGROMEN »ERINNERST DU DICH NOCH AN ROSTOCK-LICHTENHAGEN« BUNDESWEITE DEMO IN ROSTOCK: 27. AUGUST 2022,"ANTI IFABI.OCI(
+
+Un wr SSCHEN TOTSCHLAB.
+CHE ZUSTÄNDE AUFMISCHE
+
+30 JAHRE NACH DEN POGROMEN
+
+_ »ERINNERST DU DICH NOCH
+WCK-I.ICI-ITENHAGEN""'
+
+ül an
+
+DEL",0.0,"ANTI IFABI.OCI( Un wr SSCHEN TOTSCHLAB. CHE ZUSTÄNDE AUFMISCHE 30 JAHRE NACH DEN POGROMEN _ »ERINNERST DU DICH NOCH WCK-I.ICI-ITENHAGEN""' ül an DEL",0.0,0.4637096774193548,0.4395161290322581,0.0,0.0,0.5362903225806451,0.7096774193548387,0.5604838709677419,0.7419354838709677
+0183.jpg,skewed,RAVE KUNDGEBUNG KASTANIENALLEE 86 BERLIN SUN 14TH APRIL NOON TO 8 PM (SHARP) TUNTENHAUS BLEIBT,">
+
+—: g’\”\
+
+An
+Jf",0.0,> —: g’\”\ An Jf,0.0,0.0531914893617021,0.0212765957446808,0.0,0.0,0.9468085106382979,1.0,0.9787234042553191,1.0
+0185.jpg,skewed,Eintritt frei! fürstenfelder TÖPFER & KUNST HAND WERKER MARKT 10–18 Uhr 10.+11.08.24 Fürstenfeldbruck,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0186.jpg,skewed,"RELEASE Freitag, 11. Oktober 2024 Einlass ab 18 Uhr Beginn: 19 Uhr im ://about blank Markgrafendamm 24c 10245 Berlin Musik: DJ Andreas Michalke mit Schallplatten aus Marseille FRENCH CONNECTION PARTY Eine Veranstaltung des disko e.V.","Freitag,
+
+11. Oktober 2024
+Einlass ab 18 Uhr
+Beginn: 19 Uhr
+
+im ://about blank
+Markgrafendamm 24Cc
+10245 Berlin
+
+Eine Veranstaltung des
+
+diske.
+
+FRENCH
+CONNECTI
+
+on",0.0,"Freitag, 11. Oktober 2024 Einlass ab 18 Uhr Beginn: 19 Uhr im ://about blank Markgrafendamm 24Cc 10245 Berlin Eine Veranstaltung des diske. FRENCH CONNECTI on",0.0,0.5965665236051503,0.5407725321888412,0.0,0.0,0.4034334763948498,0.4857142857142857,0.4592274678111588,0.6571428571428571
+0187.jpg,skewed,"Autobahn-Abrissparty Rückbau statt Neubau – Stadtraum für alle Brücke überm Breitenbachplatz Sonntag, 2.6.24 | 16 - 20 Uhr","‚a
+
+Rückbau statt Neuliäi(_é
+— Stadtraum für alle. *
+
+7 - ÜCKe überm
+
+A FU n FUTZ
+
+SIN S C
+— S ; 3
+Y ERLIA n1uhhehe u
+
+- S
+Ü u@‚erln7r7a“g‚;e] |ebensIaule% N Y @J%\\‚Ä“Y‘ <>
+GÄ/Ü BI-' WUHLHEIDE Ol
+£%'é ÜHÄä'7}ES S ®% P\‚wersh/ft BUND
+:llabout blank Q > NI
+
+\lERK%PDI'!I?II'!\'A%!VFN ‘ 7 Tf
+7 n ulsis| . \ i GLUB !
+IR eniugend K Zuls 5 O ir",0.0,‚a Rückbau statt Neuliäi(_é — Stadtraum für alle. * 7 - ÜCKe überm A FU n FUTZ SIN S C — S ; 3 Y ERLIA n1uhhehe u - S Ü u@‚erln7r7a“g‚;e] |ebensIaule% N Y @J%\\‚Ä“Y‘ <> GÄ/Ü BI-' WUHLHEIDE Ol £%'é ÜHÄä'7}ES S ®% P\‚wersh/ft BUND :llabout blank Q > NI \lERK%PDI'!I?II'!\'A%!VFN ‘ 7 Tf 7 n ulsis| . \ i GLUB ! IR eniugend K Zuls 5 O ir,0.0,-1.3360655737704916,-1.3934426229508197,0.2222222222222222,0.2222222222222222,2.3360655737704916,3.611111111111111,2.3934426229508197,3.1666666666666665
+0190.jpg,skewed,"AUF DER AUTOBAHN SPEKTAKEL WORKSHOP 20.11.2022 ZUKUNFT AM OSTKREUZ LASKERSTRASSE 5, 10245 BERLIN 14–19 UHR",,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0191.jpg,skewed,STURZ dem IMPERIALISMUS 27.02 18:00 Uhr Oranienplatz Nein zur Zeitenwende Stoppt den Krieg in Kurdistan! WK WIDERSTANDSKOMITEE,"18:00 Uhr
+Oranienplatz",0.0,18:00 Uhr Oranienplatz,0.0,0.1746031746031746,0.1666666666666666,0.0,0.0,0.8253968253968254,0.8235294117647058,0.8333333333333334,0.9411764705882353
+0193.jpg,skewed,"RAUS GEGA NGEN EROBIQUE NEUJAHRS PARTY FESTSAAL KREUZBERG MI, 01.01. AB 21:00 UHR TIPP",,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0194.jpg,skewed,VIELFALT. KULTUR. LEBEN A100 WEGBASSEN! SA 17.05.2025 S TREPTOWER PARK 14–17 UHR Protestfest für Kinder und Erwachsene 17–22 UHR Protestrave,"<
+
+Jn
+A 17.05.2025 —
+S TREPTOWER PARK G
+14-17 UHR Protestfest für _
+Kinder und Erwachsene —-
+17-22 UHR Protestrave 0
+
+\\\\
+
+CHANGINO |=*,
+:!labout blank
+
+CIMES
+HK® Ö GLUBCOMMISSION|",0.0,"< Jn A 17.05.2025 — S TREPTOWER PARK G 14-17 UHR Protestfest für _ Kinder und Erwachsene —- 17-22 UHR Protestrave 0 \\\\ CHANGINO |=*, :!labout blank CIMES HK® Ö GLUBCOMMISSION|",0.0,0.1857142857142857,0.15,0.15,0.15,0.8142857142857143,1.1,0.85,0.9
+0195.jpg,skewed,BERLIN ACTION ANTICAPITALIST-ANTIFASCIST DAS MONOPOL ZERSCHLAGEN! TOWER TO THE PEOPLE! 26.10 Schleidenplatz 16:30 Uhr FCK AMZN,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0196.jpg,noisy,26.4 WHOSE STREETS? ANTIFA HEIßT ANGRIFF WIDERSTAND WIE NOCH NIE BERLIN BERLIN ANTIFA! NAZI-AUFMARSCH VERHINDERN! 12:15 - Start S Friedrichstraße (Südseite) 13:00 - Zwischenkundgebung Bebelplatz 13:30 - Gegenprotest Neptunbrunnen (Nähe Startplatz rechte Demo) → Weitere Route: Infos folgen!,"\ R
+S
+
+NAZI-AUFMARSCH VERHINDERN!
+12:15 - Start S Friedrichstraße (Südseite)
+13:00 - Zwischenkundgebung Bebelplatz
+13:30 - Gegenprotest Neptunbrunnen
+
+(Nähe Startplatz rechte Demo)
+Weitere Route: Infos folgen!",0.0,\ R S NAZI-AUFMARSCH VERHINDERN! 12:15 - Start S Friedrichstraße (Südseite) 13:00 - Zwischenkundgebung Bebelplatz 13:30 - Gegenprotest Neptunbrunnen (Nähe Startplatz rechte Demo) Weitere Route: Infos folgen!,0.0,0.7103448275862069,0.6827586206896552,0.0263157894736842,0.0263157894736842,0.2896551724137931,0.3684210526315789,0.31724137931034485,0.5789473684210527
+0197.jpg,skewed,DER AfD WIDER- SETZEN 22.2.25 12:30 DEMO S HOHENSCHÖNHAUSEN VORTREFFPUNKT DEMO 12:00  S LICHTENBERG 13:00 KUNDGEBUNG PREROWER PLATZ,"22.2.25
+
+12:30 DEMO
+S HOHENSCHÖNHAUSEN
+VORTREFFPU,
+
+M NKT
+2:00 s LlCHTEN€E?G°
+
+13:00
+
+KUNDGEBUNG
+PREROWER PLATZ",0.0,"22.2.25 12:30 DEMO S HOHENSCHÖNHAUSEN VORTREFFPU, M NKT 2:00 s LlCHTEN€E?G° 13:00 KUNDGEBUNG PREROWER PLATZ",0.0,0.7251908396946565,0.6412213740458015,0.0,0.0,0.2748091603053435,0.5555555555555556,0.35877862595419846,0.7777777777777778
+0198.jpg,fancy,"ZEIT ZU HANDELN AFD-WAHLPARTY STÖREN! FIGHT AfD! SONNTAG, 23.2. WAHLTAGPROTEST 15.30 UHR SAMMELPUNKT Eingang Gesundbrunnen Center antifaschistisch · queerfeministisch · klimagerecht antirassistisch · klassenkämpferisch","n
+
+ZEIT ZU HANDELN
+
+WAHLTAGPROTEST
+
+antifaschistisch - queerfeministisch - klimagerecht
+antirassistisch - klassenkämpferisch",0.0,n ZEIT ZU HANDELN WAHLTAGPROTEST antifaschistisch - queerfeministisch - klimagerecht antirassistisch - klassenkämpferisch,0.0,0.5229357798165137,0.5045871559633027,0.0,0.0,0.47706422018348627,0.6666666666666666,0.4954128440366973,0.75
+0199.jpg,skewed,"RECHTEN MARSCH DURCH MITTE STOPPEN! SAMSTAG, 22.02.25 SCHIFFBAUERDAMM 1 AB 11:30 UHR STOPPEN! FÜR EINE VIELFÄLTIGE UND SOLIDARISCHE GESELLSCHAFT!","RECHTEN MARSCH
+
+SAMSTAG, 22.02.25
+SCHIFFBAUE&DAMM 1
+
+FU EINE VIELFA'EHGE :
+UND SOLIDARISCHE GESE[LSCHAFT' \",0.0,"RECHTEN MARSCH SAMSTAG, 22.02.25 SCHIFFBAUE&DAMM 1 FU EINE VIELFA'EHGE : UND SOLIDARISCHE GESE[LSCHAFT' \",0.0,0.6137931034482759,0.5931034482758621,0.1052631578947368,0.1052631578947368,0.38620689655172413,0.6842105263157895,0.4068965517241379,0.7368421052631579
+0200.jpg,skewed,NEIN ZUR AFD! DER AFD KEINE PLATTE LASSEN! 22.02.2025 AB 13:00 UHR GEGEN DIE AFD ABSCHLUSSKUNDGEBUNG UND IHRE POLITIK! PREROWER PLATZ NEU – HOHENSCHÖNHAUSEN,"NEIN ZUR AFDI
+—d
+
+DER AFD KEINE PLATTE LASSEN!
+
+2.02.2025
+
+/ AB 13:00 UHR
+
+GEGEN DIE AFD
+ABSCHLUSSKUNDGEBUNG
+
+"" REROWER PLATZ
+
+NEU - HOHENSCHÖNHAUSEN",0.0,"NEIN ZUR AFDI —d DER AFD KEINE PLATTE LASSEN! 2.02.2025 / AB 13:00 UHR GEGEN DIE AFD ABSCHLUSSKUNDGEBUNG "" REROWER PLATZ NEU - HOHENSCHÖNHAUSEN",0.0,0.8333333333333334,0.7692307692307692,0.2083333333333333,0.2083333333333333,0.16666666666666666,0.375,0.23076923076923078,0.4166666666666667
+0201.jpg,fancy,Brandmauer durch Merz und Co. gefallen Gegen die Normalisierung von Transfeindlichkeit und Faschismus! So 09.02. Willy-Brandt-Haus 15.00 Uhr Protestzug zur CDU Bundesgeschäftsstelle Unsere Protestwelle: 27.01 - 9.02 - 20.02 - 22.02,"Bvandmau x @5
+
+se09.r 2.L‘\7
+
+Willy-Brandt-Haus \ \}\
+15.05 Uhr
+
+Protestzus zur ""”LF
+CDU Bundesgeschäftsstelle
+
+% J
+Unsere Protestwelle: 27.01 - 9.02 - 20.02 - 22.02",0.0,"Bvandmau x @5 se09.r 2.L‘\7 Willy-Brandt-Haus \ \}\ 15.05 Uhr Protestzus zur ""”LF CDU Bundesgeschäftsstelle % J Unsere Protestwelle: 27.01 - 9.02 - 20.02 - 22.02",0.0,0.5021645021645021,0.4805194805194805,0.0,0.0,0.49783549783549785,0.6774193548387096,0.5194805194805194,0.6774193548387096
+0202.jpg,skewed,"Gegen Faschismus, Queer- und Frauen- Feindlichkeit! 14.12. ca. 12.30 Uhr Friedrichshain Markgrafendamm 24c & 25 Neuwahlen? Jetzt erst recht: für ein buntes statt braunes Berlin! Klima statt Hetze Nazi Aufmarsch verhindern Neuwahlen? Jetzt Erstrecht: wider­setzen! WERDE nun aktiv Gegenprotest – dem Naziaufmarsch widersetzen – nun aktiv werden! ORDNER*INNEN & AWARENESS GESUCHT","$
+\ U X A R S01
+H x ME
+ETZWERK ET A
+EERFEM ‘ Q Denken AUFSTEHEN GEGEN-RASSISMUS DE
+
+Gegenprotest - dem Naziaufmarsch widersetzen - nun aktiv werden!
+
+MRIr RECLAIM ‘ —",0.0,$ \ U X A R S01 H x ME ETZWERK ET A EERFEM ‘ Q Denken AUFSTEHEN GEGEN-RASSISMUS DE Gegenprotest - dem Naziaufmarsch widersetzen - nun aktiv werden! MRIr RECLAIM ‘ —,0.0,0.2625994694960212,0.246684350132626,0.0,0.0,0.7374005305039788,0.8627450980392157,0.753315649867374,0.8627450980392157
+0203.jpg,fancy,"SUBKULTUR GEGEN AMAZON Dogshit Skatepark Nähe S+U Bfh Warschauerstr. 29.11, ab 17:30h % FOR SALE % TOWER TO THE PEOPLE 161 FUCK OFF ACAB 1312","KOLTÜRGEGEN AMAZON
+Nähe S+U Bhr Warschauerstr,
+OTEn T7n",0.0,"KOLTÜRGEGEN AMAZON Nähe S+U Bhr Warschauerstr, OTEn T7n",0.0,0.3404255319148936,0.3262411347517731,0.0,0.0,0.6595744680851063,0.88,0.6737588652482269,0.96
+0204.jpg,skewed,14.00 Uhr 16.11. Friedrichshain Forckenbeckplatz Berlin es reicht: transfeindlichkeit tötet Neuwahlen erstrecht: kämpfen statt sterben! klima statt Hetze OPEN MIC optional ANONYM Neuwahlen: Faschismus tötet - nun widersetzen! ORDNER*INNEN UND AWARENESS GESUCHT Forckenbeckplatz (Start) über Rigaer sowie Frankfurter Tor (Zwischenkundgebung) zum Mariannenplatz (Abschlusskundgebung),"E Neuwahlen:
+'Ä } Faschismus
+ö tötet - nun
+.8 W|dersetzen'
+
+DY \
+X
+Y
+Z
+LE V m 0% @°
+[ elubliebe da
+SCIENTIST B
+REBELLION B
+n KL",0.0,E Neuwahlen: 'Ä } Faschismus ö tötet - nun .8 W|dersetzen' DY \ X Y Z LE V m 0% @° [ elubliebe da SCIENTIST B REBELLION B n KL,0.0,0.1627296587926509,0.1522309711286089,0.0,0.0,0.8372703412073491,0.9767441860465116,0.847769028871391,0.9534883720930233
+0205.jpg,simple,ZEIT ZU HANDELN Die AfD-Party zur Landtagswahl versauen! Solidarisch gegen den Rechtsruck antifaschistisch · queerfeministisch · klassenkämpferisch · klimagerecht Kundgebung 14:20 Uhr | Potsdam Hbf. Demo gegen die AfD-Wahlparty 16 Uhr | Bhf. Potsdam-Marquardt Anreise aus Potsdam: 15:36 Uhr | Hbf. (Gleis 1 | RB 21) Anreise aus Berlin: 13:21 Uhr | Ostkreuz (Gleis 5 S7) 22.09.2024 | Potsdam,"ZEIT ZU HANDELN
+
+Die AfD-Party zur Landtagswahl versauen!
+
+22.09.2024 | Potsdam",0.0,ZEIT ZU HANDELN Die AfD-Party zur Landtagswahl versauen! 22.09.2024 | Potsdam,0.0,0.1974358974358974,0.1897435897435897,0.135593220338983,0.135593220338983,0.8025641025641026,0.8135593220338984,0.8102564102564103,0.8135593220338984
+0206.jpg,skewed,"ZEIT ZU HANDELN - GEGEN DIE AFD-WAHLPARTY IN BERLIN! AfD Wahlparty-Ort ist nun bekannt, Gegenprotest nun alle teilen! 17 UHR | Berlin Alt-Blankenburg 12 Nähe S-Bhf. Blankenburg zeitzuhandeln.org","17 UHR | Berlin
+Alt-Blankenburg 12
+Nähe S-Bhf. Blankenburg",0.0,17 UHR | Berlin Alt-Blankenburg 12 Nähe S-Bhf. Blankenburg,0.0,0.2989690721649485,0.2886597938144329,0.0,0.0,0.7010309278350515,0.6785714285714286,0.711340206185567,0.8214285714285714
+0207.jpg,skewed,Frankfurt bleibt bunt! Schöner ohne AfD! 16. August - ab 15:30 Uhr Nähe Marktplatz Gegenkundgebung mit Kultur,@mukßwﬂ* bloﬁbﬁ E9@lil*l,0.0,@mukßwﬂ* bloﬁbﬁ E9@lil*l,0.0,0.091743119266055,0.091743119266055,0.0,0.0,0.908256880733945,1.0,0.908256880733945,1.0
+0208.jpg,simple,"ELSÄSSER, HALTS MAUL! Sa 13.7.24 Demo gegen das Compact Magazin Startpunkt 15:00 Uhr Falkensee Bahnhof gemeinsame Anreise: 14:05 Ostkreuz Gl. 2 mit Musik von Paul Geigerzähler V.I.S.D.P Otto Roth, Lilienstraße 161, 14612 Falkensee","ELSÄSSER, Sa_13.7.24
+HALTS MAUL!
+
+‚ Compact Magazin
+S
+
+Startpunkt 15:00 Uhr
+Falkensee Bahnhof
+
+gemeinsame Anreise:
+14:05 Ostkreuz Gl. 2
+
+mit Musik- von
+
+Paul Geigerzähler
+P
+
+4O
+
+V.I.S.D.P Otto Roth, Lilienstraße 161# 14612 Falkensee",0.0,"ELSÄSSER, Sa_13.7.24 HALTS MAUL! ‚ Compact Magazin S Startpunkt 15:00 Uhr Falkensee Bahnhof gemeinsame Anreise: 14:05 Ostkreuz Gl. 2 mit Musik- von Paul Geigerzähler P 4O V.I.S.D.P Otto Roth, Lilienstraße 161# 14612 Falkensee",0.0,0.8478260869565217,0.782608695652174,0.2121212121212121,0.2121212121212121,0.15217391304347827,0.3333333333333333,0.21739130434782608,0.45454545454545453
+0209.jpg,skewed,"INFOS: Mach Dich schlau & dann mach mit widersetzen.com AfD Parteitag verhindern 28. – 30. Juni 2024 in Essen Freitag, 19 Uhr: Rave-Demo & großes Aktionsplenum Samstag, 6 Uhr: Demonstrationen & massenhaftes Widersetzen Mit dem Bus nach Essen! Gemeinsam widersetzen","widersetzen.com
+
+INFOS:
+Mach Dich
+schlau & dann
+mach mit
+
+>
+
+AfD Parteita
+verhinden%
+
+Mit dem Bus
+nach Essen!
+
+Gemeinsam
+widersetzen
+
+28. - 30. Juni 2024 in Essen
+
+Freitag, 19 Uhr: Rave-Demo & großes Aktionsplenum
+Samstag, 6 Uhr: Demonstrationen & massenhaftes Widersetzen",0.0,"widersetzen.com INFOS: Mach Dich schlau & dann mach mit > AfD Parteita verhinden% Mit dem Bus nach Essen! Gemeinsam widersetzen 28. - 30. Juni 2024 in Essen Freitag, 19 Uhr: Rave-Demo & großes Aktionsplenum Samstag, 6 Uhr: Demonstrationen & massenhaftes Widersetzen",0.0,0.5568181818181819,0.5,0.0,0.0,0.4431818181818182,0.475,0.5,0.575
+0210.jpg,fancy,SUBCULTURE AGAINST PATRIARCHY! DEMO  08.03.2024 14:00–20:00 START: STRALAUER PLATZ (OSTBAHNHOF) + AFTERPARTY,"lnouznm%
+START: STRALAUER PLAT
+__(OSTBAHNHOF)",0.0,lnouznm% START: STRALAUER PLAT __(OSTBAHNHOF),0.0,0.3055555555555556,0.2962962962962963,0.0,0.0,0.6944444444444444,0.8333333333333334,0.7037037037037037,0.9166666666666666
+0211.jpg,fancy,"Sonntag, 16 Uhr BUNDESTAG 21.01.24 16:00 BUNDESTAG ZUSAMMEN GEGEN RECHTS wir bleiben präsent",,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0212.jpg,fancy,FRAUEN- SCHLÄGER AUS DER STADT JAGEN! GEGEN DEN AUFTRITT VON TOM SCHWARZ! @FRAUENKAMPFTAG.SFO | @KEINESHOWFUERTAETER_BERLIN Demo: 25. November 2023 16:30 Uhr * Boxhagener Platz * Berlin Internationaler Tag zur Beseitigung patriarchaler Gewalt KEINE SHOWS FÜR TÄTER!,"4R
+Y Y
+© FRAUENKAMPFTAG.SFO | © KEINESHOWEUERTAETER®BERLIN }
+
+Demo: 25. November 2023
+
+16:30 Uhr * Boxhagener Platz * Berlin
+Internationaler Tag zur Beseitigung patriarchaler Gewalt",0.0,4R Y Y © FRAUENKAMPFTAG.SFO | © KEINESHOWEUERTAETER®BERLIN } Demo: 25. November 2023 16:30 Uhr * Boxhagener Platz * Berlin Internationaler Tag zur Beseitigung patriarchaler Gewalt,0.0,0.6264150943396227,0.6037735849056604,0.0,0.0,0.37358490566037733,0.5277777777777778,0.39622641509433965,0.5833333333333334
+0213.jpg,simple,"KEINE PROFITE MIT VERSCHWÖRUNGS- IDEOLOGIEN Ganser raus aus der Stadthalle! DEMONSTRATION 22.10.23 FALKENSEE 17:30 UHR | BAHNHOF FKS V.i.S.d.P.: Otto Roth, Lilienstraße 161, 14612 Falkensee @afa.fks","KEINE PROFITE MIT
+VERSCHWÖRUNGS-
+IDEOLOGIEN
+
+Ganser raus aus
+der Stadthalle!
+
+DEMONSTRATION
+22.10.23
+FALKENSEE
+
+17 30 UHR | BAHNHOF FKS
+
+(©) @afa.fks",0.0,KEINE PROFITE MIT VERSCHWÖRUNGS- IDEOLOGIEN Ganser raus aus der Stadthalle! DEMONSTRATION 22.10.23 FALKENSEE 17 30 UHR | BAHNHOF FKS (©) @afa.fks,0.0,0.7121212121212122,0.6515151515151515,0.5,0.5,0.2878787878787879,0.34615384615384615,0.3484848484848485,0.6153846153846154
+0214.jpg,fancy,KEIN RAMMSTEIN VOR GERICHT STATT AUF DIE BÜHNE! STOMP THE PATRIARCHY 15.07.23 IN BERLIN SA. 15. JULI – 14:30 UHR THEODOR-HEUSS-PLATZ CA. 16:00 UHR – OLYMPIASTADION + MUSIK,"S
+<L
+“
+“
+n
+LE}
+=
+frı
+7r
+[=—
+( ]
+I =
+=)
+frı
+S
+I
+o
+Z=
+=
+—
+>
+D
+&mM
+ı
+=
+=
+>
+L
+LE
+<
+(de)",0.0,S <L “ “ n LE} = frı 7r [=— ( ] I = =) frı S I o Z= = — > D &mM ı = = > L LE < (de),0.0,0.1871345029239766,0.0526315789473684,0.0,0.0,0.8128654970760234,1.1785714285714286,0.9473684210526315,1.0
+0215.jpg,skewed,HUMMUS & BASS STATT HETZE & HASS ANTIFA PICKNICK GEGEN QUERDENKEN PARTY IM MAUERPARK SAMSTAG 3.6. ab 16.30 UHR,"HUMMUS &
+„ BASS
+
+STATT
+
+HETZE
+
+& HASS
+ANTIFA
+PICKNICK
+GEGEN
+
+QUERDENKEN
+PARTY
+
+IM MAUERPARK",0.0,HUMMUS & „ BASS STATT HETZE & HASS ANTIFA PICKNICK GEGEN QUERDENKEN PARTY IM MAUERPARK,0.0,0.7454545454545455,0.6181818181818182,0.1052631578947368,0.1052631578947368,0.2545454545454545,0.3157894736842105,0.38181818181818183,0.631578947368421
+0216.jpg,skewed,KRITISCHE PERSPEKTIVE AUF DEN OSTERMARSCH ’23 SAMSTAG 08.04. AB 13 UHR ➤ MÜLLERSTRASSE 146 Warum Linkssein.. ..nicht vor Konservatismus schützt.. HUFEISENTHEORIE ?QUERFRONT? ..Die Hufeisentheorie aber trotzdem falsch ist.,"KRITISCHE PERSPEKTIVE
+AUF DEN OSTERMARSCH ’23
+
+SAMSTAG 08.04. AB 13 UHR > MÜLLERSTRASSE 146
+
+VE TTT
+Linkssein..
+
+„nicht vor
+Konservatismus
+schützt..
+
+„Die Hufeisentheorie
+aber trotzdem ': ""ist.",0.0,"KRITISCHE PERSPEKTIVE AUF DEN OSTERMARSCH ’23 SAMSTAG 08.04. AB 13 UHR > MÜLLERSTRASSE 146 VE TTT Linkssein.. „nicht vor Konservatismus schützt.. „Die Hufeisentheorie aber trotzdem ': ""ist.",0.0,0.7918552036199095,0.7420814479638009,0.4642857142857143,0.4642857142857143,0.2081447963800905,0.32142857142857145,0.2579185520361991,0.5714285714285714
+0217.jpg,simple,"GEGENKUNDGEBUNG ZUR RECHTSOFFENEN QUERFRONTDEMO „AUFSTAND FÜR FRIEDEN“ SAMSTAG, 25.02. AB 14 UHR Im Tiergarten ggü. US-Botschaft, Ecke Platz des 18. März RIGHT TO RESIST LINKE UKRAINE-SOLIDARITÄT BERLIN @righttoresistUA GERADEDENKEN","GEGENKUNDGEBUNG
+
+ZUR RECHTSOFFENEN QUERFRONTDEMO
+
+„AUFSTAND FÜR FRIEDEN“
+
+'??p
+
+®
+
+SAMSTAG, 25.02. AB 14 UHR VEHTTORESST
+Im Tiergarten ggü. US-Botschaft, B
+Ecke Platz des 18. März
+
+@ GERADEDENKEN",0.0,"GEGENKUNDGEBUNG ZUR RECHTSOFFENEN QUERFRONTDEMO „AUFSTAND FÜR FRIEDEN“ '??p ® SAMSTAG, 25.02. AB 14 UHR VEHTTORESST Im Tiergarten ggü. US-Botschaft, B Ecke Platz des 18. März @ GERADEDENKEN",0.0,0.6336206896551724,0.5948275862068966,0.2413793103448276,0.2413793103448276,0.36637931034482757,0.3793103448275862,0.4051724137931034,0.3793103448275862
+0218.jpg,simple,Geradedenken präsentiert: CAPTAIN FAIL VS. BÖHMERMANN Montag 09.01.2023 18:00 Uhr Max-Schmeling-Halle,"Geradedenhén präsentiert:
+
+»[APTAIIIILI’E@3VS Han g
+
+Montag 09.01.2023
+18:00 Uhr
+Max-Schmeling-Halle",0.0,Geradedenhén präsentiert: »[APTAIIIILI’E@3VS Han g Montag 09.01.2023 18:00 Uhr Max-Schmeling-Halle,0.0,0.7821782178217822,0.7326732673267327,0.0909090909090909,0.0909090909090909,0.21782178217821782,0.45454545454545453,0.26732673267326734,0.8181818181818182
+0219.jpg,skewed,StraßenFFFest 3.9.22 14:30 Laufdemo Leopoldplatz 16-19 Uhr Mauerpark Straßenfest ab 19 Uhr Rave in den Abend FRIDAYS FOR FUTURE Berlin Geradedenken,"SiraBenFFFesi_
+
+|_ vmnı
+14:30 Laufdemo Leopoldplatz
+
+16-19 Uhr",0.0,SiraBenFFFesi_ |_ vmnı 14:30 Laufdemo Leopoldplatz 16-19 Uhr,0.0,0.3197278911564626,0.2857142857142857,0.0,0.0,0.6802721088435374,0.8095238095238095,0.7142857142857143,0.8095238095238095
+0220.jpg,fancy,2. Antifaschistisches PICKNICK Gegen Querdenken und Rechts IM MAUERPARK 06.08 SAMSTAG ab 14 Uhr Musik & Kundgebung,"Gegen Querdenken
+und Rechts",0.0,Gegen Querdenken und Rechts,0.0,0.2368421052631578,0.2280701754385965,0.0,0.0,0.7631578947368421,0.7647058823529411,0.7719298245614035,0.8823529411764706
+0221.jpg,fancy,GEGEN KRIEG FASCHISMUS UND QUERFRONT Kein Platz für Verschwörungsideolog*innen und ihre rechtsoffene »Friedenskundgebung« auf dem Weißenseer Antonplatz! DEMO 25.06.22 12³⁰ UHR ANTONPLATZ WEISSENSEE www.antifa-nordost.org,"GEGEN KRIEG
+TASCHISMUS
+ZQUERFRONT
+
+Kein Platz für Verschwörungsideolog*innen
+und ihre rechtsoffene »Friedenskundgebung«
+auf dem Weißenseer Antonplatz!
+
+p[""g 25.06.22 12“ UUR
+ANTONPLATZ WEISSENSEE",0.0,"GEGEN KRIEG TASCHISMUS ZQUERFRONT Kein Platz für Verschwörungsideolog*innen und ihre rechtsoffene »Friedenskundgebung« auf dem Weißenseer Antonplatz! p[""g 25.06.22 12“ UUR ANTONPLATZ WEISSENSEE",0.0,0.8409090909090909,0.8,0.0833333333333333,0.0833333333333333,0.1590909090909091,0.2916666666666667,0.2,0.5416666666666666
+0222.jpg,skewed,GEGEN SOZIALE UNGERECHTIGKEIT UND KRIEG DER KOMMT! WEDDING QUERDENKEN GEHT! #b0105wedding #SPAZIERSTOP 1. MAI 13 UHR NETTELBECKPLATZ DIE LINKE WEDDING | OMAS GEGEN RECHTS | GERADEDENKEN KEIN SCHULTERSCHLUSS MIT RECHTEN & ANTISEMIT:INNEN,"Mb„uﬂü'.nl@lo.ti
+A |
+
+DIE LINKE WEDDING / OMAS GEGEN RECHTS
+
+„llll$ßlﬂlﬂ'l$ß‘llll&‘b'ﬁlf\ LL
+BECHTEN & ANTISEMIT:INNEN",0.0,Mb„uﬂü'.nl@lo.ti A | DIE LINKE WEDDING / OMAS GEGEN RECHTS „llll$ßlﬂlﬂ'l$ß‘llll&‘b'ﬁlf\ LL BECHTEN & ANTISEMIT:INNEN,0.0,0.2966101694915254,0.2796610169491526,0.0,0.0,0.7033898305084746,0.75,0.7203389830508474,0.75
+0223.jpg,fancy,SAMSTAG AB 13:30 UHR Querdenken VERSENKEN AFD is a TRAP IM GÖRLI EINGANG SKALITZER Omas gegen Rechts | GeradeDenken Antiverschwurbelte Aktion,"S
+
+—AB 13:30 UHR",0.0,S —AB 13:30 UHR,0.0,0.0921985815602837,0.0921985815602837,0.0952380952380952,0.0952380952380952,0.9078014184397163,0.9047619047619048,0.9078014184397163,0.9047619047619048
+0224.jpg,skewed,"SPAZIER STOP Lokal Dezentral Überall + Putinfans GEGEN QUERDENKEN UND RECHTS KASTANIENALLEE/ZIONSKIRCHSTRASSE MONTAG, 28.02. 19 UHR JEDEN MONTAG DEMO No 9 NEUER STANDORT","— _ +Putinfans
+A GEGEN QUERDENKEN UND RECHTS
+KASTANIENALLEE/ ZIONSKIRCHSTRASSE
+MONTAG, 28.02. 19 UHR",0.0,"— _ +Putinfans A GEGEN QUERDENKEN UND RECHTS KASTANIENALLEE/ ZIONSKIRCHSTRASSE MONTAG, 28.02. 19 UHR",0.0,0.5443786982248521,0.5325443786982249,0.0,0.0,0.4556213017751479,0.6956521739130435,0.46745562130177515,0.7391304347826086
+0225.jpg,fancy,Berlin! Besser ohne die Junge Alternative. 11.12.21 14.30 Kundgebung Washingtonplatz BERLINER BÜNDNIS GEGEN RECHTS,"Berlin?!
+Besser ohuer die
+Junge Alternative,
+[11.12.21
+
+114.30 Kundgebung",0.0,"Berlin?! Besser ohuer die Junge Alternative, [11.12.21 114.30 Kundgebung",0.0,0.543859649122807,0.5,0.2857142857142857,0.2857142857142857,0.45614035087719296,0.7142857142857143,0.5,0.9285714285714286
+0226.jpg,simple,Alle Geschlechter willkommen! S+U Schönhauser Allee 13:00 Uhr Barrierearm Maskenblock 08. MÄRZ FEMINISM UNLIMITED DEMONSTRATION,"Alle Geschlechter S: SCHONHAUSSLANGS Barrierearm
+willkommen! S d Maskenblock",0.0,Alle Geschlechter S: SCHONHAUSSLANGS Barrierearm willkommen! S d Maskenblock,0.0,0.3307086614173228,0.3228346456692913,0.1333333333333333,0.1333333333333333,0.6692913385826772,0.8,0.6771653543307087,0.8
+0227.jpg,fancy,RAUS ZUM FEMINISTISCHEN KAMPFTAG! 8. MÄRZ DEMO 2025 19 UHR CEIJA STOJKA PLATZ 1070 WIEN FÜR EINEN UNIVERSELLEN FEMINISMUS!,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0228.jpg,skewed,19.04.2025 Einladung zum Gedenkspaziergang ehm. Zwangsarbeiter*innen-Lager Großmotorenwerk der Daimler- Benz AG in Ludwigsfelde und gemeinsame Gedenkminute am Waldfriedhof,"er 19.04.2025 ;'.\
+> Einladung \
+
+b
+ı zum Gädenkspanergang ;
+‘ D /
+.
+
+*
+r
+
+ehm. Zwangsarbeiter*innen-Laéer
+Großmotorenwerk der Daimler- .
+Benz AGin Ludwigsfelde und
+gemeinsame Gedenkminute ö
+. am Waldfriedhof",0.0,er 19.04.2025 ;'.\ > Einladung \ b ı zum Gädenkspanergang ; ‘ D / . * r ehm. Zwangsarbeiter*innen-Laéer Großmotorenwerk der Daimler- . Benz AGin Ludwigsfelde und gemeinsame Gedenkminute ö . am Waldfriedhof,0.0,0.760233918128655,0.7309941520467836,0.0,0.0,0.23976608187134502,1.1111111111111112,0.26900584795321636,0.9444444444444444
+0229.jpg,skewed,WIR BLEIBEN ALLE! POLITISCH MOTIVIERTE ABSCHIEBUNGEN STOPPEN DEMO FR. 18. APRIL 16°° ALEX,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0230.jpg,fancy,"PROPAGANDA DER YUPPIESCHWEINE PunkRock_Lyrik gegen die Arbeit Donnerstag, 17.04.25, 19:00 Uhr RegenbogenCafé","PunkRock_Lyrik
+gegen die Arbeit
+
+Donnerstag, 17.04.25, 19:00 Uhr
+RegenbogenCafe",0.0,"PunkRock_Lyrik gegen die Arbeit Donnerstag, 17.04.25, 19:00 Uhr RegenbogenCafe",0.0,0.712962962962963,0.6759259259259259,0.0,0.0,0.28703703703703703,0.3333333333333333,0.32407407407407407,0.5833333333333334
+0231.jpg,fancy,"STUDENTISCHE FREIRÄUME UND PROTEST AN DER FU VORTRAG IM ROTEN CAFÉ Di, 15. APRIL AB 18 UHR IHNESTR. 22, KELLER VORTRAG UND DISKUSSION KÜFA UND GETRÄNKE (GEGEN SPENDE) GEGEN IHRE KRIEGE","STWDENTZSCHE FRE HAIIH
+|‘l\ ET ANDER FU
+
+15 APRII.
+
+AB 286 UHR",0.0,STWDENTZSCHE FRE HAIIH |‘l\ ET ANDER FU 15 APRII. AB 286 UHR,0.0,0.233695652173913,0.217391304347826,0.032258064516129,0.032258064516129,0.7663043478260869,0.9032258064516129,0.782608695652174,0.9032258064516129
+0232.jpg,skewed,"Save the Date! 13.04.25 15–21 Uhr Diskussion, Basteln, Soli-Merch, Crêpes & Drinks Balkanbrücke Frühlingsevent beim Wagenplatz Lohmühle Lohmühlenstraße 17, 12435 B","Save the Date!
+13.04.25
+15-21 Uhr
+
+Diskussion,
+
+so,i—Mel'ch
+Crepe&s
+& Drink
+Balkanbrücke s
+Fruhlmgsevent",0.0,"Save the Date! 13.04.25 15-21 Uhr Diskussion, so,i—Mel'ch Crepe&s & Drink Balkanbrücke s Fruhlmgsevent",0.0,0.5337423312883436,0.4846625766871165,0.2857142857142857,0.2857142857142857,0.4662576687116564,0.6190476190476191,0.5153374233128835,0.8095238095238095
+0233.jpg,simple,"DEMONSTRATION 15:00 05.04.2025 U-BERNAUERSTRASSE Für eine demokratische Lösung der kurdischen Frage und die Freilassung von Abdullah Öcalan, dem Repräsentanten des kurdischen Volkes.","DEMONSTRATION
+
+05.04.2025
+
+U-BERNAUERSTRASSE
+
+Für eine demokratische Lösung der
+kurdischen Frage und die Freilassung
+von Abdullah Öcalan, dem
+Repräsentanten des kurdischen Volkes,",0.0,"DEMONSTRATION 05.04.2025 U-BERNAUERSTRASSE Für eine demokratische Lösung der kurdischen Frage und die Freilassung von Abdullah Öcalan, dem Repräsentanten des kurdischen Volkes,",0.0,0.9615384615384616,0.9175824175824177,0.0454545454545454,0.0454545454545454,0.038461538461538464,0.09090909090909091,0.08241758241758242,0.36363636363636365
+0234.jpg,simple,#TeslaTakedown 5. April - 12 Uhr Kundgebung Tesla Store Wilhelmstr. Berlin,"#TeslaTakedown
+5. April - 12 Uhr
+
+Kundgebung
+
+Tesla Store Wilhelmstr. Berlm
+
+ST IT HE
+Bewegt Politik",0.0,#TeslaTakedown 5. April - 12 Uhr Kundgebung Tesla Store Wilhelmstr. Berlm ST IT HE Bewegt Politik,0.0,0.6756756756756757,0.5945945945945945,0.9090909090909092,0.9090909090909092,0.32432432432432434,0.5454545454545454,0.40540540540540543,0.6363636363636364
+0235.jpg,simple,NEIN ZUM VETERANENTAG antikieg.blackblogs.org Provisorischer anarchistischer Antikriegsrat Berlin INFOTREFFEN / MOBI GEGEN DEN VETERANENTAG information and mobilization for the protest against the first German Veterans Day 3. April 2025 / 20:00 Fischladen Rigaerstr. 83 / 10247 Berlin U-Bhf Samariterstrasse,"INFOTREFFEN / MOBI GEGEN
+DEN VETERANENTAG
+
+information and mobilization for the protest
+against the first German Veterans Day
+
+3. April 2025 / 20:00
+
+Fischladen Rigaerstr. 83 / 10247 Berlin
+U-Bhf Samariterstrasse",0.0,INFOTREFFEN / MOBI GEGEN DEN VETERANENTAG information and mobilization for the protest against the first German Veterans Day 3. April 2025 / 20:00 Fischladen Rigaerstr. 83 / 10247 Berlin U-Bhf Samariterstrasse,0.0,0.6807817589576548,0.6514657980456027,0.0,0.0,0.31921824104234525,0.20512820512820512,0.3485342019543974,0.358974358974359
+0236.jpg,simple,"SOLIDARISCHER STAMMTISCH GEGEN 500 MILLIARDEN KRIEGSKREDITE Diskussion & Abendessen am 1. April ab 19:00 im Maggie, Frankfurter Allee 205","SOLIDARISCHER STAMMTISCH GEGEN
+
+Diskussion & Abendessen am 1. April ab
+19:00 im Maggie, Frankfurter Allee 205",0.0,"SOLIDARISCHER STAMMTISCH GEGEN Diskussion & Abendessen am 1. April ab 19:00 im Maggie, Frankfurter Allee 205",0.0,0.7883211678832117,0.7737226277372262,0.1578947368421052,0.1578947368421052,0.2116788321167883,0.15789473684210525,0.22627737226277372,0.2631578947368421
+0237.jpg,simple,"Kundgebung Gerechtigkeit für Cleo! Gegen Racial Profiling und Transmisogynoir! Mo, 31. März um 12 Uhr Justizzentrum Potsdam Jägerallee 10-12 14469 Potsdam","Gerechtigkeit für Cleo!
+
+Gegen Racial Profiling
+und Transmisogynoir!
+
+Mo, _ 31. März um 12 Uhr
+Justizzentrum Potsdam
+ägerallee 10-12
+14469 Potsdam",0.0,"Gerechtigkeit für Cleo! Gegen Racial Profiling und Transmisogynoir! Mo, _ 31. März um 12 Uhr Justizzentrum Potsdam ägerallee 10-12 14469 Potsdam",0.0,0.9090909090909092,0.8571428571428572,0.4761904761904761,0.4761904761904761,0.09090909090909091,0.14285714285714285,0.14285714285714285,0.47619047619047616
+0238.jpg,fancy,BLEIBERECHTSKAMPF ABEND 18.00 - 20.00 FLINTA only *create a save space* open mic* 20.00 - 23.00 all gender welcome *BANDS* *THEM PRETTY SONGS* *INTENSIVE SNARE UNIT* 23.00 - open end all gender PARTY im CAFE U Bernkastelerstr. 78 13088 Berlin 28.03,"BLEIRERECHTSKAMPF
+
+D END
+
+Ar .00 - 20.00 FLINTA 00y
+/ y ovenie. 0 SOVE SP<U—*‘°FIV\ MC
+vr welcomg
+
+(E THEM PRETTY -SONGS%
+Gr INTENSIVE SNARE. UNLT#",0.0,BLEIRERECHTSKAMPF D END Ar .00 - 20.00 FLINTA 00y / y ovenie. 0 SOVE SP<U—*‘°FIV\ MC vr welcomg (E THEM PRETTY -SONGS% Gr INTENSIVE SNARE. UNLT#,0.0,0.3790322580645161,0.3467741935483871,0.0,0.0,0.6209677419354839,0.9512195121951219,0.6532258064516129,0.9512195121951219
+0239.jpg,photo,Vergessene Arbeitskämpfe PUNK Abend Eintritt: 8€ Roter Salon in der VOLKSBÜHNE Wann: 24.11. Wer: LITBARSKI + COLORED MOTH 21 UHR arbeitskaempfe@volksbuehne-berlin.de,,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+0240.jpg,simple,"#KeinFussbreit! Antisemitismus und Rassismus töten - rechter Terror bedroht unsere Gesellschaft! Demonstration: Sonntag - 13.10.2019 - 13 Uhr Bebelplatz - Berlin-Mitte unteilbar.org/keinfussbreit Foto: Allexkoch, CC BY-SA 4.0","#KeinFussbreit!
+Antisemitismus und
+Rassismus töten -
+rechter Terror bedroht
+unsere Gesellschaft!
+Demonstration:
+Sonntag=13.10.2019 - 13 Uhr
+Bebelplatz- Berlin-Mitte
+unteilbar.org/keinfussbreit
+
+Foto: Allexkoch, CC BY-SA 4.0",0.0,"#KeinFussbreit! Antisemitismus und Rassismus töten - rechter Terror bedroht unsere Gesellschaft! Demonstration: Sonntag=13.10.2019 - 13 Uhr Bebelplatz- Berlin-Mitte unteilbar.org/keinfussbreit Foto: Allexkoch, CC BY-SA 4.0",0.0,0.9822222222222222,0.9377777777777778,0.4814814814814814,0.4814814814814814,0.017777777777777778,0.18518518518518517,0.06222222222222222,0.6666666666666666
+0241.jpg,simple,Spaziergang mit dem Grundgesetz 19.12.2020 Rosa-Luxemburg-Platz 14:30 Uhr DEMOKRATISCHER WIDERSTAND UNTEILBAR NICHTOHNEUNS NICHTOHNEUNS Wie immer top hygienisch! Der Demokratische Widerstand besteht weiterhin * auf die ersten 20 Artikel unserer Verfassung! * auf die Würde der Alten & der Kranken! * auf Beendigung des obrigkeitsstaatlichen Terrors! * auf Beendigung des Notstands-Regimes! * auf Wahlen & umfassende Transparenz! * auf demokratische Regeln für unser künftiges Wirtschaftssystem! Anlass? - LOCKDOWN!,"DEMOKRATISCHER |
+WÄiDERSTAND
+
+z
+fa
+=
+=
+O|
+-
+z
+en
+z
+
+}.
+!
+|
+|
+|
+/
+|
+|
+#
+
+- I5
+
+‚Der Demokratische Widerstand besteht weiterhin
+
++ auf die ersten 20 Artikel unserer Verfassung! + auf Beendigung des Notstands-Regimes!
++ auf die Würde der Alten & der Kranken! + auf Wahlen & umfassende Transparenz!
++ auf Beendigung des obrigkeitsstaatlichen Terrors! + auf demokratische Regeln für unser künftiges Wirtschaftssystem!",0.0,DEMOKRATISCHER | WÄiDERSTAND z fa = = O| - z en z }. ! | | | / | | # - I5 ‚Der Demokratische Widerstand besteht weiterhin + auf die ersten 20 Artikel unserer Verfassung! + auf Beendigung des Notstands-Regimes! + auf die Würde der Alten & der Kranken! + auf Wahlen & umfassende Transparenz! + auf Beendigung des obrigkeitsstaatlichen Terrors! + auf demokratische Regeln für unser künftiges Wirtschaftssystem!,0.0,0.4571984435797666,0.4396887159533074,0.0895522388059701,0.0895522388059701,0.5428015564202334,0.7164179104477612,0.5603112840466926,0.5970149253731343
+0242.jpg,photo,SCHAUT NICHT WEG! Stoppt die Nazikampf- trainings in Weißensee 06.10.2024 DEMO 13 Uhr Antonplatz KEINEN RAUM DEM III. WEG! schautnichtweg.noblogs.org schautnichtweg_,"| [SCHAUT NICHT WEGT] |
+
+A W 1
+M
+
+ı 06.10.2024 DEMO
+/ R Uhr Antonplatz",0.0,| [SCHAUT NICHT WEGT] | A W 1 M ı 06.10.2024 DEMO / R Uhr Antonplatz,0.0,0.296969696969697,0.2787878787878788,0.0,0.0,0.703030303030303,0.8571428571428571,0.7212121212121212,0.8571428571428571

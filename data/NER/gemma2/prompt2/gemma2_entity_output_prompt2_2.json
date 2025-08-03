@@ -1,0 +1,2252 @@
+[
+  {
+    "file_name": "0001.jpg",
+    "entities": {
+      "Ort": "Zentrum 19",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0002.jpg",
+    "entities": {
+      "Ort": "Großer Garten",
+      "Datum": "8.8.2021",
+      "Zeit": "16 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit Allen!"
+    }
+  },
+  {
+    "file_name": "0003.jpg",
+    "entities": {
+      "Ort": "Mahnmal Levetzowstraße, Berlin-Moabit 9",
+      "Datum": "9. November",
+      "Zeit": "18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit den Opfern des deutschen Antisemitismus und Rassismus!"
+    }
+  },
+  {
+    "file_name": "0004.jpg",
+    "entities": {
+      "Ort": "Islandstraße 25",
+      "Datum": "21. JUNI 2023",
+      "Zeit": "17.00 Uhr",
+      "Kategorie": "Feier",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0006.jpg",
+    "entities": {
+      "Ort": "Campus",
+      "Datum": "9. Juli 2022",
+      "Zeit": "15:00 Uhr",
+      "Kategorie": "Demonstration",
+      "Thema": "Gedenken an die Opfer von Krieg und Gewalt"
+    }
+  },
+  {
+    "file_name": "0007.jpg",
+    "entities": {
+      "Ort": "Seite Sonntagstraße",
+      "Datum": "9. Mai 2024",
+      "Zeit": "13h",
+      "Kategorie": "Demo",
+      "Thema": "Herrentag Tag der Befreiung!"
+    }
+  },
+  {
+    "file_name": "0009.jpg",
+    "entities": {
+      "Ort": "Burggasse 71, 1070 Wien",
+      "Datum": "10. Mai 2022",
+      "Zeit": "19:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0010.jpg",
+    "entities": {
+      "Ort": "REWE BLIESKASTEL",
+      "Datum": "02.05.2020",
+      "Zeit": "15:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0011.jpg",
+    "entities": {
+      "Ort": "Riesa PROTEST GEGEN DEN AFD- BUNDESPARTEITAG STOPPT DIE AfD Aufstehen-gegen-Rassismus.de",
+      "Datum": "11. Januar 2025",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0012.jpg",
+    "entities": {
+      "Ort": "Berlin",
+      "Datum": "29. August 2020",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit dem Grundgesetz und einer Basis-Demokratischen Wende"
+    }
+  },
+  {
+    "file_name": "0013.jpg",
+    "entities": {
+      "Ort": [
+        "ORT: ORANIENPLATZ"
+      ],
+      "Datum": [
+        "19. FEB – 14 UHR"
+      ],
+      "Zeit": [
+        "19 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit..."
+      ]
+    }
+  },
+  {
+    "file_name": "0014.jpg",
+    "entities": {
+      "Ort": "MBI NYP",
+      "Datum": "21.07.",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0015.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0016.jpg",
+    "entities": {
+      "Ort": "Mietzstraße 14",
+      "Datum": "16.11.2024",
+      "Zeit": "11 bis 13 Uhr",
+      "Kategorie": "Workshop",
+      "Thema": "Do it Yourself Bau dein eigenen PC und Smartphone Wo?"
+    }
+  },
+  {
+    "file_name": "0017.jpg",
+    "entities": {
+      "Ort": "KAMPFEN",
+      "Datum": "08.05.2021",
+      "Zeit": "10:00–18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Gedenken an das Faschismus"
+    }
+  },
+  {
+    "file_name": "0018.jpeg",
+    "entities": {
+      "Ort": [
+        "KÖNIGSPLATZ KASSEL"
+      ],
+      "Datum": [
+        "29. JANUAR 2022"
+      ],
+      "Zeit": [
+        "14.00 UHR"
+      ],
+      "Kategorie": [
+        "Kundgebung & Aufgung"
+      ],
+      "Thema": [
+        "Nein zur Impfpflicht"
+      ]
+    }
+  },
+  {
+    "file_name": "0019.jpg",
+    "entities": {
+      "Ort": "BRENNER-BERG",
+      "Datum": "12.12.",
+      "Zeit": "15:50 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0020.jpg",
+    "entities": {
+      "Ort": [
+        "SCHÜLER-INNEN GEGEN DIE MASKENPFLICHT"
+      ],
+      "Datum": [
+        "06.09.2020"
+      ],
+      "Zeit": [
+        "15:30 Uhr"
+      ],
+      "Kategorie": "Demonstration",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0022.jpg",
+    "entities": {
+      "Ort": [
+        "Berlin"
+      ],
+      "Datum": [
+        "13.08.2022"
+      ],
+      "Zeit": [
+        "14.00 Uhr"
+      ],
+      "Kategorie": [
+        "Demo"
+      ],
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0023.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0024.jpg",
+    "entities": {
+      "Ort": [
+        "Marktplatz Macht",
+        "One Billion Rising Hanau"
+      ],
+      "Datum": "16.02.2017",
+      "Zeit": "18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit Frauen"
+    }
+  },
+  {
+    "file_name": "0025.jpg",
+    "entities": {
+      "Ort": "Hauptbahnhof SWICKAU",
+      "Datum": "17.08.",
+      "Zeit": "13:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0026.jpg",
+    "entities": {
+      "Ort": "Berlin",
+      "Datum": "21. Juli 2024",
+      "Zeit": "13:00 – 22:00 Uhr",
+      "Kategorie": "EINTRITT FREI!",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0027.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0028.jpg",
+    "entities": {
+      "Ort": "Dresden",
+      "Datum": "20.6.",
+      "Zeit": "16.30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0029.jpg",
+    "entities": {
+      "Ort": [
+        "Laskerstraße 5"
+      ],
+      "Datum": [
+        "21.12.",
+        "9. November"
+      ],
+      "Zeit": [
+        "19 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": "Für Erhalt und langfristige Sicherung von kulturellen Zwischenräumen – für das Ostkreuz und ganz Berlin"
+    }
+  },
+  {
+    "file_name": "0030.jpg",
+    "entities": {
+      "Ort": "Dresden",
+      "Datum": "13.06.",
+      "Zeit": "16.30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0031.jpg",
+    "entities": {
+      "Ort": "FAHRRAD-DEMO",
+      "Datum": "14.10.2021",
+      "Zeit": "18 Uhr",
+      "Kategorie": "Demo",
+      "Thema": "TECHNOPUNK GEGEN UNHALTBARE ZUSTÄNDE"
+    }
+  },
+  {
+    "file_name": "0032.jpg",
+    "entities": {
+      "Ort": [
+        "Adresse nicht angegeben",
+        "Adresse nicht angegeben"
+      ],
+      "Datum": [
+        "21.12.",
+        "21.12."
+      ],
+      "Zeit": [
+        "19 Uhr",
+        "19 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit Menschen mit Behinderung"
+      ]
+    }
+  },
+  {
+    "file_name": "0035.jpg",
+    "entities": {
+      "Ort": "N/A",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0036.jpg",
+    "entities": {
+      "Ort": "03 431 - 611 367",
+      "Datum": "21.12.",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0037.jpeg",
+    "entities": {
+      "Ort": "U-BHF TÜRMSTR",
+      "Datum": "18. MÄRZ",
+      "Zeit": "19 UHR",
+      "Kategorie": "Demo",
+      "Thema": "FREENANUK"
+    }
+  },
+  {
+    "file_name": "0039.jpeg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 7 column 1 (char 137)"
+  },
+  {
+    "file_name": "0040.jpeg",
+    "entities": {
+      "Ort": [
+        "Mühlstrasse 14 e.V.",
+        "Leipzig AMNESTY INTERNATIONAL"
+      ],
+      "Datum": "1. März 2025",
+      "Zeit": "12 - 0 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0041.jpg",
+    "entities": {
+      "Ort": [
+        "Podium"
+      ],
+      "Datum": "25. Nov.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0043.jpg",
+    "entities": {
+      "Ort": "STABIL BLEIBEN UND MASSENHAFT WIDERSETZEN!",
+      "Datum": "11. JANUAR 2025",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0044.jpg",
+    "entities": {
+      "Ort": "Willy-Brandt-Platz UNSERE DEMOKRATIE IST INFIZIERT!",
+      "Datum": "21.12.",
+      "Zeit": "14:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0045.jpeg",
+    "entities": {
+      "Ort": [
+        "Kassen"
+      ],
+      "Datum": [
+        "21.12.",
+        "9. November",
+        "8.8.2021"
+      ],
+      "Zeit": [
+        "19 Uhr",
+        "18:00 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0046.jpeg",
+    "entities": {
+      "Ort": "AB 20 UHR PROJEKTRAUM HERMANNSTRABE 48 LINE UP DJ KETCHUP (SPICY BASS / BREAKBEAT) DJ TDIPPZ (HAPPY HARDCORE) + KOSTÜMWETTBEWERB + PARTYSPIELE *VERKLEIDUNG ERWÜNSCHT",
+      "Datum": "01. März 2025",
+      "Zeit": "20 Uhr",
+      "Kategorie": "Feier",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0047.jpg",
+    "entities": {
+      "Ort": "Berlin",
+      "Datum": "28.09.2024",
+      "Zeit": "18:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0049.jpg",
+    "entities": {
+      "Ort": "Killer Kirsche",
+      "Datum": "31.12.2024",
+      "Zeit": "20:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0050.jpg",
+    "entities": {
+      "Ort": [
+        "Friedensengel",
+        "Münchner Freiheit"
+      ],
+      "Datum": "15. August",
+      "Zeit": "17:30",
+      "Kategorie": "Kundgebung",
+      "Thema": "LEBENSFREUDE"
+    }
+  },
+  {
+    "file_name": "0051.jpg",
+    "entities": {
+      "Ort": "UNKNOWN",
+      "Datum": "29.12.2023",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0052.jpeg",
+    "entities": {
+      "Ort": "KPAMPF LADEHEMMUNG",
+      "Datum": "01.03.2025",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0054.jpg",
+    "entities": {
+      "Ort": "MAGISCHES FÜRSTENFELD 5. + 6. Januar 2025",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0055.jpg",
+    "entities": {
+      "Ort": "N/A",
+      "Datum": "23.07.2025",
+      "Zeit": "23–7 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0057.jpg",
+    "entities": null,
+    "error": "Invalid control character at: line 2 column 321 (char 322)"
+  },
+  {
+    "file_name": "0059.jpg",
+    "entities": {
+      "Ort": "KUFA Moabit FLINTA* STAND UP COMEDY Berlin",
+      "Datum": "21.03.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kennen",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0060.jpg",
+    "entities": {
+      "Ort": "Bramfeld",
+      "Datum": "20.12.",
+      "Zeit": "20:12 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0061.jpg",
+    "entities": {
+      "Ort": "Schloss Bellevue GRAFIK: LASERURCH.DE",
+      "Datum": "01.10.2020",
+      "Zeit": "10:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit.."
+    }
+  },
+  {
+    "file_name": "0062.jpg",
+    "entities": {
+      "Ort": "Leseklubs Stiftung Lesen GYMNASIUM MEIENDORF",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0063.jpg",
+    "entities": {
+      "Ort": "Stephansplatz @systemchange.not.climatechange",
+      "Datum": "17.03.",
+      "Zeit": "17:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit der Gasindustrie"
+    }
+  },
+  {
+    "file_name": "0064.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0066.jpg",
+    "entities": {
+      "Ort": "HocusPocus Fürstenfeld",
+      "Datum": "11. – 15. Mai 2022",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0067.jpeg",
+    "entities": {
+      "Ort": [
+        "Stadtteilkomitee_lichtenberg",
+        "Westlingstr. 97"
+      ],
+      "Datum": [
+        "15.03.2025"
+      ],
+      "Zeit": [
+        "15 Uhr"
+      ],
+      "Kategorie": [
+        "Veranstaltungsart"
+      ],
+      "Thema": [
+        "Solidarität mit"
+      ]
+    }
+  },
+  {
+    "file_name": "0071.jpg",
+    "entities": {
+      "Ort": "Brandenburger Tor",
+      "Datum": "29. August 2020",
+      "Zeit": "11:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Querdenken"
+    }
+  },
+  {
+    "file_name": "0072.jpg",
+    "entities": {
+      "Ort": [
+        "Ried",
+        "Aachen"
+      ],
+      "Datum": "14.02.2024",
+      "Zeit": "16:30",
+      "Kategorie": "Kundgebung",
+      "Thema": "ZUSAMMENHALTEN GEGEN RECHTS"
+    }
+  },
+  {
+    "file_name": "0073.jpeg",
+    "entities": {
+      "Ort": "Rigaer Straße 94",
+      "Datum": "02.03.",
+      "Zeit": "12:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0074.jpg",
+    "entities": {
+      "Ort": "NochMall, Berlin-Reinickendorf Komm",
+      "Datum": "16. November 2024",
+      "Zeit": "13:00–18:00 Uhr",
+      "Kategorie": null,
+      "Thema": "ZERO WASTE FUTURE FESTIVAL Null Verschwendung"
+    }
+  },
+  {
+    "file_name": "0075.jpg",
+    "entities": {
+      "Ort": [
+        "About Blank - S-Bahn Ostkreuz"
+      ],
+      "Datum": [
+        "26. April",
+        "9. November"
+      ],
+      "Zeit": [
+        "14:00 - 19:30"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit Kinder"
+      ]
+    }
+  },
+  {
+    "file_name": "0078.png",
+    "entities": {
+      "Ort": [
+        "Robert Johnson Running Back Riotvan"
+      ],
+      "Datum": "26.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit Solidarität"
+    }
+  },
+  {
+    "file_name": "0080.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0081.jpg",
+    "entities": {
+      "Ort": [
+        "Kinderdisco Musik + Tanz DJ-Workshop Pizza + Würstchen Baustellenstelle Kinderwagenparkplatz + Wickelstation Kreativ-Mobil Kaffee + Kuchen Mal- und Spray-Workshop Kinderschminken Fr 21·04·23 14–19 Uhr ://about blank markgrafendamm 24c, 10245 berlin am s-bhf ostkreuz"
+      ],
+      "Datum": [
+        "21.12."
+      ],
+      "Zeit": [
+        "19 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit"
+      ]
+    }
+  },
+  {
+    "file_name": "0082.jpg",
+    "entities": {
+      "Ort": " Platz ohne Namen Falckensteinst",
+      "Datum": "24.02.",
+      "Zeit": "14:00",
+      "Kategorie": "Demonstration",
+      "Thema": "Der Görli bleibt auf!"
+    }
+  },
+  {
+    "file_name": "0086.jpg",
+    "entities": {
+      "Ort": "Stiftsplatz",
+      "Datum": "08.08.",
+      "Zeit": "16-18 Uhr SAMSTAG",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0089.jpeg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0090.jpeg",
+    "entities": {
+      "Ort": [
+        "World Freedom Day"
+      ],
+      "Datum": [
+        "20.11.2021"
+      ],
+      "Zeit": [
+        "12:00 Uhr"
+      ],
+      "Kategorie": [
+        "Veranstaltung"
+      ],
+      "Thema": [
+        "Welt Freiheit Tag"
+      ]
+    }
+  },
+  {
+    "file_name": "0091.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 7 column 1 (char 160)"
+  },
+  {
+    "file_name": "0093.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 5 column 394 (char 546)"
+  },
+  {
+    "file_name": "0094.jpg",
+    "entities": {
+      "Ort": "Mariannenplatz",
+      "Datum": "26.04.2020",
+      "Zeit": "12:00 - 19:00",
+      "Kategorie": "Trauerfeier",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0095.jpg",
+    "entities": {
+      "Ort": [
+        "Bohemian Strawberry 🍓 & AmSTARt",
+        "N/A",
+        "N/A"
+      ],
+      "Datum": [
+        "21.12.",
+        "N/A",
+        "N/A"
+      ],
+      "Zeit": [
+        "19 Uhr",
+        "N/A",
+        "N/A"
+      ],
+      "Kategorie": [
+        "Songbook Releaseparty",
+        "N/A",
+        "N/A"
+      ],
+      "Thema": [
+        "Solidarität mit...",
+        "Gedenken an...",
+        "für Frieden"
+      ]
+    }
+  },
+  {
+    "file_name": "0096.jpg",
+    "entities": {
+      "Ort": "Rosa-Luxemburg-Platz",
+      "Datum": "25. April",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "René"
+    }
+  },
+  {
+    "file_name": "0097.jpg",
+    "entities": {
+      "Ort": null,
+      "Datum": "21.12.",
+      "Zeit": "20 Uhr",
+      "Kategorie": null,
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0098.jpg",
+    "entities": {
+      "Ort": [
+        "STAT. NATION. KAPITAL. SCHEISSE. TOP BERLIN. TOP-BERLIN.NET"
+      ],
+      "Datum": "2. Oktober 2023",
+      "Zeit": "18:00 Uhr",
+      "Kategorie": null,
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0099.jpg",
+    "entities": {
+      "Ort": "Volksbuhne Wann",
+      "Datum": "29.09.",
+      "Zeit": "21 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0100.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0101.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0103.jpg",
+    "entities": {
+      "Ort": "Mariannenplatz Der Rückzug ins Digitale",
+      "Datum": "17.05.2020",
+      "Zeit": "14–18 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Mariannenplatz Der Rückzug ins Digitale"
+    }
+  },
+  {
+    "file_name": "0104.jpg",
+    "entities": {
+      "Ort": "Kiezklub Rathaus Johannisthal",
+      "Datum": "14.10.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Draußen",
+      "Thema": "Glühwein und Gegrilltes Feuertonne und Stockbrot weihnachtliche Livemusik"
+    }
+  },
+  {
+    "file_name": "0106.jpg",
+    "entities": {
+      "Ort": [
+        "Rosa-Luxemburg-Platz"
+      ],
+      "Datum": [
+        "21.12.",
+        "Dienstag",
+        "9. November",
+        "8.8.2021"
+      ],
+      "Zeit": [
+        "19 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0108.jpg",
+    "entities": {
+      "Ort": "Rosa- Luxemburg- Platz",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0110.jpg",
+    "entities": {
+      "Ort": "A100 WEGBASSEN",
+      "Datum": "2.9.",
+      "Zeit": "14°°–22°°",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0111.jpg",
+    "entities": {
+      "Ort": [
+        "Podium"
+      ],
+      "Datum": [
+        "25. Nov.",
+        "9. November",
+        "8.8.2021"
+      ],
+      "Zeit": [
+        "19 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0112.jpg",
+    "entities": {
+      "Ort": "Berlin",
+      "Datum": "20.09.19",
+      "Zeit": "15:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Rave auf dem Floor"
+    }
+  },
+  {
+    "file_name": "0113.jpg",
+    "entities": {
+      "Ort": "Berlin",
+      "Datum": "09. MAI 2021",
+      "Zeit": "17:30",
+      "Kategorie": "Demonstration",
+      "Thema": "Solidarität mit dem Menschen"
+    }
+  },
+  {
+    "file_name": "0114.jpg",
+    "entities": {
+      "Ort": [
+        "KOCHENTurm Berlin",
+        null
+      ],
+      "Datum": "15.07.23",
+      "Zeit": [
+        "15:07 Uhr",
+        null
+      ],
+      "Kategorie": null,
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0115.jpg",
+    "entities": {
+      "Ort": "N/A",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit dem Klima der Angst"
+    }
+  },
+  {
+    "file_name": "0116.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0117.jpg",
+    "entities": {
+      "Ort": [
+        ""
+      ],
+      "Datum": [
+        "01. Juni 2024"
+      ],
+      "Zeit": [
+        "14:00 Uhr"
+      ],
+      "Kategorie": [
+        "#Mietenwahnsinn"
+      ],
+      "Thema": [
+        "Bündnis gegen Verdrängung"
+      ]
+    }
+  },
+  {
+    "file_name": "0118.jpeg",
+    "entities": {
+      "Ort": "Rote Lilly, Emser Str. 114, Neukölln",
+      "Datum": "19.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit Menschen aus Rassismus und Migration"
+    }
+  },
+  {
+    "file_name": "0119.jpeg",
+    "entities": {
+      "Ort": [
+        "HÄnde Weg von Unserem Land! Palästina",
+        "Berlin"
+      ],
+      "Datum": [
+        "01.03."
+      ],
+      "Zeit": [
+        "13 Uhr"
+      ],
+      "Kategorie": [
+        "Veranstaltung",
+        "Demonstration"
+      ],
+      "Thema": [
+        "Palästina Samstag"
+      ]
+    }
+  },
+  {
+    "file_name": "0120.jpg",
+    "entities": {
+      "Ort": [
+        "STADTHALLE LEONBERG"
+      ],
+      "Datum": [
+        "22.01."
+      ],
+      "Zeit": [
+        "19 Uhr"
+      ],
+      "Kategorie": [
+        "EINLASS"
+      ],
+      "Thema": [
+        "Wahlkampf"
+      ]
+    }
+  },
+  {
+    "file_name": "0121.jpg",
+    "entities": {
+      "Ort": "Auguste-Viktoria-Allee 99",
+      "Datum": "05.12.2024",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0122.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0123.jpg",
+    "entities": {
+      "Ort": "Platz der Menschenrechte, Wien 15 bis 17 Uhr",
+      "Datum": "25.03.2022",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit der Ukraine"
+    }
+  },
+  {
+    "file_name": "0124.jpg",
+    "entities": {
+      "Ort": "Berlin",
+      "Datum": "21.12.2024",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0127.jpeg",
+    "entities": {
+      "Ort": "Maggie",
+      "Datum": "04. März",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": "Solidarität mit",
+      "Thema": "Unser Verständnis vom Patriarchat und unser Umgang damit Diskussion und gemeinsames Essen"
+    }
+  },
+  {
+    "file_name": "0128.jpg",
+    "entities": {
+      "Ort": [
+        "Stadtumdrehen"
+      ],
+      "Datum": [
+        "25.09. - 27.09.2024"
+      ],
+      "Zeit": [
+        "19 Uhr"
+      ],
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0129.jpg",
+    "entities": {
+      "Ort": [
+        "Rosa-Luxemburg-Platz 13.11."
+      ],
+      "Datum": "18.03.",
+      "Zeit": "10:00",
+      "Kategorie": "Demo",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0130.jpg",
+    "entities": {
+      "Ort": "NochMall 19. Oktober 2024",
+      "Datum": "21.12.",
+      "Zeit": "14–18 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0131.jpeg",
+    "entities": {
+      "Ort": [
+        "ECKE TAUENTZIENSTR.",
+        "MARBURGER STR."
+      ],
+      "Datum": [
+        "05.03.2025"
+      ],
+      "Zeit": [
+        "12:00 Uhr"
+      ],
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0132.jpg",
+    "entities": {
+      "Ort": "Sea-Watch",
+      "Datum": "23.02.",
+      "Zeit": "18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "SOS Anfahnung"
+    }
+  },
+  {
+    "file_name": "0133.jpg",
+    "entities": {
+      "Ort": [
+        "MARBURG"
+      ],
+      "Datum": [
+        "05.09.2020"
+      ],
+      "Zeit": [
+        "14:30"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Dr. Weber"
+      ]
+    }
+  },
+  {
+    "file_name": "0134.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0135.jpg",
+    "entities": {
+      "Ort": "S+U Schönhauser Allee Wann",
+      "Datum": "08.03.2025",
+      "Zeit": "13:00 Uhr",
+      "Kategorie": "Feminismus",
+      "Thema": "FEMINISM UNLIMITED"
+    }
+  },
+  {
+    "file_name": "0136.jpg",
+    "entities": {
+      "Ort": "Uhlandstraße 51",
+      "Datum": "27.02.",
+      "Zeit": "18:15 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0137.jpg",
+    "entities": {
+      "Ort": [
+        "Muthsamgasse"
+      ],
+      "Datum": [
+        "09. Juli 2022"
+      ],
+      "Zeit": [
+        "18.30"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit dem Menschen"
+      ]
+    }
+  },
+  {
+    "file_name": "0139.jpg",
+    "entities": {
+      "Ort": [
+        "Zentrum Kreuzberg"
+      ],
+      "Datum": [
+        "15.02."
+      ],
+      "Zeit": [
+        "9:00"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": "Soziale Lösung für soziale Probleme"
+    }
+  },
+  {
+    "file_name": "0140.jpg",
+    "entities": {
+      "Ort": "Schöneweide Wer",
+      "Datum": "03.02.2024",
+      "Zeit": "11–13.30 Uhr",
+      "Kategorie": "WORKSHOP Motion-Capture HTW",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0142.jpeg",
+    "entities": {
+      "Ort": [
+        "Stahnsdorf"
+      ],
+      "Datum": [
+        "14.03.2025"
+      ],
+      "Zeit": [
+        "17:30"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit den Betroffenen"
+      ]
+    }
+  },
+  {
+    "file_name": "0143.jpg",
+    "entities": {
+      "Ort": "Ostkreuz",
+      "Datum": "14.07.",
+      "Zeit": "14:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit den Helden von Ostkreuz"
+    }
+  },
+  {
+    "file_name": "0145.jpg",
+    "entities": {
+      "Ort": "A100 WEGBASSEN!",
+      "Datum": "06.10.2023",
+      "Zeit": "20:00 - 10:00",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0146.jpg",
+    "entities": {
+      "Ort": "THEMENTAG",
+      "Datum": "15.12.24",
+      "Zeit": "11:30– 19:30 Uhr",
+      "Kategorie": "Antisemitismus",
+      "Thema": "Reflexionen ein Jahr nach dem 7. Okt. BILDUNG IN WIDERSPRUCH"
+    }
+  },
+  {
+    "file_name": "0147.jpeg",
+    "entities": {
+      "Ort": "Kottbusser Straße 4/5",
+      "Datum": "01.03.",
+      "Zeit": "18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Rassismus, Abschiebung und Gewalt - Wehren wir uns!"
+    }
+  },
+  {
+    "file_name": "0148.jpg",
+    "entities": {
+      "Ort": "N/A",
+      "Datum": "1. September 2023",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Antimüllismus und Antisemitismus"
+    }
+  },
+  {
+    "file_name": "0149.jpg",
+    "entities": {
+      "Ort": [
+        "KÖNIGSPLATZ - MÜNCHEN Prof. Dr. Christoph Hueck Biochemiker"
+      ],
+      "Datum": [
+        "11.7.2020"
+      ],
+      "Zeit": [
+        "10 - 12 Uhr"
+      ],
+      "Kategorie": [
+        "Demonstration"
+      ],
+      "Thema": "FREIHEIT GRUNDRECHTE SELBSTBESTIMMUNG ZUR FREIHEIT SAMSTAG 11.7.2020"
+    }
+  },
+  {
+    "file_name": "0151.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0152.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0153.jpg",
+    "entities": {
+      "Ort": [
+        "Albertinaplatz"
+      ],
+      "Datum": [
+        "12.03.1938",
+        "12.03.2025"
+      ],
+      "Zeit": [
+        "18:30"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": "solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0154.jpeg",
+    "entities": {
+      "Ort": "LEIPZIG",
+      "Datum": "21.01.25",
+      "Zeit": "20:00",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0155.jpg",
+    "entities": {
+      "Ort": [
+        "FIRST SLAYSTANS SOLI PARTY",
+        "63A"
+      ],
+      "Datum": [
+        "16/02",
+        "9. November"
+      ],
+      "Zeit": [
+        "8PM"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit Menschen in Not"
+      ]
+    }
+  },
+  {
+    "file_name": "0156.jpeg",
+    "entities": {
+      "Ort": "Zielona Gora, Grünbergerstr. 73",
+      "Datum": "10–18 UHR",
+      "Zeit": "1. MÄRZ",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0157.jpg",
+    "entities": {
+      "Ort": "Berlin",
+      "Datum": "15. Dezember",
+      "Zeit": "15:00",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0158.jpg",
+    "entities": {
+      "Ort": "Oranienplatz",
+      "Datum": "21.12.",
+      "Zeit": "17:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0160.jpg",
+    "entities": {
+      "Ort": "Bündestagswahl - SchlUSSRunde",
+      "Datum": "22.12.",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0161.jpg",
+    "entities": {
+      "Ort": "Brandenburger Tor 3",
+      "Datum": "22.02.25",
+      "Zeit": "16 : 00",
+      "Kategorie": "Kundgebung",
+      "Thema": "Ukraine Freiheit Demokratie NEIN Putin AfD"
+    }
+  },
+  {
+    "file_name": "0162.jpeg",
+    "entities": {
+      "Ort": "Lottumstr. 10a, Prenzlauer Berg",
+      "Datum": "14.03.2025",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": null,
+      "Thema": "Solidarität mit dem feministischen Kampftag Web"
+    }
+  },
+  {
+    "file_name": "0163.jpg",
+    "entities": {
+      "Ort": "Berlin",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0164.jpg",
+    "entities": {
+      "Ort": [
+        "Graz Hauptbahnhof"
+      ],
+      "Datum": "03.02",
+      "Zeit": "15:00",
+      "Kategorie": "Demonstration",
+      "Thema": "Solidarität mit Menschenrecht und Demokratie"
+    }
+  },
+  {
+    "file_name": "0165.jpg",
+    "entities": {
+      "Ort": "Strausberg Am Strand",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0166.jpg",
+    "entities": {
+      "Ort": "Clubcommission Office, Brückenstraße 1, 10179 Berlin",
+      "Datum": "12.03.25",
+      "Zeit": "16-19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0167.jpg",
+    "entities": {
+      "Ort": "KulTour Flutopfer-Stiftung",
+      "Datum": "08.07.2023",
+      "Zeit": "14.00 – 17.00",
+      "Kategorie": "Kinder",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0169.jpeg",
+    "entities": {
+      "Ort": "N/A",
+      "Datum": "8. März",
+      "Zeit": "17:00",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0170.jpeg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 7 column 1 (char 168)"
+  },
+  {
+    "file_name": "0171.jpg",
+    "entities": {
+      "Ort": null,
+      "Datum": "21.12.",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": null,
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0172.jpg",
+    "entities": {
+      "Ort": "Stärke",
+      "Datum": "17.09.",
+      "Zeit": "16:16.",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit... Frauen"
+    }
+  },
+  {
+    "file_name": "0173.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0176.jpg",
+    "entities": {
+      "Ort": "Michael-Brückner-Str. 9, Schöneweide Bring",
+      "Datum": "30.11.2024",
+      "Zeit": "11–13 Uhr",
+      "Kategorie": "CODING",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0177.jpg",
+    "entities": {
+      "Ort": "Templin",
+      "Datum": "07.09.",
+      "Zeit": "14:00 Uhr",
+      "Kategorie": "Demo",
+      "Thema": "Solidarität mit dem Menschen"
+    }
+  },
+  {
+    "file_name": "0178.jpg",
+    "entities": {
+      "Ort": "Stadtsaal Fürstenfeldbruck",
+      "Datum": "16.07.24",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Dance First Tanzfestival",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0179.jpg",
+    "entities": {
+      "Ort": [
+        "Recht- extremismus stoppen In Europa & vor Ort DEMOS im ganzen Land"
+      ],
+      "Datum": [
+        "23.5. bis 8.6.24"
+      ],
+      "Zeit": [
+        "19 Uhr",
+        "18:00 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit"
+      ]
+    }
+  },
+  {
+    "file_name": "0180.jpg",
+    "entities": {
+      "Ort": "blank Markgrafendamm 24c",
+      "Datum": "21.12.",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": "Vortrags & Diskussion",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0181.jpg",
+    "entities": {
+      "Ort": [
+        "RAHLSTEDT",
+        "RAHLSTEDT"
+      ],
+      "Datum": [
+        "28.08.",
+        "18.10."
+      ],
+      "Zeit": [
+        "18:00 Uhr",
+        "19 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0182.jpg",
+    "entities": {
+      "Ort": "Rostock-Lichtenhagen",
+      "Datum": "27.08.2022",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Gedenken an den Pogrom von 1945 in Rostock-Lichtenhagen"
+    }
+  },
+  {
+    "file_name": "0183.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 3 column 3 (char 110)"
+  },
+  {
+    "file_name": "0185.jpg",
+    "entities": {
+      "Ort": "Fürstenfeldbruck",
+      "Datum": "10.08.24",
+      "Zeit": "10:00 Uhr - 18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0186.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 7 column 1 (char 173)"
+  },
+  {
+    "file_name": "0187.jpg",
+    "entities": {
+      "Ort": "Breitenbachplatz",
+      "Datum": "2.6.24",
+      "Zeit": "16 - 20 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0190.jpg",
+    "entities": {
+      "Ort": "10245 Berlin",
+      "Datum": "20.11.2022",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit Menschen mit Behinderung und Spina bifida"
+    }
+  },
+  {
+    "file_name": "0191.jpg",
+    "entities": {
+      "Ort": "Oranjeplatz",
+      "Datum": "18.02.",
+      "Zeit": "18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit dem Menschen!"
+    }
+  },
+  {
+    "file_name": "0193.jpg",
+    "entities": {
+      "Ort": "M, Kreuzberg",
+      "Datum": "01.01.",
+      "Zeit": "21:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0194.jpg",
+    "entities": {
+      "Ort": "S TREPTOWER PARK",
+      "Datum": "17.05.2025",
+      "Zeit": "17:00 Uhr",
+      "Kategorie": "Protest",
+      "Thema": "Kinder und Erwachsene"
+    }
+  },
+  {
+    "file_name": "0195.jpg",
+    "entities": {
+      "Ort": "26.10 Schleidenplatz 16:30 Uhr",
+      "Datum": "26.10",
+      "Zeit": "16:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit dem Menschen"
+    }
+  },
+  {
+    "file_name": "0196.jpg",
+    "entities": {
+      "Ort": [
+        "Friedrichstraße (Southseite)"
+      ],
+      "Datum": "26.4 WHOSE STREETS?",
+      "Zeit": [
+        "12:15",
+        "13:00"
+      ],
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0197.jpg",
+    "entities": {
+      "Ort": [
+        "Vortreffspoint Demo",
+        "S Lichtenberg"
+      ],
+      "Datum": "22.02.25",
+      "Zeit": "12:30",
+      "Kategorie": "Demo",
+      "Thema": "S Lichtenberg"
+    }
+  },
+  {
+    "file_name": "0198.jpg",
+    "entities": {
+      "Ort": [
+        "Zentrum antifaschistisch · queerfeministisch · klimagerecht antirassistisch · klassenkämpferisch"
+      ],
+      "Datum": [
+        "23.02."
+      ],
+      "Zeit": [
+        "15:30 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": "Fight AfD! SONNTAG"
+    }
+  },
+  {
+    "file_name": "0199.jpg",
+    "entities": {
+      "Ort": "SCHIFFBAUERDAMM 1 AB",
+      "Datum": "22.02.25",
+      "Zeit": "11:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0200.jpg",
+    "entities": {
+      "Ort": "PREROWER PLATZ NEU",
+      "Datum": "22.02.2025",
+      "Zeit": "13:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0201.jpg",
+    "entities": {
+      "Ort": [
+        "Brandmauer"
+      ],
+      "Datum": [
+        "09.02.",
+        "Dienstag",
+        "09.02.",
+        "22.02"
+      ],
+      "Zeit": [
+        "19 Uhr",
+        "18:00 Uhr",
+        "18:00 Uhr",
+        "20:00 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit"
+      ]
+    }
+  },
+  {
+    "file_name": "0202.jpg",
+    "entities": {
+      "Ort": [
+        "Friedrichshain Markgrafendamm 24c & 25 Neuwahlen"
+      ],
+      "Datum": "14.12.",
+      "Zeit": "12.30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Gegen Faschismus, Queer- und Frauen- Feindlichkeit!"
+    }
+  },
+  {
+    "file_name": "0203.jpg",
+    "entities": {
+      "Ort": "S+U Bfh Warschauerstr. 29.11",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "FOR SALE",
+      "Thema": "Tower to the People"
+    }
+  },
+  {
+    "file_name": "0204.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0205.jpg",
+    "entities": null,
+    "error": "Expecting ',' delimiter: line 7 column 1 (char 145)"
+  },
+  {
+    "file_name": "0206.jpg",
+    "entities": {
+      "Ort": "Berlin Alt-Blankenburg 12 Nähe S-Bhf. Blankenburg",
+      "Datum": "17.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0207.jpg",
+    "entities": {
+      "Ort": "Marktplatz Gegenkundgebung",
+      "Datum": "16. August",
+      "Zeit": "15:30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0208.jpg",
+    "entities": {
+      "Ort": "Falkensee Bahnhof",
+      "Datum": "13.7.24",
+      "Zeit": "14:05 Uhr",
+      "Kategorie": "Demo",
+      "Thema": "Gedenken an das Leben von Alfred Siebert"
+    }
+  },
+  {
+    "file_name": "0209.jpg",
+    "entities": {
+      "Ort": "Essen",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Demonstration",
+      "Thema": "Rave-Demo & großes Aktionsplenum"
+    }
+  },
+  {
+    "file_name": "0210.jpg",
+    "entities": {
+      "Ort": "STRALAUER PLATZ (OSTBAHNHOF)",
+      "Datum": "08.03.2024",
+      "Zeit": "14:00–20:00",
+      "Kategorie": "Demonstration",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0211.jpg",
+    "entities": {
+      "Ort": "ZUSAMMEN GEGEN RECHTS",
+      "Datum": "21.01.24",
+      "Zeit": "16:00",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0212.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0213.jpg",
+    "entities": null,
+    "error": "Expecting value: line 4 column 24 (char 82)"
+  },
+  {
+    "file_name": "0214.jpg",
+    "entities": {
+      "Ort": [
+        "Theodora-Heuss-Platz CA"
+      ],
+      "Datum": [
+        "15.07.23"
+      ],
+      "Zeit": [
+        "15:00 Uhr",
+        "16:00 Uhr"
+      ],
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit dem Menschen"
+    }
+  },
+  {
+    "file_name": "0215.jpg",
+    "entities": {
+      "Ort": "MAUERPARK SAMSTAG",
+      "Datum": "3.6.",
+      "Zeit": "16.30 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0216.jpg",
+    "entities": {
+      "Ort": [
+        "Müllerstraße 146"
+      ],
+      "Datum": "08.04.2023",
+      "Zeit": "13 Uhr",
+      "Kategorie": null,
+      "Thema": "Solidarität mit der Arbeiterin"
+    }
+  },
+  {
+    "file_name": "0217.jpg",
+    "entities": {
+      "Ort": [
+        "Tiergarten ggü. US-Botschaft, Ecke Platz des 18. März"
+      ],
+      "Datum": "25.02.",
+      "Zeit": "14 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit der Ukraine"
+    }
+  },
+  {
+    "file_name": "0218.jpg",
+    "entities": {
+      "Ort": "Max-Schmeling-Halle",
+      "Datum": "09.01.2023",
+      "Zeit": "18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0219.jpg",
+    "entities": {
+      "Ort": [
+        "StraßenFFFest"
+      ],
+      "Datum": [
+        "3.9.22"
+      ],
+      "Zeit": [
+        "14:30"
+      ],
+      "Kategorie": [
+        "Laufdemo"
+      ],
+      "Thema": [
+        "Leopoldplatz"
+      ]
+    }
+  },
+  {
+    "file_name": "0220.jpg",
+    "entities": {
+      "Ort": "MAUERPARK 06.08 SAMSTAG",
+      "Datum": "21.12.",
+      "Zeit": "14 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0221.jpg",
+    "entities": {
+      "Ort": "Antonplatz",
+      "Datum": "25.06.22",
+      "Zeit": "12³⁰ UHR",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0222.jpg",
+    "entities": {
+      "Ort": "Die Linke Wedding",
+      "Datum": "13.05.2021",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0223.jpg",
+    "entities": {
+      "Ort": "Querdenken Versenken Afd",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Querdenken Versenken"
+    }
+  },
+  {
+    "file_name": "0224.jpg",
+    "entities": {
+      "Ort": [
+        "SPAZIER STOP Lokal Dezentral Überall + Putinfans GEGEN QUERDENKEN UND RECHTS KASTANIENALLEE/ZIONSKIRCHSTRASSE MONTAG, 28.02. 19 UHR JEDEN MONTAG DEMO No 9 NEUER STANDORT"
+      ]
+    }
+  },
+  {
+    "file_name": "0225.jpg",
+    "entities": {
+      "Ort": "Washingtonplatz BERLINER BÜNDNIS",
+      "Datum": "11.12.21",
+      "Zeit": "14.30",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0226.jpg",
+    "entities": null,
+    "error": "Expecting value: line 2 column 19 (char 20)"
+  },
+  {
+    "file_name": "0227.jpg",
+    "entities": {
+      "Ort": "1070 Wiener Platz",
+      "Datum": "08.03.",
+      "Zeit": "19Uhr",
+      "Kategorie": "Demonstration",
+      "Thema": "Solidarität mit dem Fokus auf Frauenrechte"
+    }
+  },
+  {
+    "file_name": "0228.jpg",
+    "entities": {
+      "Ort": "Ludwigsfelde",
+      "Datum": "19.04.2025",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Gedenkspaziergang",
+      "Thema": "Ehm. Zwangsarbeiter*innen-Lager Großmotorenwerk der Daimler- Benz AG in Ludwigsfelde"
+    }
+  },
+  {
+    "file_name": "0229.jpg",
+    "entities": {
+      "Ort": "N/A",
+      "Datum": "21.12.",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit"
+    }
+  },
+  {
+    "file_name": "0230.jpg",
+    "entities": {
+      "Ort": "RegenbogenCafé",
+      "Datum": "17.04.25",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "PunkRock_Lyrik gegen die Arbeit"
+    }
+  },
+  {
+    "file_name": "0231.jpg",
+    "entities": {
+      "Ort": "Di, 15. APRIL AB 18 UHR IHNESTR",
+      "Datum": "15. April",
+      "Zeit": "18:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0232.jpg",
+    "entities": {
+      "Ort": [
+        "Lohmühle Lohmühlenstraße 17"
+      ],
+      "Datum": [
+        "13.04.25"
+      ],
+      "Zeit": [
+        "15–21 Uhr"
+      ],
+      "Kategorie": [
+        "Diskussion, Basteln, Soli-Merch, Crêpes & Drinks"
+      ],
+      "Thema": [
+        "Solidarität mit"
+      ]
+    }
+  },
+  {
+    "file_name": "0233.jpg",
+    "entities": {
+      "Ort": "U-BERNAUERSTRASSE",
+      "Datum": "05.04.2025",
+      "Zeit": "15:00",
+      "Kategorie": "Demonstration",
+      "Thema": "solidarität mit dem kurdischen Volkes"
+    }
+  },
+  {
+    "file_name": "0234.jpg",
+    "entities": {
+      "Ort": "Wilhelmstr. Berlin",
+      "Datum": "12.04.",
+      "Zeit": "19:00 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit dem Tesla Store Wilhelmstr. Berlin"
+    }
+  },
+  {
+    "file_name": "0235.jpg",
+    "entities": {
+      "Ort": [
+        "Fischladen Rigaerstr. 83"
+      ],
+      "Datum": [
+        "20.12.2025"
+      ],
+      "Zeit": [
+        "20:00 Uhr"
+      ],
+      "Kategorie": [
+        "Kundgebung"
+      ],
+      "Thema": [
+        "Solidarität mit denveteranen"
+      ]
+    }
+  },
+  {
+    "file_name": "0236.jpg",
+    "entities": {
+      "Ort": "Maggie, Frankfurter Allee 205",
+      "Datum": "1. April",
+      "Zeit": "19:00",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0237.jpg",
+    "entities": {
+      "Ort": "Justizzentrum Potsdam Jägerallee 10-12",
+      "Datum": "31. März",
+      "Zeit": "12 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Gegen Racial Profiling und Transmisogynoir!"
+    }
+  },
+  {
+    "file_name": "0238.jpg",
+    "entities": {
+      "Ort": "Cafe U Bernkastelerstr. 78 13088 Berlin",
+      "Datum": "18.00 - 20.00",
+      "Zeit": "19Uhr",
+      "Kategorie": "Open mic",
+      "Thema": "Banden und Themen"
+    }
+  },
+  {
+    "file_name": "0239.jpg",
+    "entities": {
+      "Ort": "VOLKSBÜHNE Wann",
+      "Datum": "24.11.",
+      "Zeit": "21 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit..."
+    }
+  },
+  {
+    "file_name": "0240.jpg",
+    "entities": null,
+    "error": "Expecting value: line 5 column 30 (char 122)"
+  },
+  {
+    "file_name": "0241.jpg",
+    "entities": {
+      "Ort": "Rosa-Luxemburg-Platz 14:30 Uhr",
+      "Datum": "21.12.2020",
+      "Zeit": "19 Uhr",
+      "Kategorie": "Kundgebung",
+      "Thema": "Solidarität mit dem Menschen"
+    }
+  },
+  {
+    "file_name": "0242.jpg",
+    "entities": {
+      "Ort": "Antonplatz KEINEN RAUM DEM III. WEG!",
+      "Datum": "06.10.2024",
+      "Zeit": "13 Uhr",
+      "Kategorie": "Demo",
+      "Thema": "Solidarität mit dem Menschen"
+    }
+  }
+]
