@@ -1,0 +1,25 @@
+# Bytecode und Python-Cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# Virtuelle Umgebungen
+env/
+venv/
+.venv/
+
+# Logs, temporäre Dateien
+*.log
+*.tmp
+
+# Editor-/IDE-spezifisch
+.vscode/
+.idea/
+
