@@ -1,9 +1,9 @@
-## OCR und NER Evaluation bestehender Open Source Modelle
+### OCR und NER Evaluation bestehender Open Source Modelle
 
 Ziel des Projekts war die Evaluation verschiedener OCR- und NER-Modelle 
 hinsichtlich ihrer Leistungsfähigkeit auf einem Datensatz von deutschsprachigen Veranstaltungs-Sharepics.
 
-### Projektstruktur
+#### Projektstruktur
 ```
 ├── data/                            # Bilddaten, Annotionen, Ergebnisse der Evaluation 
 ├── data_preparation/                # Skripte zur Datenvorverarbeitung und Formatkonvertierung  
@@ -15,11 +15,11 @@ hinsichtlich ihrer Leistungsfähigkeit auf einem Datensatz von deutschsprachigen
 ```
 
 
-### Umgebungen
+#### Umgebungen
 
 Zwei getrennte Python-Umgebungen wurden verwendet:
 
-#### 1. `requirements.txt` (allgemeine Umgebung)
+##### 1. `requirements.txt` (allgemeine Umgebung)
 - Für die meisten Notebooks
 - Beinhaltet:
   - spaCy (`spacy==3.8.7`)
@@ -28,7 +28,7 @@ Zwei getrennte Python-Umgebungen wurden verwendet:
   - Weitere Tools für NER, Textanalyse, Visualisierung
 - Läuft stabil mit **Python 3.10**
 
-#### 2. `requirements-flair.txt` (spezielle Umgebung für Flair)
+##### 2. `requirements-flair.txt` (spezielle Umgebung für Flair)
 - Nur für Notebooks, die **Flair** verwenden
 - Gründe: inkompatible `torch`-Versionen
 - Beinhaltet:
@@ -36,7 +36,7 @@ Zwei getrennte Python-Umgebungen wurden verwendet:
   - `easyocr`
 - Empfohlen mit **Python 3.11**
 
-### Nutzung
+#### Nutzung
 
 ```bash
 # Allgemeine Umgebung
