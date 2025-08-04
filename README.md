@@ -5,13 +5,13 @@ hinsichtlich ihrer Leistungsfähigkeit auf einem Datensatz von deutschsprachigen
 
 ### Projektstruktur
 ```
-├── data/                     # Bilddaten und Annotationen (Sharepics, Labels)  
-├── data_preparation/        # Skripte zur Datenvorverarbeitung und Formatkonvertierung  
-├── image_dataset_overview.ipynb  # Visuelle Übersicht und Analyse des Datensatzes  
-├── notebooks/               # Experimente und Evaluationen (OCR, NER)  
-├── requirements.txt         # Allgemeine Umgebung (SpaCy, Tesseract, OCR)  
-├── requirements-flair.txt   # Separate Umgebung für Flair (Torch-kompatibel)  
-├── utils/                   # Hilfsfunktionen, z. B. für Evaluation oder Visualisierung  
+├── data/                            # Bilddaten, Annotionen, Ergebnisse der Evaluation 
+├── data_preparation/                # Skripte zur Datenvorverarbeitung und Formatkonvertierung  
+├── image_dataset_overview.ipynb     # Visuelle Übersicht und Analyse des Datensatzes  
+├── notebooks/                       # Experimente und Evaluationen (OCR, NER)  
+├── requirements.txt                 # Allgemeine Umgebung  
+├── requirements-flair.txt           # Separate Umgebung für Flair (Torch-kompatibel)  
+├── utils/                           # Hilfsfunktionen, z. B. für Evaluation oder Visualisierung  
 ```
 
 
