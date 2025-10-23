@@ -11,7 +11,7 @@ hinsichtlich ihrer Leistungsfähigkeit auf einem Datensatz von deutschsprachigen
 ├── notebooks/                       # Experimente und Evaluationen (OCR, NER)  
 ├── requirements.txt                 # Allgemeine Umgebung  
 ├── requirements-flair.txt           # Separate Umgebung für Flair (Torch-kompatibel)  
-├── utils/                           # Hilfsfunktionen für Berechnung von WER/CER , Zeilen-Machting etc.  
+├── utils/                           # Hilfsfunktionen für Berechnung von WER/CER, Zeilen-Machting etc.  
 ```
 
 
