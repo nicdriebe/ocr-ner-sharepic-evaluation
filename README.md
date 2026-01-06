@@ -2,7 +2,7 @@
 
 This repository contains the source code and evaluation framework for my **Bachelor's Thesis**. The project benchmarks various open-source models for Optical Character Recognition (OCR) and Named Entity Recognition (NER) specifically applied to German-language "sharepics".
 
-## 📌 Project Overview
+## Project Overview
 In modern communication, visual content like **event sharepics** (images with embedded text) has become a crucial medium for political engagement, public mobilization, and social movements. Unlike standardized internet memes, these sharepics vary significantly in layout, typography, and background complexity, making automated information extraction a significant challenge for traditional systems.
 
 ### Motivation & Goals
