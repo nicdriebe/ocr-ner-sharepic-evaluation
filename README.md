@@ -1,15 +1,20 @@
-# Evaluation of Open-Source OCR and NER Models on German Event Sharepics 
+# Evaluation of Open-Source OCR and NER Models on German Social Media Event Sharepics
 
-This repository contains the source code and evaluation framework for my **Bachelor's Thesis**. The project focuses on benchmarking various open-source models for Optical Character Recognition (OCR) and Named Entity Recognition (NER) specifically applied to German-language event "sharepics" (social media announcement images).
+This repository contains the source code and evaluation framework for my **Bachelor's Thesis**. The project benchmarks various open-source models for Optical Character Recognition (OCR) and Named Entity Recognition (NER) specifically applied to German-language "sharepics".
 
-## Project Overview
-Event sharepics present unique challenges for automated information extraction due to complex layouts, diverse typography, and noisy backgrounds. This research evaluates the performance of state-of-the-art open-source tools in extracting relevant event metadata (e.g., dates, locations, titles).
+## 📌 Project Overview
+In modern communication, visual content like **event sharepics** (images with embedded text) has become a crucial medium for political engagement, public mobilization, and social movements. Unlike standardized internet memes, these sharepics vary significantly in layout, typography, and background complexity, making automated information extraction a significant challenge for traditional systems.
 
-* **Objective:** Benchmark OCR and NER pipelines for German event announcements.
-* **Dataset:** German-language event sharepics from various social media channels.
-* **Evaluation Strategy:** To isolate the performance of the extraction models, **NER and LLM evaluations were conducted on Ground Truth text**. This ensures that the results reflect the models' natural language understanding independently of OCR-related errors.
-* **Key Focus:** Accuracy (WER/CER, F1-Score) and robustness against complex layouts and diverse typography.
+### Motivation & Goals
+* **Social Relevance:** Information on protest actions or campaigns remains largely inaccessible to automated analysis. This project aims to bridge this gap for NGOs, researchers, and civil society initiatives.
+* **Open Source & Privacy:** Instead of relying on proprietary, high-cost, or privacy-invasive vision-language models, this work evaluates **resource-efficient open-source alternatives**.
+* **Objective:** Benchmark the reliability of OCR and NER models in extracting metadata (titles, locations, dates) to derive requirements for a software solution that runs on **limited hardware** (CPU-based).
 
+### Key Research Questions
+1. How reliably can open-source models extract structured information from heterogeneous sharepic layouts?
+2. What are the requirements for a resource-efficient software solution for automated social media monitoring?
+
+---
 
 ## Evaluated Models
 
