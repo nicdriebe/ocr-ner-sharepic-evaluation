@@ -52,6 +52,8 @@ Systematic error analysis focusing on:
 ├── requirements.txt     # General environment (spaCy, Tesseract, etc.)
 └── requirements-flair.txt # Flair-specific environment (PyTorch-compatible)
 
+---
+
 ### Environments & Setup
 
 Due to conflicting torch dependencies, this project uses two separate Python environments:
