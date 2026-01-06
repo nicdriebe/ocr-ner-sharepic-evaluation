@@ -57,8 +57,8 @@ Systematic error analysis focusing on:
 
 Due to conflicting torch dependencies, this project uses two separate Python environments:
 
-**1. General Environment** (requirements.txt)
-    **Use case:** Tesseract, EasyOCR, spaCy, and general analysis.
+**1. General Environment** (requirements.txt)  
+    **Use case:** Tesseract, EasyOCR, spaCy, and general analysis.  
     **Python Version:** 3.10 (recommended)
 
 ```bash
@@ -67,8 +67,8 @@ python -m spacy download de_core_news_lg
 python -m spacy download de_core_news_md
 ```
 
-**2. Flair Environment** (requirements-flair.txt)
-    **Use case:** Exclusively for Flair notebooks.
+**2. Flair Environment** (requirements-flair.txt)  
+    **Use case:** Exclusively for Flair notebooks.  
     **Python Version:** 3.11 (recommended)
 
 ```bash
