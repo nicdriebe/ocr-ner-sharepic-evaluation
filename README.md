@@ -51,7 +51,7 @@ Systematic error analysis focusing on:
 ├── utils/               # Helper functions for Levenshtein matching, WER/CER
 ├── requirements.txt     # General environment (spaCy, Tesseract, etc.)
 └── requirements-flair.txt # Flair-specific environment (PyTorch-compatible)
-``````-
+```
 
 ### Environments & Setup
 
@@ -65,14 +65,15 @@ Due to conflicting torch dependencies, this project uses two separate Python env
 pip install -r requirements.txt
 python -m spacy download de_core_news_lg
 python -m spacy download de_core_news_md
+```
 
-2. Flair Environment (requirements-flair.txt)
-    Use case: Exclusively for Flair notebooks.
-    Python Version: 3.11 (recommended)
+**2. Flair Environment** (requirements-flair.txt)
+    **Use case:** Exclusively for Flair notebooks.
+    **Python Version:** 3.11 (recommended)
 
 ```bash
 pip install -r requirements-flair.txt
-
+```
 
 ## Bachelor's Thesis
 Developed as part of my Bachelor's degree at **[HTW Berlin - University of Applied Science]**.
@@ -83,34 +84,3 @@ Developed as part of my Bachelor's degree at **[HTW Berlin - University of Appli
 ---
 License: [MIT]
 
-
-
-#### Umgebungen
-
-Zwei getrennte Python-Umgebungen wurden verwendet:
-
-##### 1. `requirements.txt` (allgemeine Umgebung)
-- Für die meisten Notebooks
-- Beinhaltet:
-  - spaCy (`spacy==3.8.7`)
-  - OCR mit Tesseract (`pytesseract`)
-  - `easyocr`
-  - Weitere Tools für NER, Textanalyse, Visualisierung
-- Läuft stabil mit **Python 3.10**
-
-##### 2. `requirements-flair.txt` (spezielle Umgebung für Flair)
-- Nur für Notebooks, die **Flair** verwenden
-- Gründe: inkompatible `torch`-Versionen
-- Beinhaltet:
-  - `flair==0.15.1`
-  - `easyocr`
-- Empfohlen mit **Python 3.11**
-
-#### Nutzung
-
-```bash
-# Allgemeine Umgebung
-pip install -r requirements.txt
-
-# Flair-Umgebung
-pip install -r requirements-flair.txt
