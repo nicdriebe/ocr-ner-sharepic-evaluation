@@ -1,4 +1,4 @@
-# Evaluation of Open-Source OCR and NER Models on German Social Media Event Sharepics 
+# Evaluation of Open-Source OCR and NER Models on German Event Sharepics 
 
 This repository contains the source code and evaluation framework for my **Bachelor's Thesis**. The project focuses on benchmarking various open-source models for Optical Character Recognition (OCR) and Named Entity Recognition (NER) specifically applied to German-language event "sharepics" (social media announcement images).
 
