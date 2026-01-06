@@ -45,14 +45,13 @@ Systematic error analysis focusing on:
 
 ### Repository Structure
 ```text
-├── data/                # Images, annotations, and evaluation results
+├── data/                # Images, annotations, evaluation results
 ├── data_preparation/    # Scripts for preprocessing and format conversion
 ├── notebooks/           # OCR, NER, and LLM experiment notebooks
 ├── utils/               # Helper functions for Levenshtein matching, WER/CER
 ├── requirements.txt     # General environment (spaCy, Tesseract, etc.)
 └── requirements-flair.txt # Flair-specific environment (PyTorch-compatible)
-
----
+``````-
 
 ### Environments & Setup
 
