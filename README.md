@@ -101,7 +101,7 @@ pip install -r requirements-flair.txt
 ```
 ---
 ## Bachelor's Thesis
-Developed as part of my Bachelor's degree at **[HTW Berlin - University of Applied Science]**.
+Developed as part of my Bachelor's degree at **HTW Berlin - University of Applied Science**.
 * **Author:** Nicole Driebe
 * **Supervisors:** Prof. Dr. Helena Mihaljevic, Elisabeth Steffen
 * **Date:** 2025
