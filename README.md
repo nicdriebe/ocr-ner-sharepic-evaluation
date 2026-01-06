@@ -24,7 +24,7 @@ The images were collected from public social media channels (primarily Instagram
 * **Fancy:** Unusual or decorative fonts (54 images).
 * **Skewed:** Tilted, vertical, or distorted text (31 images).
 * **Noisy:** Complex backgrounds or overlapping graphic elements (30 images).
-* **Photo:** Real-world photographs of posters and flyers (23 images).
+* **Photo:** Real-world photographs of posters and flyers (20 images).
 
 ### Ground Truth & Annotation
 * **Text Ground Truth:** Generated via a multi-step process involving OCR-assistance (ChatGPT-4o) followed by rigorous manual correction to ensure 100% accuracy in spelling and line structure.
