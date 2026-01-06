@@ -14,8 +14,28 @@ In modern communication, visual content like **event sharepics** (images with em
 1. How reliably can open-source models extract structured information from heterogeneous sharepic layouts?
 2. What are the requirements for a resource-efficient software solution for automated social media monitoring?
 
----
+--- 
+## Dataset
+Since no suitable dataset was available, a custom collection of **200 German event sharepics** was curated and manually annotated for this thesis.
 
+### Data Collection & Diversity
+The images were collected from public social media channels (primarily Instagram and Telegram) of cultural institutions and NGOs. The dataset covers a wide spectrum of design styles, categorized by visual complexity:
+* **Simple:** Clear layout, horizontal text, high contrast (65 images).
+* **Fancy:** Unusual or decorative fonts (54 images).
+* **Skewed:** Tilted, vertical, or distorted text (31 images).
+* **Noisy:** Complex backgrounds or overlapping graphic elements (30 images).
+* **Photo:** Real-world photographs of posters and flyers (23 images).
+
+### Ground Truth & Annotation
+* **Text Ground Truth:** Generated via a multi-step process involving OCR-assistance (ChatGPT-4o) followed by rigorous manual correction to ensure 100% accuracy in spelling and line structure.
+* **Entity Annotation:** Manual span-level annotation of five categories:
+  * `EVENT`: Type of event (e.g., "Kundgebung", "Tanz Demo").
+  * `TOPIC`: Slogan or theme (e.g., "Gemeinsam gegen Gewalt").
+  * `DATE` / `TIME`: Temporal information.
+  * `LOC`: Granular location data (streets, cities, venues).
+* **Format:** Data is provided in **JSON and CSV** formats, including character offsets (start/end positions) for precise NER evaluation.
+
+---
 ## Evaluated Models
 
 ### OCR Engines
